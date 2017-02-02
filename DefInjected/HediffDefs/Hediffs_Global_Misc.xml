@@ -58,6 +58,10 @@
 
 	<Pregnant.label>妊娠</Pregnant.label>
 	<rep>
+		<path>Pregnant.comps[0].discoverLetterText</path>
+		<trans>{0} は妊娠した！</trans>
+	</rep>
+	<rep>
 		<path>Pregnant.stages[0].label</path>
 		<trans>自覚なし</trans>
 	</rep>
