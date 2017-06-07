@@ -29,14 +29,14 @@
     <Equip.reportString>TargetA を装備中</Equip.reportString>
 
 	<TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
-	
-	<GiveToPackAnimal.reportString>taking TargetA.</GiveToPackAnimal.reportString>
+
+	<GiveToPackAnimal.reportString>TargetA を積み込んだ</GiveToPackAnimal.reportString>
 
     <!--============= Misc ============-->
     <Wear.reportString>TargetA 着ている</Wear.reportString>
 
 	<RemoveApparel.reportString>TargetA 脱いでいる</RemoveApparel.reportString>
-	
+
 	<DropEquipment.reportString>TargetA を除装している</DropEquipment.reportString>
 
     <Strip.reportString>TargetA を剥がしている</Strip.reportString>
