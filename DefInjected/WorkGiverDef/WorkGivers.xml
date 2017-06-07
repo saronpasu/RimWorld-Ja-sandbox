@@ -11,12 +11,14 @@
 	<!-- ============= PatientEmergency ============= -->
 
 	<PatientGoToBedEmergency.label>救命処置を受けるために\nベッドに行く</PatientGoToBedEmergency.label>
+	<PatientGoToBedEmergency.verb>の治療</PatientGoToBedEmergency.verb>
+	<PatientGoToBedEmergency.gerund>の治療を受ける</PatientGoToBedEmergency.gerund>
 
   <!-- ============= Doctor ============= -->
 
-	<DoctorTreatEmergency.label>救命処置を施す</DoctorTreatEmergency.label>
-	<DoctorTreatEmergency.verb>を治療</DoctorTreatEmergency.verb>
-	<DoctorTreatEmergency.gerund>を治療する</DoctorTreatEmergency.gerund>
+	<DoctorTendEmergency.label>救命処置を施す</DoctorTendEmergency.label>
+	<DoctorTendEmergency.verb>を看護治療</DoctorTendEmergency.verb>
+	<DoctorTendEmergency.gerund>を看護治療する</DoctorTendEmergency.gerund>
 
 	<DoctorRescue.label>倒れた仲間を救う</DoctorRescue.label>
 	<DoctorRescue.verb>を緊急搬送</DoctorRescue.verb>
@@ -26,19 +28,31 @@
 	<DoBillsMedicalHumanOperation.verb>を手術する</DoBillsMedicalHumanOperation.verb>
     <DoBillsMedicalHumanOperation.gerund>を手術する</DoBillsMedicalHumanOperation.gerund>
 
-	<DoctorTreat.label>処置を施す</DoctorTreat.label>
-	<DoctorTreat.verb>を処置</DoctorTreat.verb>
-	<DoctorTreat.gerund>を処置する</DoctorTreat.gerund>
+	<DoctorTendToHumanlikes.label>看護する</DoctorTendToHumanlikes.label>
+	<DoctorTendToHumanlikes.verb>を看護</DoctorTendToHumanlikes.verb>
+	<DoctorTendToHumanlikes.gerund>を看護する</DoctorTendToHumanlikes.gerund>
+
+    <DoctorTendToSelf.label>自己治療する</DoctorTendToSelf.label>
+    <DoctorTendToSelf.verb>を自己治療</DoctorTendToSelf.verb>
+    <DoctorTendToSelf.gerund>自己治療する</DoctorTendToSelf.gerund>
 
 	<!-- ============= Cleaning ============= -->
 
-	<DoctorFeed.label>患者に食事を与える</DoctorFeed.label>
-	<DoctorFeed.verb>に食事を与える</DoctorFeed.verb>
-	<DoctorFeed.gerund>に食事を与える</DoctorFeed.gerund>
+	<DoctorFeedHumanlikes.label>患者に食事を与える</DoctorFeedHumanlikes.label>
+	<DoctorFeedHumanlikes.verb>に食事を与える</DoctorFeedHumanlikes.verb>
+	<DoctorFeedHumanlikes.gerund>に食事を与える</DoctorFeedHumanlikes.gerund>
 
   <DoBillsMedicalAnimalOperation.label>手術を行う</DoBillsMedicalAnimalOperation.label>
   <DoBillsMedicalAnimalOperation.verb>を手術する</DoBillsMedicalAnimalOperation.verb>
   <DoBillsMedicalAnimalOperation.gerund>を手術する</DoBillsMedicalAnimalOperation.gerund>
+
+    <DoctorTendToAnimals.label>看護する</DoctorTendToAnimals.label>
+    <DoctorTendToAnimals.verb>を看護する</DoctorTendToAnimals.verb>
+    <DoctorTendToAnimals.gerund>を看護する</DoctorTendToAnimals.gerund>
+
+    <DoctorFeedAnimals.label>給餌する</DoctorFeedAnimals.label>
+    <DoctorFeedAnimals.verb>を給餌する</DoctorFeedAnimals.verb>
+    <DoctorFeedAnimals.gerund>を給餌する</DoctorFeedAnimals.gerund>
 
 	<TakeToBedToOperate.label>手術をするためベッドへ連れてゆく</TakeToBedToOperate.label>
 	<TakeToBedToOperate.verb>を手術する</TakeToBedToOperate.verb>
@@ -138,10 +152,6 @@
 
   <!-- ============= Construction ============= -->
 
-  <DoBillsMedicalMechanoidOperation.label>メカノイドを修理</DoBillsMedicalMechanoidOperation.label>
-  <DoBillsMedicalMechanoidOperation.verb>を修理する</DoBillsMedicalMechanoidOperation.verb>
-    <DoBillsMedicalMechanoidOperation.gerund>を修理する</DoBillsMedicalMechanoidOperation.gerund>
-
 	<FixBrokenDownBuilding.label>修理</FixBrokenDownBuilding.label>
 	<FixBrokenDownBuilding.verb>のコンポーネントを交換する</FixBrokenDownBuilding.verb>
 	<FixBrokenDownBuilding.gerund>のコンポーネントを交換する</FixBrokenDownBuilding.gerund>
@@ -235,13 +245,17 @@
 	<DoBillsSculpt.gerund>で彫刻する</DoBillsSculpt.gerund>
 
   <!-- ============= Crafting ============= -->
+    <DoBillsMedicalMechanoidOperation.label>メカノイドを修理</DoBillsMedicalMechanoidOperation.label>
+    <DoBillsMedicalMechanoidOperation.verb>を修理する</DoBillsMedicalMechanoidOperation.verb>
+    <DoBillsMedicalMechanoidOperation.gerund>を修理する</DoBillsMedicalMechanoidOperation.gerund>
+
 	<DoBillsUseCraftingSpot.label>手工芸加工</DoBillsUseCraftingSpot.label>
 	<DoBillsUseCraftingSpot.verb>を加工する</DoBillsUseCraftingSpot.verb>
 	<DoBillsUseCraftingSpot.gerund>を加工する</DoBillsUseCraftingSpot.gerund>
-	
-	<DoBillsRefinery.label>works at refinery</DoBillsRefinery.label>
-	<DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
-	<DoBillsRefinery.gerund>refine chemicals at</DoBillsRefinery.gerund>
+
+	<DoBillsRefinery.label>精製する</DoBillsRefinery.label>
+	<DoBillsRefinery.verb>を精製する</DoBillsRefinery.verb>
+	<DoBillsRefinery.gerund>を精製する</DoBillsRefinery.gerund>
 
 	<DoBillsProduceDrugs.label>ドラッグ製造</DoBillsProduceDrugs.label>
 	<DoBillsProduceDrugs.verb>を製造する</DoBillsProduceDrugs.verb>
@@ -257,13 +271,17 @@
 
   <!-- ============= Hauling ============= -->
 
-	<UnloadCarriers.label>unload carriers</UnloadCarriers.label>
-	<UnloadCarriers.verb>unload</UnloadCarriers.verb>
-	<UnloadCarriers.gerund>unloading</UnloadCarriers.gerund>
+	<UnloadCarriers.label>荷下ろし</UnloadCarriers.label>
+	<UnloadCarriers.verb>を荷下ろしする</UnloadCarriers.verb>
+	<UnloadCarriers.gerund>を荷下ろしする</UnloadCarriers.gerund>
 
-  <LoadTransporters.label>load transporters</LoadTransporters.label>
-  <LoadTransporters.verb>load</LoadTransporters.verb>
-  <LoadTransporters.gerund>loading</LoadTransporters.gerund>
+  <LoadTransporters.label>荷積み</LoadTransporters.label>
+  <LoadTransporters.verb>を積む</LoadTransporters.verb>
+  <LoadTransporters.gerund>を積む</LoadTransporters.gerund>
+
+	<HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
+	<HelpGatheringItemsForCaravan.verb>load</HelpGatheringItemsForCaravan.verb>
+	<HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
 
 	<Strip.label>剥く</Strip.label>
 	<Strip.verb>を剥く</Strip.verb>
@@ -302,6 +320,8 @@
 	<TakeBeerOutOfFermentingBarrel.gerund>から汲み出す</TakeBeerOutOfFermentingBarrel.gerund>
 
 	<FillFermentingBarrel.label>ビア樽を満たす</FillFermentingBarrel.label>
+	<FillFermentingBarrel.verb>を満たす</FillFermentingBarrel.verb>
+	<FillFermentingBarrel.gerund>を満たす</FillFermentingBarrel.gerund>
 
 	<HaulGeneral.label>運搬</HaulGeneral.label>
 	<HaulGeneral.verb>を運ぶ</HaulGeneral.verb>

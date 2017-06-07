@@ -7,6 +7,7 @@
     <HumanlikeToddler.label>幼児</HumanlikeToddler.label>
     <HumanlikeChild.label>少年</HumanlikeChild.label>
     <HumanlikeTeenager.label>青年</HumanlikeTeenager.label>
+    <HumanlikeTeenager.adjective>青年</HumanlikeTeenager.adjective>
     <HumanlikeAdult.label>大人</HumanlikeAdult.label>
 
     <EusocialInsectLarva.label>幼生</EusocialInsectLarva.label>
@@ -14,6 +15,7 @@
     <EusocialInsectAdult.label>成虫</EusocialInsectAdult.label>
 
     <AnimalBaby.label>幼児</AnimalBaby.label>
+    <AnimalBabyTiny.label>幼児</AnimalBabyTiny.label>
     <AnimalJuvenile.label>幼獣</AnimalJuvenile.label>
     <AnimalAdult.label>成獣</AnimalAdult.label>
 

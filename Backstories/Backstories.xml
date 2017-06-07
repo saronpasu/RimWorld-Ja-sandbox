@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BackstoryTranslations>
 	<ColonySettler43>
-		<title>コロニー植民者</title>
-		<titleShort>植民者</titleShort>
-		<desc>NAMEは 新しいコロニーの入植者でした。
+		<title>コロニー入植者</title>
+		<titleShort>入植者</titleShort>
+		<desc>NAMEは、新しいコロニーの入植者でした。
 
-コロニーでの生活には、土方を必要としています。</desc>
+このような生活では、基礎的な作業を実践できる、何でも屋を必要としています。</desc>
 	</ColonySettler43>
 	<MedievalFarmOaf58>
 		<title>中世の未就学児</title>
-		<titleShort>Oaf</titleShort>
+		<titleShort>未就学児</titleShort>
 		<desc>耕し、草むしり、牛車を引き、手押し車を押し、水路を掘り、種を蒔き、収穫を予測する。
 
-中世の農夫はたいてい教育を受けていませんが、彼らはテクノロジーが無くても、作物を育てることについて、たくさんの事を知っています。本質的に知識を必要とすること、テクノロジーを主体とした活動ができないので、このような生活はそういった事を置き去りにしています。</desc>
+中世の農夫はたいてい教育を受けていませんが、彼らは、テクノロジーに頼らずに作物を育てる方法を、たくさん知っています。ですから、このような生活は、もともと、知的な物や、テクノロジーに依存した物と、関わる事を出来ないままとさせています。</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
 		<title>中世の貴族</title>
 		<titleShort>貴族</titleShort>
-		<desc>NAMEは、産業革命前記の貴族でした。HECAPは、貴族の集まる所に行っては、手下を操り、まさに激論を交わすことを多々覚えました。
+		<desc>NAMEは、産業革命前期世界の貴族でした。HECAPは、貴族の集まるパーティに行っては、手下を操り、激論を交わすことさえも身につけました。
 
 HECAPの、ひ弱な手は、最後までワークツールを持ちつづけることが出来ません。HECAPは、手作業をすることが、HIMには、相応しくないと考えています。</desc>
 	</MedievalLord20>
@@ -25,67 +25,74 @@ HECAPの、ひ弱な手は、最後までワークツールを持ちつづける
 		<title>Urbworldの経営者</title>
 		<titleShort>経営者</titleShort>
 		<desc>Urbworldは、もっとも苦難な所です。それより誰かが、会社を経営しなければなりません。
-NAMEは、トレードスキル(不正な取引や、テクニカルアナリシス)を学んでいました。HECAPは、社会インテリマシーンです。</desc>
+
+NAMEは、トレードスキル(不正な取引や、テクニカルアナリシス)を身につけました。HECAPは、社会インテリマシーンです。</desc>
 	</UrbworldEntrepreneur55>
 	<DeepSpaceMiner11>
 		<title>外宇宙の鉱夫</title>
 		<titleShort>鉱夫</titleShort>
-		<desc>NAMEは、外宇宙空間に存在する小惑星上に建てられた掘削リグで、汗を流し、垢にまみれて、鉱物を掘削する作業に従事していました。HECAPは、毎日、HIS 実践的な工業スキルを使っていました ? 酒場で酔っ払って殴りあうよりましでした</desc>
+		<desc>NAMEは、外宇宙空間に存在する小惑星上に建てられた掘削リグで、汗を流し、垢にまみれて、鉱物を掘削する作業に従事していました。HECAPは、毎日、HIS実践的な工業スキルを使っていました - 酒場で酔っ払って殴りあうよりましでした</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
 		<title>海軍科学者</title>
 		<titleShort>科学者</titleShort>
-		<desc>星間戦争はテクノロジーの差により勝敗がきまるので、帝国海軍は最新技術の研究に余念がありません。さらに良いことには、彼らが星系で見つけてきた、並外れたアーティファクトにどこよりも早くアクセスできたことでした。NAMEは、海軍の研究所で働いていました。</desc>
+		<desc>恒星間戦争はテクノロジーの差により勝敗がきまるので、帝国海軍は最新技術の研究に余念がありません。さらに良いことには、彼らが星系で見つけてきた、並外れたアーティファクトにどこよりも早くアクセスできたことでした。
+
+NAMEは、海軍の研究所で働いていました。</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
 		<title>政治将校</title>
 		<titleShort>政治将校</titleShort>
-		<desc>NAMEは、帝国陸軍師団に配属された内偵でした。HECAPは、兵が忠実であるか、命令に背いて逃げ出さないか、目を光らせていました。このことは、HIM 嫌われ者にしましたが、いっぽう、HEは、わずかな嘘も見破る卓越したスキルを得ました。</desc>
+		<desc>NAMEは、帝国陸軍師団に配属された内偵でした。HECAPは、兵が忠実であるか、命令に背いて逃げ出さないか、目を光らせていました。このことは、HIM嫌われ者にしましたが、いっぽう、HEは、わずかな嘘も見破る卓越したスキルを得ました。</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
 		<title>宙賊</title>
 		<titleShort>宙賊</titleShort>
-		<desc>政府の目の届かない、辺境なところならどこでも海賊行為が発生します。NAMEは、遙か昔から続く、この一員で、金の為に貿易船を破壊しては強奪していました。</desc>
+		<desc>政府の目の届かない辺境な所ならどこでも、海賊行為が発生します。NAMEは、人類が誕生してから続く、この一員で、金の為に貿易船を破壊しては強奪していました。</desc>
 	</SpacePirate69>
 	<PitBrawler20>
 		<title>剣闘士</title>
 		<titleShort>剣闘士</titleShort>
 		<desc>NAMEは、9歳の時に初陣を経験しました。HECAPは勝ち、さらに重要なことは、HIS観客たちを歓喜させたことでした。剣闘士という職業は、生きて残る限り、とても金になることがわかりました。そして、ほとんどの場合、自分の地位を表すことにもなりました。</desc>
 	</PitBrawler20>
-	<IllegalShipwright79>
+	<IllegalShipwright28>
 		<title>ヤミ造船工</title>
 		<titleShort>造船工</titleShort>
 		<desc>"カーゴシップに、テラワット級ガンマレーザーを装備してはならない"と法律で決められています。特別に、もしそれを、通信機器のように秘匿して装備すれば、待ち伏せにもってこいの可能性があります。NAMEは、その方法を見つけ、このような法律に無関心な人々の為に製造して、大金を手にしました。</desc>
-	</IllegalShipwright79>
+	</IllegalShipwright28>
 	<Courtesean56>
 		<title>売春婦</title>
 		<titleShort>売春婦</titleShort>
-		<desc>NAMEは、幾つもの星系の、売春宿で100人もの客をとって、その身体で稼いできました。HECAPは、いくつもの精神的特徴と、特別な渡世術を得ました。</desc>
+		<desc>NAMEは、幾つもの星系の売春宿で、100人もの客をとって、その身体で稼いできました。HECAPは、いくつもの精神的特徴と、特別な渡世術を得ました。</desc>
 	</Courtesean56>
 	<SpaceMarine10>
 		<title>航宙海兵隊</title>
 		<titleShort>海兵隊</titleShort>
-		<desc>NAMEは、帝国海軍の軍人でした。HISCAP仕事は、敵船に強襲乗船し、制圧して、船のコントロールを奪うことでした。HEは優れていました。</desc>
+		<desc>NAMEは、帝国海軍の軍人でした。HISCAP任務は、敵船に強襲乗船し、クルーを制圧して、船のコントロールを奪うことでした。HEは、その任務に優れていました。</desc>
 	</SpaceMarine10>
 	<Assassin35>
 		<title>アサシン</title>
 		<titleShort>アサシン</titleShort>
-		<desc>NAMEは、暗殺者のプロフェッショナルでした。HECAPは非情で、抜け目がなかったので、素晴らしい恩恵をうけました。この商売は、絶対的に感情が欠落した者のほうに価値があります。</desc>
+		<desc>NAMEは、暗殺のプロフェッショナルでした。HECAPは、非情で抜け目が無い事の、素晴らしい恩恵をうけました。この商売は、感情が欠落した者に、絶対的な価値があります。</desc>
 	</Assassin35>
 	<MedievalSlave75>
 		<title>中世の奴隷</title>
 		<titleShort>奴隷</titleShort>
-		<desc>NAMEは、Medieval世界の、荷馬車を引き、穴を掘る生活の中で育ちました。単純手作業は、HIS最古の友人です - 主人に打たれる鞭と共に。HECAPは、9歳になるまで読み書きを習いませんでした。</desc>
+		<desc>NAMEは、MedievalWorldで、荷馬車を引き、穴を掘る生活の中で育ちました。単純手作業は、HIS最古の友人です - 主人に打たれる鞭と共に。
+
+HECAPは、9歳になるまで読み書きを習いませんでした。</desc>
 	</MedievalSlave75>
 	<MedievalLordling62>
 		<title>中世の小君主</title>
 		<titleShort>小君主</titleShort>
-		<desc>NAMEは、Medieval世界の古い王国で、二流の貴族でした。HECAPは、石造りの邸宅で、下層階級の召使いの世話を受けて育ちました。このような生活では、何も専門的なスキルを学ぶことも無く、生涯、手作業などを嫌がることが染み付きます - いっぽう、NAMEは、早いうちから、人を操る術を学びました。</desc>
+		<desc>NAMEは、Medieval世界の古い王国で、二流の貴族でした。HECAPは、石造りの邸宅で、下層階級の召使いの世話を受けて育ちました。
+
+このような生活では、何も専門的なスキルを学ぶことも無く、生涯、手作業などを嫌がることが、染み付いています - いっぽう、NAMEは、早いうちから、人を操る術を学びました。</desc>
 	</MedievalLordling62>
 	<UrbworldUrchin46>
 		<title>Urbworldのガキ</title>
 		<titleShort>小僧</titleShort>
-		<desc>Urbworlds - 古の、荘重な工業型都市風景は、人類と汚染で溢れんばかりです。NAMEは、都市の奥底で育ち、その地から離れようとは思いませんでした。HECAPは、一片の食い物のために、争う日々を送っていました。</desc>
+		<desc>Urbworlds - 古の、荘重な工業型都市風景は、人類と汚染で溢れんばかりです。NAMEは、都市の奥底で育ち、その地から離れようとは思いませんでした。HECAPは、あらゆる一片の食い物のために、戦わなければなりませんでした。</desc>
 	</UrbworldUrchin46>
 	<VatgrownSoldier83>
 		<title>Vatgrownの兵士</title>
@@ -95,7 +102,7 @@ NAMEは、トレードスキル(不正な取引や、テクニカルアナリシ
 	<Hermit87>
 		<title>隠者</title>
 		<titleShort>隠者</titleShort>
-		<desc>人間関係の軋轢に疲れ切ってしまった NAMEは、広々とした場所での素朴な生活をおくる為に、ごみごみとしたmidworldの街を離れました。HEは生きていくのに必要な簡素なツールを作ったり、HIS庭の手入れをしたりして、生涯を独りで過ごしました。</desc>
+		<desc>人間関係の軋轢に疲れ切ってしまったNAMEは、広々とした場所での素朴な生活を送る為に、ごみごみとしたMidworldの街を離れました。HEは生きていくのに必要な、簡素なツールを作ったり、HIS庭の手入れをしたりして、生涯を独りで過ごしました。</desc>
 	</Hermit87>
 	<MidworldChef39>
 		<title>Midworldのシェフ</title>
@@ -112,7 +119,7 @@ NAMEは、トレードスキル(不正な取引や、テクニカルアナリシ
 		<titleShort>吟遊詩人</titleShort>
 		<desc>NAMEは、中世時代を渡り歩くエンターテイナーでした。
 
-HECAPは常に語り継ぐ話を探しつつ、詩を歌い、道行く危険から己れを守る能力があります。けれども、重労働を終えたときはいつも、HECAPは目立ってぼんやりとしていました。</desc>
+HECAPは常に語り継ぐ話を探したいと思いつつ、詩を歌っていました、また、道行く危険から己れを守る能力があります。けれども、重労働を終えたときはいつも、HECAPは目立ってぼんやりとしていました。</desc>
 	</MedievalMinstrel69>
 	<Housemate5>
 		<title>主婦/主夫</title>
@@ -122,19 +129,19 @@ HECAPは常に語り継ぐ話を探しつつ、詩を歌い、道行く危険か
 	<GlitterworldEmpath39>
 		<title>Glitterworldエンパス</title>
 		<titleShort>エンパス</titleShort>
-		<desc>NAMEは、他人の心を読めて、争い事を仲裁することができる、信じられない能力を持っていました。HECAPは、エンパスとして訓練を受ける道を選びました。訓練でHIS能力は強められましたが、しかし、HEは、他人を傷つけるような事が出来なくなりました。</desc>
+		<desc>NAMEは、他人の心が読めて、争い事を仲裁することができる、信じられない能力を持っていました。HECAPは、エンパスとして訓練を受ける道を選びました。訓練でHIS能力は強められましたが、しかし、HEは、他人を傷つけるような事が出来なくなりました。</desc>
 	</GlitterworldEmpath39>
 	<ShelterChild65>
 		<title>シェルターチルドレン</title>
 		<titleShort>シェルタキッド</titleShort>
-		<desc>NAMEは、Toxic worldの地下深くにあるシェルターで育ちました。HECAPは、総合的な教育を受けましたが、肉体労働をする機会には恵まれませんでした。</desc>
+		<desc>NAMEは、Toxicworldの地下深くにあるシェルターで育ちました。HECAPは、総合的な教育を受けましたが、肉体労働をする機会には恵まれませんでした。</desc>
 	</ShelterChild65>
 	<MedievalDoctor6>
 		<title>中世の医者</title>
 		<titleShort>ニセ医者</titleShort>
 		<desc>NAMEは、中世時代の惑星において医者として働いていました。HICAPは、ほとんどの軽い病気などは、ほんの少しの瀉血で、治すことができると固く信じていました。
 
-HECAPは、また麻酔医長でもあり、頭部へ麻酔の影響を及ぼす特別な手法を開発しています。</desc>
+HECAPは、また麻酔医長でもあり、頭部への打撃によって行う、特別な手法を開発しています。</desc>
 	</MedievalDoctor6>
 	<Inventor42>
 		<title>発明家</title>
@@ -144,19 +151,19 @@ HECAPは、また麻酔医長でもあり、頭部へ麻酔の影響を及ぼす
 	<Teacher24>
 		<title>教師</title>
 		<titleShort>教師</titleShort>
-		<desc>NAMEは、教養学科で身につけ、学校で教鞭をとっていました。HECAPは、HIS教え子からは、幅広い知識がいっぱい詰まっている人と思われています。</desc>
+		<desc>NAMEは、一般教養課程で教育を受け、公立学校で教鞭をとっていました。HECAPは、HIS教え子から、幅広い知識がいっぱい詰まっている人と思われ、好感を持たれています。</desc>
 	</Teacher24>
 	<IndustrialOrphan55>
 		<title>工業世界の孤児</title>
 		<titleShort>孤児</titleShort>
-		<desc>NAMEは自分の親の事を知りません。HISCAP幼少の記憶には、鉱山での苦役と、HISの工業世界の養護施設でのことしかありません。
+		<desc>NAMEは自分の親の事を知りません。HISCAP幼少の記憶には、鉱山での苦役と、HIS工業世界の養護施設の事しかありません。
 
 これが理由で、HEは正式な教育を受けていませんでした。</desc>
 	</IndustrialOrphan55>
 	<Scout67>
 		<title>偵察員</title>
 		<titleShort>偵察員</titleShort>
-		<desc>小さな帝国から派遣された植民地の、行政官の家に生まれたNAMEは、青少年向けの軍事的偵察スキルを学ぶ機関に入学させられました。
+		<desc>帝国から、小さな植民地に派遣された、行政官の家に生まれたNAMEは、青少年向けの軍事的偵察スキルを学ぶ機関に入学させられました。
 
 HECAPは、荒野で生き残る方法、服従すること、疑問を持たないことを学びました。</desc>
 	</Scout67>
@@ -172,7 +179,7 @@ HECAPは、荒野で生き残る方法、服従すること、疑問を持たな
 		<titleShort>怯え</titleShort>
 		<desc>NAMEは、恐怖症やら神経症やらの、長々とした詳細な病名リストと共に育ちました。HECAPは、中でも、医者と、食品を媒介する病原体を怖がりました。
 
-その結果、HEは 料理と体調の自己管理法を学びましたが、数あるHIS恐怖対象は、大人になっても HIM悩ませました。</desc>
+その結果、HEは料理と体調の自己管理法を学びましたが、数あるHIS恐怖対象は、大人になっても HIM悩ませました。</desc>
 	</FrightenedChild6>
 	<ConceptualArtist7>
 		<title>概念芸術家</title>
@@ -238,7 +245,7 @@ HECAPは、臭いの違いで洞窟の中を行き来できるぐらいに、岩
 	<CivilServant75>
 		<title>公務員</title>
 		<titleShort>事務員</titleShort>
-		<desc>NAMEは、 無くなりかけてる政府の官僚組織の下っ端役人として働いていました。HECAPは、家では複雑な書類を書き上げるのに殆どを費やし、職場では人間関係の駆け引きをしています。</desc>
+		<desc>NAMEは、腐敗した政府の官僚組織の下っ端役人として働いていました。HECAPは、家では複雑な書類を書き上げるのに殆どを費やし、職場では人間関係の駆け引きをしています。</desc>
 	</CivilServant75>
 	<OrganFarm9>
 		<title>臓器ファーム</title>
@@ -255,12 +262,12 @@ HECAPは、庭で野菜を育てたり、修道院の地下室でチーズを作
 	<EscapedConvict68>
 		<title>脱獄犯</title>
 		<titleShort>脱獄犯</titleShort>
-		<desc>NAMEは、犯罪に関わった事を否認しましたが、ひどい流刑植民地の牢獄行きとなりました。HECAPは、手を加えたスプーンやフォークを使って、周辺の地下にトンネルを掘って脱出しました。</desc>
+		<desc>NAMEは、犯罪に関わった事を否認しましたが、ひどい流刑植民地の牢獄行きとなりました。HECAPは、手を加えたスプーンやフォークを使って、地下にトンネルを掘って脱出しました。</desc>
 	</EscapedConvict68>
 	<StarshipJanitor15>
 		<title>恒星船乗務員</title>
 		<titleShort>乗務員</titleShort>
-		<desc>他の乗客が、冷凍睡眠装置で眠りながら恒星間を行き来している間、NAMEは定期的な間隔で点検や、航法装置の確認、メカノイドへ潤滑油を注す為に起きなければなりませんでした。</desc>
+		<desc>他の乗客が、冷凍睡眠装置で眠りながら恒星間を行き来している間、NAMEは定期間隔で点検や、航法装置の確認、メカノイドへ潤滑油を注す為に起きなければなりませんでした。</desc>
 	</StarshipJanitor15>
 	<Pyromaniac68>
 		<title>放火魔</title>
@@ -272,24 +279,24 @@ HECAPは、庭で野菜を育てたり、修道院の地下室でチーズを作
 	<Mute55>
 		<title>失語症</title>
 		<titleShort>失語症</titleShort>
-		<desc>NAMEは、HIS人生の早い時期に、トラウマとなるイベントによって強い影響を受けました。数年に渡って、HEは人に対して話さなくなり、その代わりに、家の中で飼っているペットと遊ぶようになりました。</desc>
+		<desc>NAMEは、HIS人生の早い時期に、トラウマとなるイベントから強い影響を受けました。数年に渡って、HEは人に対して話さなくなり、その代わりに、家の中で飼っているペットと遊ぶようになりました。</desc>
 	</Mute55>
-	<Refugee70>
-		<title>難民</title>
+	<WarRefugee70>
+		<title>戦争難民</title>
 		<titleShort>難民</titleShort>
-		<desc>戦争がNAMEの家を打ち壊した時、HEは赤ん坊でした。HISCAP両親は、どこでも安全な場所へ、HEと共に逃げました。NAMEの初期の記憶は、身の守り方を教わったものでした。
+		<desc>戦争がNAMEの母星を滅ぼした、HEがまだ赤ん坊の頃だった。HISCAPの両親は、彼らが安心して暮らせる場所を探しに、HIM連れて逃げ出した。NAMEの幼いころの記憶は、自分で自分の身を守る方法を教えてもらったことでした。
 
-暴力と破壊を目のあたりにしたので、生涯に渡って、それを恐れるようになりました。</desc>
-	</Refugee70>
+暴力と破壊を目のあたりにした事が、HIM人生に傷を残した。</desc>
+	</WarRefugee70>
 	<MusicLover26>
 		<title>音楽好き</title>
 		<titleShort>ミュージシャン</titleShort>
-		<desc>小さい頃、NAMEは、楽曲を演奏したり、歌を唄うことに憧れていました。HECAPは、専門的な指導を受け、コンサートやリサイタルを開くのが好きでした。だけれども、惜しみのない賞賛は、HEを自己中心的な人物にさせました。</desc>
+		<desc>小さい頃、NAMEは、楽曲を演奏したり、歌を唄うことに憧れていました。HECAPは、専門的な指導を受け、コンサートやリサイタルを開くのが好きでした。だけれども、惜しみのない賞賛が、HEを自己中心的な人物にさせました。</desc>
 	</MusicLover26>
 	<ChildStar51>
 		<title>人気子役</title>
 		<titleShort>人気者</titleShort>
-		<desc>NAMEは、テレビや映画の子役として、HISの世界全体にわたり良く知られていました。HISCAP名声は、HIMを様々な違うタイプの人と接触させるだけでなく、HIS教育方針についても口を挟む結果を招きました。</desc>
+		<desc>NAMEは、テレビや映画の子役として、HIS世界全体にわたり良く知られていました。HISCAP名声は、HIM様々な違ったタイプの人物と接触させるだけでなく、HIS教育方針についても口を挟む結果を招きました。</desc>
 	</ChildStar51>
 	<ChildSpy95>
 		<title>子供のスパイ</title>
@@ -315,25 +322,25 @@ HISCAP年齢で敵地に侵入し、戦争で破壊されたHIS世界の本質�
 		<titleShort>家政婦</titleShort>
 		<desc>HEが成人したての頃、NAMEは誘拐され、富裕な貴族に家政婦として売られました。
 
-HECAPは、HIS主人が住む邸宅の、キッチンや間取りを良く把握しましたが、家の外には一切だされませんでした。</desc>
+HECAPは、HIS主人が住む邸宅の、キッチンや間取りを良く把握しましたが、一切家の外には出してもらえませんでした。</desc>
 	</HouseServant78>
 	<Bodyguard22>
 		<title>ボディガード</title>
 		<titleShort>ボディガード</titleShort>
-		<desc>Midworldで、NAMEは金を払ってくれた者を、危害を加える者から守る職業に従事していました。HECAPは、多くの格闘術に長け、HEの邪魔をする者には、無慈悲で容赦ないことが、良く知られていました。</desc>
+		<desc>Midworldで、NAMEは、金を払ってくれた者を、危害を加える者から守る職業に従事していました。HECAPは、多くの格闘術に長け、HEの邪魔をする者には、無慈悲で容赦ないことが、良く知られていました。</desc>
 	</Bodyguard22>
 	<Novelist96>
 		<title>小説家</title>
 		<titleShort>小説家</titleShort>
 		<desc>NAMEは、Glitterworldの住民で、すごく売れる小説を書いています。HECAPは気ままに生き、昼間は小説に没頭し、夜はパーティに明け暮れています...この生活スタイルから雑用はしません。</desc>
 	</Novelist96>
-	<Mathematician46>
+	<Mathematician18>
 		<title>数学者</title>
-		<titleShort>数学者</titleShort>
-		<desc>NAMEは、大学で数学を研究していました。
+		<titleShort>数学教授</titleShort>
+		<desc>NAMEは大学で数学の研究をしていました。
 
-HECAPは、空き時間のほとんどを、FPSをすることに没頭していました。そのせいで、しばしば他のプレイヤーから、HISの鬼エイムが、チートだと繰り返し中傷を受けていました。</desc>
-	</Mathematician46>
+HECAPは、余暇のほとんどの時間をシューティングシミュレータに没頭していましたが、けれども、HEは、他のプレイヤーから鬼エイムを、繰り返し冷やかされていました。</desc>
+	</Mathematician18>
 	<Paramedic85>
 		<title>救急隊員</title>
 		<titleShort>救急隊員</titleShort>
@@ -351,7 +358,7 @@ HISCAPサバイバルスキルは研ぎ澄まされましたが、長い間、�
 	<Gardener25>
 		<title>庭師</title>
 		<titleShort>庭師</titleShort>
-		<desc>工業世界では、富は、自社工場を持ち商品を売る人の手に集中します。NAMEは、このような富裕家族のマンションで、使用人達の一部として贅沢な庭の手入れをする仕事をしていました。</desc>
+		<desc>工業世界では、富は、自分の工場を持ち商品を売る人の手に集中します。NAMEは、このような富裕家族のマンションで、使用人達の一人として贅沢な庭の手入れをする仕事をしていました。</desc>
 	</Gardener25>
 	<MafiaBoss49>
 		<title>マフィアのボス</title>
@@ -380,14 +387,14 @@ HISCAPは仕事が忙しく、外食ばかりしていたので、HEは料理を
 	<CharityWorker80>
 		<title>ボランティア</title>
 		<titleShort>ボランティア</titleShort>
-		<desc>Glitterworldは、ここに住めるラッキーな人々に、天国のような安心と快適さを提供しますが、NAMEは、人々が貧困に喘いでいる近くの惑星を、無視できませんでした。HECAPは、自分の時間を使って、必要としている人たちへの寄付と援助を訴えています。</desc>
+		<desc>Glitterworldは、ここに住めるラッキーな人々に、天国のような安心と快適さを提供しますが、NAMEは、人々が貧困に喘いでいる、近くの惑星を無視できませんでした。HECAPは、自分の時間を使って、必要としている人たちへの寄付と援助を訴えています。</desc>
 	</CharityWorker80>
 	<Defector59>
 		<title>亡命者</title>
 		<titleShort>亡命者</titleShort>
 		<desc>成人になって、間もない頃に、NAMEは、HEが住んでいる圧政的な独裁政権国から亡命することを決めました。HISCAP国外逃亡は、歓迎されず、HIM追って諜報員が出動しました。
 
-HECAPは、一年もの間追手の目を逃れ、怪我も、医者がHIM裏切るかもしれないので、自分自身で治してきました。辛い経験は、HIM人を信じない人間にしました。</desc>
+HECAPは、一年もの間、追手の目を逃れ、怪我すらも、医者がHIM裏切るかもしれないので、自分自身で治してきました。辛い経験がHIM、人を信じない人間にしました。</desc>
 	</Defector59>
 	<FactoryWorker82>
 		<title>ライン工</title>
@@ -414,7 +421,7 @@ HECAPは、あらゆる雑作業をすることをせず、代わりに他の誰
 	<Taxonomist49>
 		<title>分類学者</title>
 		<titleShort>分類学者</titleShort>
-		<desc>NAMEは、恒星間を旅しながら、図鑑を完成させる事を期待して、HEが見つけた動植物の、分類や学習をしています。</desc>
+		<desc>NAMEは、恒星間を旅しながら、作成している大図鑑の中に見つけた、動植物の分類や学習をしています。</desc>
 	</Taxonomist49>
 	<Geologist2>
 		<title>地質学者</title>
@@ -431,24 +438,24 @@ HECAPは、あらゆる雑作業をすることをせず、代わりに他の誰
 	<TestSubject75>
 		<title>実験体</title>
 		<titleShort>実験体</titleShort>
-		<desc>最も悪質なUrbworldでは、倫理基準の欠けた科学者が、 口にするのも恐ろしい極悪な名称の研究をおこなった。NAMEは、産まれてから、HIM完璧なスーパーソルジャーに変貌させるのに必要な、多様な実験を行うため、封印された施設の中に、一人だけで隔離されていた。</desc>
+		<desc>最も悪質なUrbworldでは、倫理基準の欠けた科学者が、 口にするのも恐ろしい極悪な名称の研究を行いました。NAMEは、産まれてから、HIM完璧なスーパーソルジャーに変貌させるのに必要な、多様な実験を行うため、封印された施設の中に、一人だけで隔離されていました。</desc>
 	</TestSubject75>
 	<MedicalAssistant75>
 		<title>看護師</title>
 		<titleShort>看護師</titleShort>
-		<desc>NAMEは、両軍共に広範囲においてナパーム弾をを使用した、破滅的な戦争のさなかに産まれました。HECAPは、親が開院している診療所で、戦場で負ったゾッとする火傷の治療を手伝いながら育ちました。HECAPを、一生涯、火は怖がっていました。</desc>
+		<desc>NAMEは、両軍共に広範囲にナパーム弾を使用した、破滅的な戦争のさなかに産まれました。HECAPは、親が開院している診療所で、戦場で負ったゾッとする火傷の治療を手伝いながら育ちました。HECAPを、一生涯、火を怖がっていました。</desc>
 	</MedicalAssistant75>
 	<CultChild15>
 		<title>カルト教団の児童</title>
 		<titleShort>カルト児童</titleShort>
-		<desc>NAMEは、最新の科学を遠ざけ、「全ての病は、聖なるアートを通した魂の浄化によって治癒されるだろう」と信じている、強大なカルト教の中に産まれました。
+		<desc>NAMEは、最新の科学を遠ざけ、「全ての病は、聖なるアートを通した魂の浄化によって治癒されるだろう」と信じている強大なカルト教の中で産まれました。
 
-初めて、外の世界をひと目見てから、HEは、脱会することに決めました。</desc>
+外の世界を、初めて、ひと目見てからは、HEは、脱会することに決めました。</desc>
 	</CultChild15>
 	<WreckageExplorer75>
 		<title>難破船漁り</title>
 		<titleShort>探検者</titleShort>
-		<desc>NAMEが生まれる二世代前に起きた、世紀末的な最終戦争が、HIS母星を無秩序な乱世に引きずり込みました。NAMEは、HIS部族が飼う群れを、見張る仕事が課せられてましたが、しばしば、HIS任務を放りだして、難破して惑星上に散り散りになった宇宙船を探検していました。</desc>
+		<desc>NAMEが生まれる二世代前に起きた、世紀末的な最終戦争が、HIS母星を無秩序な乱世に引きずり込みました。NAMEは、HIS部族が飼う群れを、世話する仕事が課せられてましたが、しばしば、HIS役務を放りだして、惑星上に散り散りになった難破宇宙船を探検していました。</desc>
 	</WreckageExplorer75>
 	<ApocalypseSurvivor86>
 		<title>世紀末からの生存者</title>
@@ -468,49 +475,49 @@ HECAPは、あらゆる雑作業をすることをせず、代わりに他の誰
 	<Jailbird93>
 		<title>常習犯</title>
 		<titleShort>常習犯</titleShort>
-		<desc>NAMEは、HIS人生の、ほとんどを囚人として過ごし、HEは、調理係に割り当てられていました。HECAPは、ケンカに夢中になりやすく、攻撃的な口調の癖がありました。</desc>
+		<desc>NAMEは、HIS人生の、ほとんどを囚人として過ごし、HEは、炊事係に割り当てられていました。HECAPは、ケンカに夢中になりやすく、攻撃的な口調の癖がありました。</desc>
 	</Jailbird93>
 	<Actor76>
 		<title>俳優</title>
 		<titleShort>俳優</titleShort>
-		<desc>NAMEは、HIS母星で俳優仲間と旅して、満員の舞台で演劇をして、どこにいっても観客達を魅了していました。HECAPは完璧主義者で、小道具、衣装は、HEに与えられた物ではなくて、自分で作っていました</desc>
+		<desc>NAMEは、HIS母星で俳優仲間と旅しながら、どこに行っても、満員の舞台で演劇をして、観客達を魅了していました。HECAPは完璧主義者で、小道具、衣装は、HEに与えられた物ではなくて、自分で作っていました</desc>
 	</Actor76>
 	<Tactician22>
 		<title>戦術家</title>
 		<titleShort>戦術家</titleShort>
-		<desc>NAMEは、大規模な惑星間戦争と背中合わせの不安定な中、宇宙軍に属していました。HECAPは、戦闘のために知性を鋭くして出動し、熟練した命令を繰り出して、巨大な的に対して大きな戦果を上げました。</desc>
+		<desc>NAMEは、大規模な惑星間戦争と背中合わせの不安定な中、宇宙軍に属していました。HECAPは、戦闘のために知性を鋭くして出動し、熟練した命令を繰り出して、巨大な敵に対して大きな戦果を上げました。</desc>
 	</Tactician22>
 	<GlitterworldOfficer93>
 		<title>Glitterworld士官</title>
 		<titleShort>士官</titleShort>
-		<desc>Glitterworldは平和的な世界とはいうものの、彼らは、依然として戦争前夜のままである。NAME部隊が実際に作戦行動をとっているのは希です。
+		<desc>Glitterworldは平和的な世界とは言うものの、彼らは、依然として戦争前夜のままでした。NAMEの部隊が実際に作戦行動をとっているのは希でした。
 
 HEは、 芸術的な趣味を追い求めてるけれども、HIS部下が、格闘技で楽しませてくれる事を好み、NAMEは戦いを面白がっています。</desc>
 	</GlitterworldOfficer93>
 	<Taster35>
 		<title>毒味係</title>
 		<titleShort>毒味係</titleShort>
-		<desc>中世世界の王の毒味役として、王の食卓にならぶ、全ての料理は、NAMEによって確かめられています。HECAPは、退廃的な生活様式の王宮にすみ、ほんの少しの仕事をして、太っています。</desc>
+		<desc>中世世界の王の毒味役として、王の食卓に並ぶ全ての料理は、NAMEによって確かめられています。HECAPは、退廃的な生活様式の王宮にすみ、ほんの少しの仕事をして、太っています。</desc>
 	</Taster35>
 	<BiosphereManager30>
 		<title>生体管理者</title>
 		<titleShort>植物学者</titleShort>
-		<desc>NAMEは、つまらない作業はロボットがやってくれ、人々はレジャーに明け暮れる、平和なGlitterworldに住んでいました。HECAPは、不規則に広がった公園で、市民が動植物の自然の美を眺められるように、管理をしていました。</desc>
+		<desc>NAMEは、つまらない作業はロボットが行い、人々はレジャーに明け暮れる平和なGlitterworldに住んでいました。HECAPは、市民が、不規則に広がった公園で、動植物の自然の美を眺められるように管理をしていました。</desc>
 	</BiosphereManager30>
 	<Veterinarian19>
 		<title>獣医</title>
 		<titleShort>獣医</titleShort>
-		<desc>NAMEは、生計の為に、病気や怪我をした動物を治療しています。それらの苦しむ姿は、肉を食べる事についてのHIS姿勢に影響し、数年後、HEは菜食主義者として生き、HISの母星での肉食習慣を拒否しています。</desc>
+		<desc>NAMEは、生計の為に、病気や怪我をした動物を治療しています。それらの苦しむ姿は、肉を食べる事についてのHIS姿勢に影響し、数年後、HEは菜食主義者として生き、HIS母星での肉食習慣を拒否しています。</desc>
 	</Veterinarian19>
 	<ExplosivesExpert30>
 		<title>爆発物のプロ</title>
 		<titleShort>発破工</titleShort>
-		<desc>NAMEは、採掘業者に雇われた、爆破技術者でした。HECAPは、HIS仕事に対して非常に真面目で、技術的にも精通していました - そういう訳で、HEは、HEが注意深く計算して爆発させた、後始末を手伝うような品位を落とす事は拒否しました。</desc>
+		<desc>NAMEは、採掘業者に雇われた爆破技術者でした。HECAPは、HIS仕事に対して非常に真面目で、技術的にも精通していました - そういう訳で、HEは、HEが注意深く計算して爆発させた、後始末を手伝うような品位を落とす事は拒否しました。</desc>
 	</ExplosivesExpert30>
 	<Counselor20>
 		<title>カウンセラー</title>
 		<titleShort>カウンセラー</titleShort>
-		<desc>NAMEが重大の若者だったときの恐ろしいトラウマが、HIMに過食症を引き起こしました。カウンセリングで、HEは、食べ物との健全な関係を学び、HEは、感情に基づいた問題に打ち勝つ手助けをする事に、HIS新しいスキルを使うことに決めました。</desc>
+		<desc>NAMEが10代の若者だった時の恐ろしいトラウマが、HIM過食症にしました。カウンセリングで、HEは、食べ物との健全な関係を学び、HEは、感情に基づいた問題に打ち勝つ手助けをする事に、HIS新しいスキルを使うことに決めました。</desc>
 	</Counselor20>
 	<Recruiter51>
 		<title>採用係</title>
@@ -522,7 +529,7 @@ HECAPは、HIS母星内を旅行し、HEが会った若者で、トレーニン�
 	<PsychiatricPatient28>
 		<title>精神病患者</title>
 		<titleShort>患者</titleShort>
-		<desc>NAMEは、ほとんどのHIS成人後の生活を、狂った精神病院で過ごしていました。HIS産業革命世界は、精神病への理解が少なく、HEは、人というよりは、動物に近い処置を受けていました。
+		<desc>NAMEは、成人後の生活のほとんどを、精神病院で過ごしていました。HIS産業革命世界は、精神病への理解が少なく、HEは、人というよりは、動物に近い処置を受けていました。
 
 だけれども、HEは結局の所、回復し出院させられましたが、基本的な生活するためのスキルが欠けていました。</desc>
 	</PsychiatricPatient28>
@@ -556,19 +563,19 @@ HECAPは、たまには、ベストセラー小説に取り組んでいました
 	<Sculptor16>
 		<title>彫刻家</title>
 		<titleShort>彫刻家</titleShort>
-		<desc>NAMEは、人と同じくらいのかたまりの石を削ることから始めました、すぐにもっと大きな物に手を出し始めました。掘削ロボットと一緒に、HECAPは、鋭利な側面に緩やかに傾斜をつける方法を学びました。直ぐに、HEが住んでいるGlitterworldの自然公園に、その大きな彫刻が置かれました。</desc>
+		<desc>NAMEは、人と同じくらいの塊の石を削ることから始めました、すぐにもっと大きな物に手を出し始めました。掘削ロボットと一緒に、HECAPは、鋭利な側面に緩やかに傾斜をつける方法を学びました。直ぐに、HEが住んでいるGlitterworldの自然公園に、その大きな彫刻が置かれました。</desc>
 	</Sculptor16>
 	<MachineCollector23>
 		<title>機械収集家</title>
 		<titleShort>コレクター</titleShort>
-		<desc>NAMEは、古い機械や、神秘的なテクノロジーの破片に取り付かれました。HECAPは、HEが出来るなら、どんな場合でも、それを手に入れ、そして、手にとって、どうやって動いていたのか考えることが好きでした。
+		<desc>NAMEは、古い機械や、神秘的なテクノロジーの破片に取り憑かれました。HECAPは、HEが出来るなら、どんな場合でも、それを手に入れ、そして、手にとって、どうやって動いていたのか考えることが好きでした。
 
 HEは、HISコレクションについて話すとき、聞き手が嫌になるまで、話し続ける癖がありました。</desc>
 	</MachineCollector23>
 	<Sheriff37>
 		<title>保安官</title>
 		<titleShort>保安官</titleShort>
-		<desc>NAMEは、隔離された工場城下町の保安官でした。HECAPは、威張った態度をとる、意地の悪い奴として知られていました。HECAPは、金、酒、復讐がらみでなければ、そんなにまでして逮捕する事を拒みました。</desc>
+		<desc>NAMEは、隔離された工場城下町の保安官でした。HECAPは、威張った態度をとる意地の悪い奴として知られていました。HECAPは、金、酒、復讐がらみでなければ、そんなにまでして逮捕する事を拒みました。</desc>
 	</Sheriff37>
 	<ConArtist96>
 		<title>詐欺師</title>
@@ -578,14 +585,14 @@ HEは、HISコレクションについて話すとき、聞き手が嫌になる
 	<Gatherer34>
 		<title>採集家</title>
 		<titleShort>採集家</titleShort>
-		<desc>NAMEは収集の達人です。HECAPは、HISの植物への深い知識を使って、ほとんど作物のできない土地でも、根や、ベリーなどの食べ物を見つける事ができます。</desc>
+		<desc>NAMEは収集の達人です。HECAPは、HIS植物への深い知識を使って、ほとんど作物のできない土地でも、根や、ベリーなどの食べ物を見つける事ができます。</desc>
 	</Gatherer34>
 	<Loner43>
 		<title>隠遁</title>
 		<titleShort>隠遁</titleShort>
-		<desc>孤独を愛する者は、蛮族の組織や、年に一度のお祭りなど、好むはずがありません。HECAPは、開けた平原で、独り、風が岩の間を通り抜ける音に耳を傾けることを選びます。
+		<desc>孤独を愛する者は、蛮族の組織や、年に一度のお祭りなどを、好むはずがありません。HECAPは、開けた平原で独り、風が岩の間を通り抜ける音に耳を傾けることを選びます。
 
-HECAPは、時々、HISの部族を訪ねますが、しかし、主として、HIS自身のサバイバルスキルを使い、自身の健康に気をつけています。</desc>
+HECAPは、時々、HIS部族を訪ねますが、しかし、主として、HIS自身のサバイバルスキルを使い、自身の健康に気をつけています。</desc>
 	</Loner43>
 	<AbandonedChild27>
 		<title>捨て子</title>
@@ -595,12 +602,12 @@ HECAPは、時々、HISの部族を訪ねますが、しかし、主として、
 	<ReclusiveChild87>
 		<title>隠遁児</title>
 		<titleShort>隠遁児</titleShort>
-		<desc>NAMEは、HEが5歳くらいになるまで、言葉を身につけなかったし、その歳になっても、そのままで居続ける方を選んでいました。HEが10代前半になったとき、HEは村を出て、何週間も荒野の中を彷徨うようになりました。</desc>
+		<desc>NAMEは、HEが5歳くらいになるまで、言葉を身につけず、その歳になっても、そのままで居続ける方を選んでいました。HEが10代前半になったとき、HEは村を出て、何週間も荒野の中を彷徨うようになりました。</desc>
 	</ReclusiveChild87>
 	<Herder89>
 		<title>牛飼い</title>
 		<titleShort>牛飼い</titleShort>
-		<desc>小さい頃、NAMEは部族で飼っているマッファローの群れを世話をし、彼らを盗賊から守り、病に侵されないよう面倒をみていました。地味で目立たない仕事だけど、HEは、人々と距離を置けることを楽しんでいました。</desc>
+		<desc>小さい頃、NAMEは部族で飼っているマッファローの群れを世話をし、それらを盗賊から守ったり、病に侵されないよう面倒をみていました。地味で目立たない仕事だけど、HEは、人々と距離を置けることを楽しんでいました。</desc>
 	</Herder89>
 	<Scavenger86>
 		<title>スカベンジャー</title>
@@ -622,15 +629,15 @@ HECAPは、時々、HISの部族を訪ねますが、しかし、主として、
 		<titleShort>復讐</titleShort>
 		<desc>小さい頃、NAMEは、盗賊によって、皆殺しにあったHIS村で見つけられ生還しました。HECAPは、荒野に渡って暴れ回り、復讐することを誓いました。</desc>
 	</VengefulChild49>
-	<FireTender4>
-		<title>火の番人</title>
-		<titleShort>火番</titleShort>
-		<desc>HISがガキの頃、NAMEは、火種の番をする責任を負っていました。HECAPは、非常に真面目に、この責任をこなしていました。</desc>
-	</FireTender4>
+	<FireKeeper85>
+		<title>火番人</title>
+		<titleShort>火番人</titleShort>
+		<desc>NAMEは、火種を守る責任を持っていました。HECAPは、この責務を非常に真面目にこなしてきました。</desc>
+	</FireKeeper85>
 	<Healer89>
 		<title>ヒーラー</title>
 		<titleShort>ヒーラー</titleShort>
-		<desc>襲撃で年長のヒーラーが殺された以降、NAMEは、その後を継ぎました。HECAPは、驚くような治療効果を持った、薬草や、無機化合物を探し求める日々を過ごしていました。</desc>
+		<desc>襲撃で年長のヒーラーが殺されてから、NAMEは、その後を継ぎました。HECAPは、驚くような治療効果を持った、薬草や、無機化合物を探し求める日々を過ごしていました。</desc>
 	</Healer89>
 	<Scout93>
 		<title>スカウト</title>
@@ -645,7 +652,7 @@ HECAPは、時々、HISの部族を訪ねますが、しかし、主として、
 	<MuffaloShaman94>
 		<title>マッファロシャーマン</title>
 		<titleShort>シャーマン</titleShort>
-		<desc>HIS 聡明な賢さと、大きな肉体のせいで、NAMEは、マッファローの群れを追う、遊牧蛮族のシャーマンになりました。</desc>
+		<desc>HIS聡明な賢さと、大きな体躯のせいで、NAMEは、マッファローの群れを追う、遊牧蛮族のシャーマンになりました。</desc>
 	</MuffaloShaman94>
 	<LoreKeeper35>
 		<title>伝承者</title>
@@ -655,7 +662,7 @@ HECAPは、時々、HISの部族を訪ねますが、しかし、主として、
 	<Weaver90>
 		<title>機織り名人</title>
 		<titleShort>機織り名人</titleShort>
-		<desc>NAMEは、HIS親族のため、植物由来の天然色素で、マッファロ毛を綺麗に染め上げて服にしたてるエキスパートでした。HISCAP美しい手作りの品は、地域の蛮族の間で、なんども取引されていました。</desc>
+		<desc>NAMEは、HIS親族のため、植物由来の天然色素で、マッファロ毛を綺麗に染め上げて服にしたてるエキスパートでした。HISCAP美しい手作りの品は、地域の蛮族の間で、いくつも取引されていました。</desc>
 	</Weaver90>
 	<CaveTender26>
 		<title>隠れ家の世話人</title>
@@ -672,19 +679,19 @@ HECAPは、時々、HISの部族を訪ねますが、しかし、主として、
 		<titleShort>部族</titleShort>
 		<desc>NAMEは部族の中で育ち、村の中を駆け回り、マッファローと共に暮らし、HIS親から生活の為の技術を学びました。
 
-HECAPは古代の遺跡以外での機械は見たことも聞いたこともありません。</desc>
+HECAPは古代の遺跡以外で、機械を見たことも聞いたこともありません。</desc>
 	</TribeChild78>
 	<FallenProdigy22>
 		<title>堕ちた神童</title>
 		<titleShort>神童</titleShort>
-		<desc>NAMEは混沌としたglitterworldで生まれ落ちました。HISCAP父は戦死しました。
+		<desc>NAMEは混沌としたglitterworldに生まれ落ちました。HISCAP父は戦死しました。
 
-HECAPはUtmaior大学の奨学金とそこに在籍する正しさの証明のために奮闘しました。その神童たるHEは孤児院の子としてイジメを受け、友達を作ることが出来ませんでした。</desc>
+HECAPはUtmaior大学の奨学金と、そこに在籍するに値するかを証明するために奮闘しました。その神童たるHEは孤児院の子としてイジメを受け、友達を作ることが出来ませんでした。</desc>
 	</FallenProdigy22>
 	<MadScientist28>
 		<title>マッドサイエンティスト</title>
 		<titleShort>科学者</titleShort>
-		<desc>CallosIX事件で彼の行った非人道的実験の生存者が公表したせいで、亡命せざる負えず彼の生涯の仕事は奪われました。NAMEは"外縁"で生き残るすべを学んでいます。
+		<desc>CallosIX事件において、彼が行った非人道的実験の生存者が暴露したせいで、彼は亡命せざるをえず、生涯の仕事も奪われました。NAMEは"Rimworld"で生き残るすべを学んでいます。
 
 彼はうんざりしたので、何も失うことなく彼の研究を続けるために、目的を実行するための子分を作りました。</desc>
 	</MadScientist28>
@@ -734,40 +741,16 @@ HECAPはUtmaior大学の奨学金とそこに在籍する正しさの証明の�
 		<titleShort>デザイナー</titleShort>
 		<desc>Keesの芸術的表現への関心は彼をデザイナーへと導きました。彼の目敏さは惑星でそこそこ有名なアーティストまで押し上げるほどでしたが、彼の綿密さは作品の完璧を求めるために多くの時間を費やすことがたびたびありました。</desc>
 	</GraphicDesigner99>
-	<Aristocrat7>
-		<title>貴族階級</title>
-		<titleShort>貴族階級</titleShort>
-		<desc>貴族の家系で生まれたNevは、若い時代を幸せな無知で過ごしました。彼は飽き性だったので、彼の興味を引くものは一切ありませんでした。
-
-しかし運命は、彼の生活をどうとでも変えられるのです。世界大戦が起こり、核は惑星の表面を放射性ガラスに溶かし変えました。</desc>
-	</Aristocrat7>
-	<WastelandRuffian93>
-		<title>荒れ地の無法者</title>
-		<titleShort>ろくでなし</titleShort>
-		<desc>生き残りとは日々の生活との戦いでした。大抵の食料は半分腐った動物で出来ていて、水は空気から凝縮しなければいけませんでした。生き残るために、Nevは機略に富むようになりました。
-
-OrdoHistoriaの監視者が彼の世界を偶然見つけ、彼を救いました。</desc>
-	</WastelandRuffian93>
 	<UrbworldHooligan8>
 		<title>Urbworldのチンピラ</title>
 		<titleShort>チンピラ</titleShort>
-		<desc>NAMEは危険なurbworldで育ちました。彼は早々に学びました…犯罪を犯せば日々の糧を得られることを。このような手段は料理や生育の考え方を捨てるのに十分でした。</desc>
+		<desc>NAMEは危険なurbworldで育ちました。HEは早々に学びました…犯罪を犯せば日々の糧を得られることを。このような手段は、料理や生育の考え方を捨てるのに十分でした。</desc>
 	</UrbworldHooligan8>
 	<SpaceTechnician89>
 		<title>宇宙技術者</title>
 		<titleShort>技術者</titleShort>
-		<desc>NAMEは近くの宇宙ステーションのメンテナンスの仕事についたことで、やっとの思いでようやく犯罪生活から逃げ出せました。彼は重複する修理と建設の業務を行いました。彼は基礎的な研究活動にも参加していて、同僚たちの議論を鎮めていました。彼は芸術的なことは決してしませんでした。</desc>
+		<desc>NAMEは、近くの宇宙ステーションで、メンテナンスの仕事に就くことになり、やっとの思いでようやく犯罪生活から逃げ出せました。彼は重複する修理と建設の業務を行いました。彼は基礎的な研究活動にも参加していて、同僚たちの議論を鎮めていました。彼は芸術的なことは決してしませんでした。</desc>
 	</SpaceTechnician89>
-	<TragicTwin21>
-		<title>悲劇的な双子</title>
-		<titleShort>双子</titleShort>
-		<desc>Caligariは幼い頃から水に惹かれていて、出来る限り水の中で過ごしていました。彼の双子が水の中へ引きずり込まれ、そして生きて戻りませんでした。Caligariは水へ二度と戻りませんでした。</desc>
-	</TragicTwin21>
-	<SpaceTraveler4>
-		<title>宇宙旅行者</title>
-		<titleShort>宙旅者</titleShort>
-		<desc>Caligariは家を背にし旅立ち、星々へ向かいました。彼は惑星から惑星へ仕事して回り、道行く先々で見つけられた仕事はどんな仕事でも受けて、船に居続けることはめったにありませんでした。ついに大型船を手に入れ、寡黙ですが優秀なクルーも徐々に増えていきました。</desc>
-	</SpaceTraveler4>
 	<IndworldUrchin11>
 		<title>Indworldの悪ガキ</title>
 		<titleShort>悪ガキ</titleShort>
@@ -778,18 +761,6 @@ OrdoHistoriaの監視者が彼の世界を偶然見つけ、彼を救いまし�
 		<titleShort>浮浪者</titleShort>
 		<desc>NAMEは、掘削リグの掃除をしながら、別世界のテクノロジーが詰まった地下室を開けることをしていました。HEは、知らず知らずのうちに、惑星上の全ての生物を浄化してしまう最終兵器の引き金を引いてしまっていました。他人の人生より、これらのテクノロジーに興味を持ったので、HEは、地下室にあった宇宙船に乗り込み、さらに遺物を探す為に出発しました。</desc>
 	</DoomsdayPariah26>
-	<Dreamer99>
-		<title>Dreamer</title>
-		<titleShort>Dreamer</titleShort>
-		<desc>彼の父親が、よく居なくなるようになって以来、NAMEは、家の中で父親代わりをしていました。彼は、勤勉の重要性を、わかるようになりましたが、普通の子供と同じようには過ごせませんでした。</desc>
-	</Dreamer99>
-	<PirateSurveyor66>
-		<title>略奪者の鑑定人</title>
-		<titleShort>鑑定人</titleShort>
-		<desc>Geotekコーポレーションの鑑定人として、NAMEの仕事は、新しい回収サイトを探すことでした。けれども、彼の本当の欲求は、遺跡に混じった古代のアーティファクトを探して、ブラックマーケットに売ることでした。
-
-彼はついに、それを見つけ出したとき、会社は力づくで取り返そうとしました。NAMEは、賞金を懸けられながらも脱出し、こうして略奪者の人生が始まりました。</desc>
-	</PirateSurveyor66>
 	<MechanoidNerd80>
 		<title>メカノイドオタク</title>
 		<titleShort>メカノイドオタク</titleShort>
@@ -804,18 +775,6 @@ OrdoHistoriaの監視者が彼の世界を偶然見つけ、彼を救いまし�
 
 HECAPは、メカノイドツールの改修や修理に特化していました。そして時々、自分自身に試していました。</desc>
 	</MilitaryEngineer44>
-	<ShunnedGirl18>
-		<title>Shunned girl</title>
-		<titleShort>Shunned</titleShort>
-		<desc>Freyaは、小さな、貧しい家庭に生まれました。彼女は、いじめられ、たたかれ、ひどく嫌われていました。
-
-彼女は、成長するにつれ銃に興味を持ちました。彼女は、よく本を読んで勉強しました。 時折、なんとか、実物を使って、練習していました。Freyaは、その後、絵画の才能を見出され、独学で絵の描き方を学び始めました。</desc>
-	</ShunnedGirl18>
-	<ArtStudent43>
-		<title>絵の練習生</title>
-		<titleShort>画家</titleShort>
-		<desc>一年間の勉強の後に、Freyaは、美大に入学でき、彼女のスキルを磨きました。彼女は、良いグレードの教育を受けたあと、工業デザインの仕事を探しました。彼女は、個人依頼の仕事をいくつかこなし、どうにか、やっと、デザインで食べていけるようになりました。</desc>
-	</ArtStudent43>
 	<ColiseumCleaner12>
 		<title>コロシアムの掃除人</title>
 		<titleShort>掃除人</titleShort>
@@ -846,10 +805,9 @@ HECAPは、メカノイドツールの改修や修理に特化していました
 	<FerventResearcher44>
 		<title>熱心な研究者</title>
 		<titleShort>研究者</titleShort>
-		<desc>若い成人の、Hollyは、この惑星の人々は時間を超えるに近いことを成し遂げると確信していました。
+		<desc>若い成人の、Hollyは、この惑星の人々は時間を超える事と、近いことを成し遂げると確信していました。
 
-
-A firm belief that her research would be the catalyst drove her to increasingly alarming acts as bureaucrats and bioethics committees worked to stall her progress.</desc>
+彼女の研究が、ますます彼女を実権派として憂慮すべき振る舞いに駆り立てるようになり、生命倫理委員会が、彼女の実験を行き詰まらせるよう働きかけていることを、社会は信じていました。</desc>
 	</FerventResearcher44>
 	<WarRefugee81>
 		<title>戦争難民</title>
@@ -865,16 +823,6 @@ A firm belief that her research would be the catalyst drove her to increasingly 
 
 彼の父が戦闘で殺された後、NAMEは、父親の仇討ち相手を探すために、一人で星々を探検し始めました。</desc>
 	</VengefulExplorer48>
-	<ToxicChild46>
-		<title>中毒児童</title>
-		<titleShort>中毒</titleShort>
-		<desc>産業革命時代の惑星で育った、NAMEは、6歳になると、化学工場で働き始めました。１年も毒性のある化学薬品に暴露されつづけた事は、彼を身体的にも精神的にも傷つけました。HECAPは、ついには、施設を破壊し、盗んだカーゴシップで惑星を脱出しました。</desc>
-	</ToxicChild46>
-	<CriminalTinker97>
-		<title>Criminal tinker</title>
-		<titleShort>Tinker</titleShort>
-		<desc>NAMEは、傭兵部隊に加わり、核兵器や、リアクターのメンテナンスの手助けをしていました。HECAPは、その機会が訪れた時、直ぐに、彼らのリーダーの右腕の役目を果たしました。</desc>
-	</CriminalTinker97>
 	<WorkCampSlave37>
 		<title>強制労働の奴隷</title>
 		<titleShort>奴隷</titleShort>
@@ -885,14 +833,14 @@ A firm belief that her research would be the catalyst drove her to increasingly 
 	<BanishedSoldier4>
 		<title>追放された戦士</title>
 		<titleShort>アウトロー</titleShort>
-		<desc>NAMEは、自由な時間には執拗に入れ墨を彫るのに使ったので、もっとも身体上威圧する奴隷になりました。王がボディガードとしての仕事をするよう提案することになって、HIS努力はついに、報われました。
+		<desc>NAMEは、自由な時間を、執拗に入れ墨を彫るのに費やしたので、もっとも身体が威圧的な奴隷になりました。王がボディガードとしての仕事をするよう提案することになって、HIS努力はついに、報われました。
 
 のちに、彼は、自分の地位を使い、王を殺して、自分を奴隷から解放しようと企みましたが、HEは気づかれて、ギリギリ逃げおおせました。</desc>
 	</BanishedSoldier4>
 	<DisciplinedFarmer44>
 		<title>訓練された農家</title>
 		<titleShort>農家</titleShort>
-		<desc>Drewは、家族経営の農園の若者で、利益を生み出そうと苦心していました。Drewの父は、厳格で躾に厳しかったので、つねに、彼の息子には厳しくあたり、大人しくさせていました。Drewは、かつて朝食を作っている最中に、手に火傷したことがあるので、彼の生命が危険なときのみ、料理を請け負います。</desc>
+		<desc>Drewは、家族経営の農園の若者で、利益を生み出そうと苦心していました。Drewの父は、厳格で躾に厳しかったので、常に、息子には厳しく当たり、大人しくさせていました。Drewは、かつて朝食を作っている最中に、手に火傷したことがあるので、彼の生命が危険な時でないかぎり、料理を請け負いません。</desc>
 	</DisciplinedFarmer44>
 	<StalwartFarmer89>
 		<title>頑健な農夫</title>
@@ -911,7 +859,7 @@ A firm belief that her research would be the catalyst drove her to increasingly 
 		<titleShort>研究者</titleShort>
 		<desc>NAMEは、HIS親の研究と、船を引き継ぎました。
 
-HISCAP幼少時に積んだ様々な文化が、　　HIS人生のほとんどを宇宙空間で孤立していたにも関わらず、自然を思いやる心を保つようにさせました。</desc>
+HISCAP幼少時に積んだ様々な文化が、人生のほとんどを宇宙空間で孤立していたにも関わらず、自然を思いやる心を保つようにさせました。</desc>
 	</SpaceResearcher5>
 	<VatgrownMedic86>
 		<title>Vatgrown軍医</title>
@@ -926,7 +874,7 @@ HISCAP幼少時に積んだ様々な文化が、　　HIS人生のほとんど�
 	<CoreDilettante99>
 		<title>道楽者</title>
 		<titleShort>道楽者</titleShort>
-		<desc>Candiceは、Glitterworldの中心区画で、彼女と友達はくだらない楽しみを追い求めて人格形成期を過ごしました。
+		<desc>Candiceは、Glitterworldの中心区画で、彼女と友達は、くだらない楽しみを追い求めて人格形成期を過ごしました。
 
 彼女が大きくなって、彼女は、果たされていない人生の安らぎを探し始めました。もっと挑戦しがいのある方法を探すことに決めました。</desc>
 	</CoreDilettante99>
@@ -952,7 +900,7 @@ HISCAP幼少時に積んだ様々な文化が、　　HIS人生のほとんど�
 	<FarmBoy56>
 		<title>農家の子</title>
 		<titleShort>農家の子</titleShort>
-		<desc>Johnは、彼の家の畑で働き、家畜の世話をし、怪我をしていれば手当をしていました。家の中に閉じこもっての軽作業を敬遠し、外に出てする手作業をより好みました。
+		<desc>Johnは、彼の家の畑で働き、家畜の世話をし、怪我をしていれば手当をしていました。家の中に閉じこもっての軽作業より、外に出てする手作業を好みました。
 
 彼は、一人でする仕事が楽しくて、人のいないところで、黙々と作業する傾向がありました。</desc>
 	</FarmBoy56>
@@ -972,11 +920,11 @@ HISCAP幼少時に積んだ様々な文化が、　　HIS人生のほとんど�
 		<desc>誰にも関心を持たれない、NAMEは、宙賊の乗り組み員にピッタリでした。乗組員の一人となって間もなく、NAMEは、誰でも、どんなことでも、自分の思い通りに殺し始めました、たとえ乗組員の中までさえも。</desc>
 	</PirateKing62>
 	<ConstructionGrunt79>
-		<title>Construction grunt</title>
-		<titleShort>Builder</titleShort>
-		<desc>父のラボで育った、Jacksonは、インテリでエリートな人生が与えられた。彼は望む物は、値段を気にせず何でも手にできた。
+		<title>建設要員</title>
+		<titleShort>建築家</titleShort>
+		<desc>父のラボで育った、Jacksonは、インテリでエリートな人生が与えられました。彼は望む物は、値段を気にせず何でも手にできました。
 
-Jacksonは、与えられた高級品を分かち合う気はない。それどころか、彼は、もっと肉体的な、父親の眼、を追い求めた。</desc>
+Jacksonは、与えられた高級品を分かち合う気はありません。それどころか、彼は、もっと肉体的な、父親の眼、を追い求めました。</desc>
 	</ConstructionGrunt79>
 	<MilitaryInventor44>
 		<title>軍発明家</title>
@@ -985,6 +933,22 @@ Jacksonは、与えられた高級品を分かち合う気はない。それど�
 
 彼は、戦闘兵器をデザインする為にラボの能力を使いました。彼は惑星で最も優秀な一人となりました。</desc>
 	</MilitaryInventor44>
+	<StudentEngineer40>
+		<title>技術者の卵</title>
+		<titleShort>技術者</titleShort>
+		<desc>神童と呼ばれた、NAMEは、航空宇宙兵器と技術に関する特別な訓練プログラムを受けました。
+
+ある日、彼は、リスに腕輪を与えて、なかよしになろうと頑張りました。リスが、彼を噛んでからは、"リスくん"というニックネームを付けられました。
+
+NAMEは、手作業に関することは、自分には相応しくないと信じるようになりました。</desc>
+	</StudentEngineer40>
+	<EngineeredPilot99>
+		<title>熟練パイロット</title>
+		<titleShort>パイロット</titleShort>
+		<desc>彼の住む地方が、隣国によって包囲されたのちに、NAMEは、彼も製造に手を貸した戦闘機の、パイロットになる為の一般的な改修プログラムに志願しました。改修プログラムは、彼をパイロットにしましたが、彼の周りにいる人たちへの関心を低下させました。
+
+彼を、コードネーム"リス"と呼んでいます。</desc>
+	</EngineeredPilot99>
 	<StreetKid29>
 		<title>ストリートキッド</title>
 		<titleShort>ストリートキッド</titleShort>
@@ -993,26 +957,10 @@ Jacksonは、与えられた高級品を分かち合う気はない。それど�
 彼が13歳になったとき、惑星間犯罪組織が、彼を派閥に取り込みました。</desc>
 	</StreetKid29>
 	<BanditLeader92>
-		<title>Bandit leader</title>
-		<titleShort>Bandit</titleShort>
+		<title>無法者のリーダー</title>
+		<titleShort>無法者</titleShort>
 		<desc>NAMEは、犯罪組織の中でのし上がっていき、ついには、組織中で、最も外郭のリーダーの一人になりました。彼の相棒Restは、彼のそばから離れてはいません。</desc>
 	</BanditLeader92>
-	<StudentEngineer40>
-		<title>技術者の卵</title>
-		<titleShort>技術者</titleShort>
-		<desc>神童と呼ばれた、NAMEは、航空宇宙兵器と技術に関する特別な訓練プログラムを受けました。
-
-ある日、彼は、腕輪を与えて、リスと仲良くなろうと頑張りました。リスは彼を噛んでから、"リスくん"というニックネームを付けられました。
-
-NAMEは、手作業に関することは、ふさわしくないと信じるようになりました。</desc>
-	</StudentEngineer40>
-	<EngineeredPilot99>
-		<title>熟練パイロット</title>
-		<titleShort>パイロット</titleShort>
-		<desc>彼の住む地方が、隣国によって包囲されたのちに、NAMEは、彼も手を貸した戦闘機の、パイロットになる為の一般的な改修プログラムに志願しました。改修プログラムは、彼をパイロットにしましたが、彼の周りにいる人たちへの関心を低下させました。
-
-彼を、コードネーム"リス"と呼んでいます。</desc>
-	</EngineeredPilot99>
 	<FrontierMarshal0>
 		<title>辺境の執行官</title>
 		<titleShort>執行官</titleShort>
@@ -1052,8 +1000,8 @@ NAMEは、手作業に関することは、ふさわしくないと信じるよ�
 		<desc>NAMEは、鉱石ばら積み用運搬船で養育されました。HECAPは、貿易と世論操作の能力は、完璧になりました。</desc>
 	</CargoPilot0>
 	<TradersChild31>
-		<title>Traders' child</title>
-		<titleShort>Trader</titleShort>
+		<title>貿易業者の子</title>
+		<titleShort>貿易業者</titleShort>
 		<desc>NAMEは、家族で放浪するトレーダーの中で大きくなり、多くの世界で、物を売買して生計を立てています。
 
 NAMEは、親の仕事に加わることによって、多くの文化を学んできました。</desc>
@@ -1090,29 +1038,29 @@ NAMEは、親の仕事に加わることによって、多くの文化を学ん�
 不幸なことに、医者達は、彼がラグビーゲームに没頭している時に、接続プラグを抜きました。この精神的バックフラッシュは、現実と仮想世界の融合を引き起こし、彼の人格と技能をラグビー選手にしてしまいました。</desc>
 	</RugbyPlayer15>
 	<Nerd92>
-		<title>Nerd</title>
-		<titleShort>Nerd</titleShort>
+		<title>オタク</title>
+		<titleShort>オタク</titleShort>
 		<desc>NAMEは、何にでも興味がありました。他の子供達が、工業都市の郊外で鬼ごっこをして遊んでいるさなか、NAMEは、色々な本を読んで、ロボット、兵器、他にもカッコイイ物ならなんについても、考えを巡らせていたでしょう。
 
 彼の強いフランス訛りは、親友を作るのに苦労しました。</desc>
 	</Nerd92>
 	<StateEngineer74>
-		<title>State engineer</title>
-		<titleShort>Engineer</titleShort>
+		<title>国家技師</title>
+		<titleShort>技術者</titleShort>
 		<desc>NAMEは、国立武器開発機構に入学しました。
 
 優秀な彼の研究、彼は、彼の作成した物のテストにとても熱中していましたが、誤って数人の仲間に怪我をさせてしまい、彼には、この仕事は務まらないと特徴づけられました。</desc>
 	</StateEngineer74>
 	<RebelSlave42>
-		<title>Rebel slave</title>
+		<title>奴隷反逆者</title>
 		<titleShort>反逆者</titleShort>
 		<desc>NAMEは、企業奴隷の出で、単純作業を最低賃金でこなしてきました。HECAPは、まるで機械の歯車のようでした。
 
 NAMEは、反乱軍に加わったことで、自分の自由を見つけ。経営者からの独立を目標に掲げています。</desc>
 	</RebelSlave42>
 	<CombatNegotiator51>
-		<title>Combat negotiator</title>
-		<titleShort>Negotiator</titleShort>
+		<title>戦闘交渉人</title>
+		<titleShort>交渉人</titleShort>
 		<desc>自身の生まれた環境を後にして、NAMEは自分の技術を磨いてスターになりました。
 
 彼は、プロの殺し屋として働く事を選び、色々な反乱軍、奴隷、商業地で働いてきました。彼の特技は、戦闘における交渉術です。</desc>
@@ -1140,28 +1088,28 @@ NAMEは、反乱軍に加わったことで、自分の自由を見つけ。経�
 		<desc>今や、狩りに熟練し、名射手となっても、Jonはもっともっと切望していた。彼は、母星を離れて、天空を新たな獲物を求めて旅している。</desc>
 	</SpaceHunter67>
 	<StudentSocialite73>
-		<title>Student socialite</title>
+		<title>社交界名士の学生</title>
 		<titleShort>社交界の名士</titleShort>
 		<desc>Matisは、KalthasⅣ号星において、社会的に恵まれた人の為の、エリート養成学校で政治を学んでいます。
 
 彼は、人心を掴んで操作する事に秀でていますが、つまらないと思っています。彼は、あと数年で卒業という前に、中途退学しました。</desc>
 	</StudentSocialite73>
 	<PoliticalAssassin87>
-		<title>Political assassin</title>
-		<titleShort>Deathjack</titleShort>
+		<title>国家暗殺者</title>
+		<titleShort>デスジャック</titleShort>
 		<desc>Matisは、彼の本当の使命が、外交問題の物理的解決方法の中にあると気が付きました。彼は、暗殺の訓練を受けるために、CetiⅤ号星の暗殺ギルドを探し求めました。
 
 彼は、あっという間に、口実と暗殺を理解しました。彼は、直ぐに、ギルドでDeathjackの称号を得ました。</desc>
 	</PoliticalAssassin87>
 	<AwkwardNerd12>
-		<title>Awkward nerd</title>
+		<title>扱いにくいオタク</title>
 		<titleShort>バカ</titleShort>
 		<desc>いつも機械に魅せられている、Daveは、自由時間には、ホログラフとロボット工学を勉強していました。彼は、一緒に創造してきた仲間が好きでした。</desc>
 	</AwkwardNerd12>
 	<AIResearcher30>
 		<title>AI研究者</title>
 		<titleShort>研究者</titleShort>
-		<desc>Daveは、名高い、ホログラフィ、ロボット工学、AIの研究者です。 	彼の作った人工的な友情は、本物の人達と交流することの自信を与えたので、直ぐに、人との会話に卓越しました。</desc>
+		<desc>Daveは、名高い、ホログラフィ、ロボット工学、AIの研究者です。     彼の作った人工的な友情は、本物の人達と交流することの自信を与えたので、直ぐに、人との会話に卓越しました。</desc>
 	</AIResearcher30>
 	<MidworldGeek88>
 		<title>Midworldのオタク</title>
@@ -1223,18 +1171,6 @@ HEを街に連れだした時、HEはウォーゲームにはまり、各種兵�
 
 NAMEは、混乱した母星を、なんとかギリで脱出しました。</desc>
 	</Microbiologist37>
-	<Stableboy75>
-		<title>Stableboy</title>
-		<titleShort>Stableboy</titleShort>
-		<desc>NAME was a stableboy on a medieval planet, mucking dung almost every day to earn his keep.
-
-By the time HE was exiting childhood, NAME had saved up enough money to pay a space trader to take HIM offworld.</desc>
-	</Stableboy75>
-	<Brigand23>
-		<title>Brigand</title>
-		<titleShort>Brigand</titleShort>
-		<desc>NAMEは、彼が友と呼ぶ無法者達と一緒に天を駆け回っている。彼は、彼自身の船 The Dung Mucker 2000を駆っている</desc>
-	</Brigand23>
 	<StarforceCadet91>
 		<title>士官候補生</title>
 		<titleShort>士官候補生</titleShort>
@@ -1249,9 +1185,21 @@ By the time HE was exiting childhood, NAME had saved up enough money to pay a sp
 
 しかしながら、ある、ひどい戦闘の後、取り残されてしまい、彼の帰還すべき船は沈められました。何処にも行くところがなく、彼は、祈りながら脱出ポッドに乗り込みました。</desc>
 	</AceFighterPilot70>
+	<Stableboy75>
+		<title>厩務員</title>
+		<titleShort>厩務員</titleShort>
+		<desc>NAMEは、Medival惑星の厩務員で、稼ぎを得る為、ほとんど毎日、糞を集めていました。
+
+HEが、成人になるまでには、NAMEは、貿易業者が、HIM、この世界から連れ出すのに充分な額の貯金ができました。</desc>
+	</Stableboy75>
+	<Brigand23>
+		<title>略奪者</title>
+		<titleShort>略奪者</titleShort>
+		<desc>NAMEは、彼が友と呼ぶ無法者達と一緒に天を駆け回っている。彼は、彼自身の船 The Dung Mucker 2000を駆っている</desc>
+	</Brigand23>
 	<ArtfulDodger87>
-		<title>Artful dodger</title>
-		<titleShort>Dodger</titleShort>
+		<title>芸術的な詐欺師</title>
+		<titleShort>詐欺師</titleShort>
 		<desc>Robinは、Urbworldの中の一つで育ち、一生、自分で何とかしなければなりませんでした。彼は、誰も信用せず、説得力を頼みの綱にし、抜け目なく生き残りました。
 
 彼は、直ぐに、口と同じくらい、ナイフと火器に熟練しました。</desc>
@@ -1346,8 +1294,8 @@ HECAPは、この知識を売ることで巨万の富をえることを覚え、
 		<desc>NAMEは、航空機、宇宙船の製造責任を負う技術者でした。HECAPは、製造ラインの改善を重点的に取り扱い、HIS専門知識に精通している事は、良く知られていました。</desc>
 	</AerospaceEngineer58>
 	<WildChild8>
-		<title>Wild child</title>
-		<titleShort>Wild child</titleShort>
+		<title>野生児</title>
+		<titleShort>野生児</titleShort>
 		<desc>NAMEは、とげとげしい植物に満ち溢れた、有毒な世界に放り出されました。HECAPは、一人ぼっちに慣れました。
 
 HEは、戦うことだけではなく、生のままでも食べ物を食べる事を学びました。</desc>
@@ -1407,6 +1355,16 @@ HEは、直ぐに、人々を恐れさすことを学び、ついたあだ名は
 		<titleShort>科学者</titleShort>
 		<desc>Benjaminは、通過中の科学調査船にドクターとして乗り込みました。星々を、異種ヒューマンや、変異した鳥人間と共に放浪し、彼は、遭遇した種族の遺伝学的調査をしました。彼は、ある一羽の変異した鳥人間と親友になりましたが、船長が、鳥人間以外を解雇したときに、無理やり船から退去させられました。</desc>
 	</MedicalScientist25>
+	<UrbworldUrchin35>
+		<title>Urbworldのガキ</title>
+		<titleShort>ガキ</titleShort>
+		<desc>汚れたコンクリート製尖塔の、間に捨てられた、NAMEは、HIS両親を知りませんでした。HECAPは、教育を受けたことも無く、食べ物と交換する為に、よくつまらない仕事をさせてもらっていました。</desc>
+	</UrbworldUrchin35>
+	<VoidRaider31>
+		<title>ボイドレイダー</title>
+		<titleShort>レイダー</titleShort>
+		<desc>冒険を栄光を渇望した、NAMEは、襲撃部隊と共に宇宙空間を股にかけ、部隊の兄弟達への忠誠を誓い、手に銃と剣を持って、彼らの繁栄を星々に広めていました。</desc>
+	</VoidRaider31>
 	<MidworldSketcher21>
 		<title>Midworldの絵描き</title>
 		<titleShort>絵描き</titleShort>
@@ -1443,13 +1401,13 @@ HECAPは、彼の父から受け継いだ、芸術的な素質を持っている
 		<titleShort>騎士</titleShort>
 		<desc>Williamは、剣士としてさらなる磨きをかけ、戦場で国王と国のために戦いました。彼の最高の栄誉は、敵の本陣へ部隊を率いて突入し、敵の王を捕虜にしたことでした。</desc>
 	</MedievalKnight71>
-	<StarSquire21>
-		<title>星の見習い騎士</title>
-		<titleShort>見習い騎士</titleShort>
-		<desc>中世時代に生まれ、NAMEの最初の記憶は、空を見上げていることでした。
+	<StarSquire93>
+		<title>星を駆ける伊達男</title>
+		<titleShort>だて男</titleShort>
+		<desc>Medievalworldに生まれた、NAMEの最初の記憶は、夜の星空を見上げていた事でした。
 
-それ以降、HEは、星で満たされた至上の幸福の中で、騎士になることを夢見ていました。HISCAP空想は、HIM一途な物の考え方にしました。</desc>
-	</StarSquire21>
+それ以来、HEは、    星々に満たされた天国の真ん中で、squiringする夢をみました。HISCAP focus on that vision left HIM somewhat single-minded.</desc>
+	</StarSquire93>
 	<StarKnight78>
 		<title>Star 騎士</title>
 		<titleShort>騎士</titleShort>
@@ -1495,13 +1453,13 @@ HEは、麻薬"substance F"を、よそのギャングの縄張りまで行っ�
 
 厄介な事件に巻き込まれ、暗殺が悪い結果となったことが、HEに、こんな生活への反感から、離れさせることになった。</desc>
 	</NinjaAssassin4>
-	<MilitaryChild34>
+	<MilitaryChild84>
 		<title>Military child</title>
 		<titleShort>Military</titleShort>
-		<desc>NAMEは、裕福な軍事背景のある家族の元で育った。HISCAP青年時代は、HIS両親が配属された所なら、どこにでもついて行って過ごした。
+		<desc>NAMEは、家族と共に、軍の裕福な環境のもとで育ちました。HISCAP青年時代は、HIS両親が配属された、星系から星系へと旅して過ごしました。
 
-HECAPは、18歳の時に入隊し、HIS家のしきたりに従った。</desc>
-	</MilitaryChild34>
+HIS家族は伝統を重んじ、HEは入隊可能な年齢になると、直ぐに入隊しました。</desc>
+	</MilitaryChild84>
 	<LazyProgrammer84>
 		<title>使えないプログラマ</title>
 		<titleShort>プログラマ</titleShort>
@@ -1543,14 +1501,15 @@ HEは、彼らが、HIM処置を計画したことを知った時、NAMEは、HI
 		<desc>Dusterは、ひどい火事で、顔と腕が焼けただれるまでは、平凡な少年時代を過ごす、活発な少年でした。たとえ火傷の跡が消えても、火には一切、近づかなくなりました。</desc>
 	</FireScarredChild32>
 	<SpaceshipSalesman6>
-		<title>Spaceship salesman</title>
-		<titleShort>Salesman</titleShort>
-		<desc>Duster tried his hand at various jobs, including building space rabbit cages and working at a mutant wheat research project. Finally, he found his true calling as a spacecraft salesman. Specializing in recreational spacecraft, his smooth talk and charming nature served him well.</desc>
+		<title>星間セールスマン</title>
+		<titleShort>セールスマン</titleShort>
+		<desc>Dusterは、スペースラビットの檻建設や、突然変異小麦の研究プロジェクト作業など、色々な職種を試してきました。最終的に、HEは、星間セールスマンと呼ばれる職業を見つけました。
+娯楽宇宙船を専門とし、HIS流暢なセールストークと、魅力的な素質は、よく役に立ちました。</desc>
 	</SpaceshipSalesman6>
 	<TechEnthusiast65>
-		<title>Tech enthusiast</title>
-		<titleShort>Tech nerd</titleShort>
-		<desc>Michael had all the latest gadgets as a child. He spent all his time playing games with AIs instead of with other children. He always felt awkward around new people.</desc>
+		<title>オタク少年</title>
+		<titleShort>オタク</titleShort>
+		<desc>Michaelは、子供の頃、あらゆる最新の電子機器を持っていました。HEは、他の子の代わりにAIと、ゲームをして過ごしていました。HEはいつも、知らない人の周りでは、気まずい思いをしていました。</desc>
 	</TechEnthusiast65>
 	<AIProgrammer5>
 		<title>AIプログラマー</title>
@@ -1568,12 +1527,12 @@ HEは、彼らが、HIM処置を計画したことを知った時、NAMEは、HI
 	</DiplomatsChild66>
 	<WhiteHatHacker49>
 		<title>White-hat hacker</title>
-		<titleShort>Hacker</titleShort>
-		<desc>From HIS computer, NAME helped rid the online world of bad people.</desc>
+		<titleShort>ハッカー</titleShort>
+		<desc>HISコンピュータから、NAMEは、オンライン世界の悪い奴らを除去する手助けをしていました。</desc>
 	</WhiteHatHacker49>
 	<Winerunner96>
-		<title>Winerunner</title>
-		<titleShort>Winerunner</titleShort>
+		<title>ワイン盗</title>
+		<titleShort>ワイン盗</titleShort>
 		<desc>両親に捨てられ、NAMEは、Aracena VI惑星の、 The Novo Mosteiro dos Jeronimos修道院の修道僧に育てられました。
 
 修道僧は、彼に、規律と勤勉を、教えました。お礼として、HEは、たぶん、街に行き、修道僧が夜な夜な楽しむ為に、外国産ワインを'盗んで'で来たのでしょう。</desc>
@@ -1616,8 +1575,8 @@ HEは、彼らが、HIM処置を計画したことを知った時、NAMEは、HI
 		<desc>Sorenは、残忍な行為として有名な、航宙海兵隊の部隊に所属しました。彼のラストネームと、戦闘中の無感情からついたニックネームは、"Grim"でした。</desc>
 	</SpaceMarine27>
 	<FoundryApprentice81>
-		<title>Foundry apprentice</title>
-		<titleShort>Foundryman</titleShort>
+		<title>鋳物工見習い</title>
+		<titleShort>鋳物工</titleShort>
 		<desc>NAMEは、産業革命時代の鋳物工場の見習いとして大きくなりました。この経験は、HEに、金属の取り扱い方と、強靱な肉体を与えましたが、芸術的な才能の成長は妨げられました。</desc>
 	</FoundryApprentice81>
 	<CombatEngineer42>
@@ -1626,8 +1585,8 @@ HEは、彼らが、HIM処置を計画したことを知った時、NAMEは、HI
 		<desc>NAMEは、工兵になりました。HEは、部隊の為に、基地を造り、銃を直し、乗り物を修理しました - HEが人を撃っていない時は、</desc>
 	</CombatEngineer42>
 	<PrivilegedProdigy5>
-		<title>Privileged prodigy</title>
-		<titleShort>Prodigy</titleShort>
+		<title>特権を持った天才</title>
+		<titleShort>天才</titleShort>
 		<desc>NAMEは、Glitterworldでの生い立ちから、生まれつき才能があるものと認知され、幸運な事に、HIS家族は、才能を進んだ教育で、高める事のできるポジションにありました。HISへの教育内容は、科学、リーダーシップ、芸術を含んでいました。</desc>
 	</PrivilegedProdigy5>
 	<PlanetaryDiplomat42>
@@ -1683,11 +1642,11 @@ G-nome研究者は、彼に、"Gizmo"というニックネームをつけ、彫�
 火の点いた棒で、大怪我をして以来、火を恐れるようになりました。</desc>
 	</CircusPerformer69>
 	<CriminalKingpin63>
-		<title>Criminal kingpin</title>
-		<titleShort>Kingpin</titleShort>
-		<desc>NAME discovered his gift - people did what he said, when he said it. Taking advantage of this, he set off for the rimworlds planets to make a name for himself in the criminal underworld.
+		<title>犯罪の主要人物</title>
+		<titleShort>主要人物</titleShort>
+		<desc>NAMEは、自分への贈り物に気がつきました - 人々を意のままに操れること。この長所を用いて、HEは、犯罪者地下集団を成すべく、辺境の惑星へ出発しました。
 
-Having people do things for him taught him to avoid manual labor at all costs.</desc>
+連れて行った人々には彼の為に事を成し、自分には、決して手作業をさせてはいけないことを教えました。</desc>
 	</CriminalKingpin63>
 	<VatgrownSlavegirl4>
 		<title>Vatgrownな奴隷少女</title>
@@ -1747,7 +1706,7 @@ HEは、遺伝子操作として知られる、Midworldの科学と共存した�
 	<Castaway19>
 		<title>漂流者</title>
 		<titleShort>漂流者</titleShort>
-		<desc>NAMEは、定期惑星間航路の乗客でした。HISの乗った船が破壊され、何年も無人惑星で、漂流者として生きてきました。</desc>
+		<desc>NAMEは、定期惑星間航路の乗客でした。HIS乗った船が破壊され、何年も無人惑星で、漂流者として生きてきました。</desc>
 	</Castaway19>
 	<GlitterworldNerd52>
 		<title>Glitterworldのオタク</title>
@@ -1782,9 +1741,9 @@ HISCAPのテクノロジーにこだわり過ぎることは、HEが、芸術や
 		<desc>NAMEは、HIS人生を宗教活動に打ち込むことに決めました。HEは、平和の誓いを立て、説法をし、ホームレスの為に食事を配給しながら、数年を過ごしました。</desc>
 	</Missionary23>
 	<IdealisticCadet35>
-		<title>Idealistic cadet</title>
-		<titleShort>Cadet</titleShort>
-		<desc>祖先から続く軍人の家系出身、NAMEは、彼が立派な指揮官になり、Dichter家の英雄になるだろうということを、若い頃から教え込まれていました。
+		<title>理想主義の士官候補生</title>
+		<titleShort>士官候補生</titleShort>
+		<desc>祖先から続く軍人の家系出身のNAMEは、彼が立派な指揮官になり、Dichter家の英雄になるだろうということを、若い頃から叩き込まれていました。
 
 彼は、勉学に秀でていて、栄誉を持って大学を卒業しました。</desc>
 	</IdealisticCadet35>
@@ -1798,7 +1757,7 @@ HISCAPのテクノロジーにこだわり過ぎることは、HEが、芸術や
 	<ChildOfGlass96>
 		<title>Child of glass</title>
 		<titleShort>生存者</titleShort>
-		<desc>NAMEは、"marble"惑星の地下で育ちました - 放射性降下物質とアスファルトに覆われた不毛の地。
+		<desc>NAMEは、Marble惑星の地下で育ちました - 放射性降下物質とアスファルトに覆われた不毛の地。
 
 死の惑星で生き残る為には、HEは、どうやって地下で耕作するか、そして、どうやって無駄弾を撃たずに戦うか、その方法を身につけなければなりませんでした。</desc>
 	</ChildOfGlass96>
@@ -1863,20 +1822,6 @@ HECAPは、HIS母星を高める為に、反乱軍に参加し、自分のスキ
 
 彼らについては、宗教でさえも、ある時、バカかアホであるとしています。</desc>
 	</DreadedDude3>
-	<TechHead78>
-		<title>Tech-head</title>
-		<titleShort>Tech-head</titleShort>
-		<desc>宇宙船の外郭に、彼の父と共に、子供サイズの宇宙服を着て立っている、NAMEは、小さい頃から宇宙が好きでした。
-
-HECAPは、市民研究活動プログラムに預けられました。偽りの親子を装ってる時間、HEは、HISごちゃごちゃな部屋にある植物の世話をして過ごしました。HISCAPニックネームとして、「周回軌道」が与えられました。</desc>
-	</TechHead78>
-	<SystemsEngineer27>
-		<title>システム技術者</title>
-		<titleShort>技術者</titleShort>
-		<desc>HIS父のように、NAMEは、システムエンジニアでした。HECAPは、宇宙船とコロニーの両方の資格を与えられていました。
-
-ある非番の時、HEは、機械的な置物を作っていたり、古書を読んだり、たまには未知の世界へ冒険に行ったりしてたようです。内向的な性格なので、HEは、たいていは、独りでしていました。</desc>
-	</SystemsEngineer27>
 	<Tinkerer87>
 		<title>修理屋</title>
 		<titleShort>修理屋</titleShort>
@@ -1890,11 +1835,11 @@ HECAPは、市民研究活動プログラムに預けられました。偽りの
 	<DisplacedNoble82>
 		<title>没落貴族</title>
 		<titleShort>貴族</titleShort>
-		<desc>Urbworldに生まれ、３つの巨大都市の支配者、NAMEの将来は明るいものでした - HISの一家が、暴動反乱によって転覆するまでは。国外追放は、NAMEに、きつい仕事と戦闘を引き合わせましたが、気位の高い潔癖性は残ったままでした。</desc>
+		<desc>Urbworldに生まれ、３つの巨大都市の支配者、NAMEの将来は明るいものでした - HIS一家が、暴動反乱によって転覆するまでは。国外追放は、NAMEに、きつい仕事と戦闘を引き合わせましたが、気位の高い潔癖性は残ったままでした。</desc>
 	</DisplacedNoble82>
 	<Minister38>
-		<title>Minister</title>
-		<titleShort>Minister</titleShort>
+		<title>大臣</title>
+		<titleShort>大臣</titleShort>
 		<desc>NAMEは、二流Glitterworld政府の重要なポジションで、安全保障の管理をしていました。HECAPは、HIS市民の満足を維持しようと試みているうちに、裕福な暮らしに慣れました。HECAPは、道楽や行楽の為の十分な時間を持っていました - だけども、HEは、きつい仕事のやり方を忘れたことはありませんでした。</desc>
 	</Minister38>
 	<ChessMaster23>
@@ -1922,507 +1867,522 @@ HISCAP名前は、再三、圧倒的で争いに打ち勝つ戦略名と紐付�
 		<desc>NAMEは、賞金稼ぎとして独り立ちしています。HECAPは、賞金首の宙族を捕まえる日々を過ごしています。</desc>
 	</BountyHunter14>
 	<Straggler99>
-		<title>Straggler</title>
-		<titleShort>Straggler</titleShort>
-		<desc>Despite being blessed with parental love, NAME hardly knew his parents.
+		<title>流浪者</title>
+		<titleShort>流浪者</titleShort>
+		<desc>親の愛に恵まれたにも関わらず、NAMEは、両親を知らない。
 
-HECAP was frequently left to his own devices which meant more time devoted to exploring his interests…and getting into trouble.</desc>
+HECAPは、たびたび自分のデバイスに置き去りにされていた、言い換えると、もっとたくさんの時間を好きなことに打ち込めました</desc>
 	</Straggler99>
 	<Spiceminer98>
-		<title>Spiceminer</title>
-		<titleShort>Spiceminer</titleShort>
-		<desc>NAME made his mark on the universe as a spice miner assigned to the lucrative mining colony of Rural Pen’The.
+		<title>宙鉱夫</title>
+		<titleShort>宙鉱夫</titleShort>
+		<desc>NAMEは、儲けが良いコロニーRural Pen'に割り当てられた、宙鉱夫として宇宙に名を刻んでいました。
 
-Little did he know, Benn was about to embark on a career path that would change his life.</desc>
+Littleは、彼の知っている事をし、Bennは、彼の人生を変える可能性のある、キャリアパスに、まさに今、着手しようとしていました。</desc>
 	</Spiceminer98>
 	<BrutalThief33>
-		<title>Brutal thief</title>
-		<titleShort>Thief</titleShort>
-		<desc>Growing up in a gang, NAME learned the brutality of the streets.
+		<title>残忍な盗賊</title>
+		<titleShort>盗賊</titleShort>
+		<desc>ギャングの中で育ったNAMEは、シャバの蛮行を身につけました。
 
-Knowing that showing weakness could be fatal, he closed himself of to others.</desc>
+弱みを見せることは命取りになることを知り、HEは誰にも心を開くことはありませんでした。</desc>
 	</BrutalThief33>
 	<CrimeLord40>
-		<title>Crime lord</title>
-		<titleShort>Crime lord</titleShort>
-		<desc>Through brutality and cruelty, NAME rose to the rank of crime lord.
+		<title>犯罪王</title>
+		<titleShort>犯罪王</titleShort>
+		<desc>蛮行や、残虐行為を経験し、NAMEは,犯罪王に成り上がりました。
 
-He relied less on his fists and more on his guns. His reputation spread faster due to his cold-bloodedness and ruthless methods.</desc>
+HEは、拳よりも、銃をより信頼していました。HIS評判は、HIS冷酷さと残忍性もあって、あっという間に広がりました。</desc>
 	</CrimeLord40>
 	<BoySoldier18>
-		<title>Boy soldier</title>
-		<titleShort>Soldier</titleShort>
-		<desc>War may never change - but the cast of characters does.
+		<title>少年兵</title>
+		<titleShort>兵士</titleShort>
+		<desc>戦争は変わらないだろう - しかし、兵士は別であろう
 
-Born on a violent urbworld, NAME was trained from a young age to fight the wars of others, and became rather good at it.</desc>
+暴力的なUrbworldに生まれ、NAMEは、外部勢力と戦う為に、若い時から訓練され、良い兵士になった。</desc>
 	</BoySoldier18>
 	<MarbleDoctor3>
-		<title>Marble doctor</title>
-		<titleShort>Doctor</titleShort>
-		<desc>On a bomb-blasted world, first aid is often the only aid.
+		<title>名医</title>
+		<titleShort>医者</titleShort>
+		<desc>そこらじゅう爆弾が爆発する世界では、応急手当だけしか手当ができないことが、しばしばある。
 
-NAME used his medical skills to help the injured and the sick. HECAP believed that while guns and machines may be powerful, a doctor is even more so.</desc>
+NAMEは、怪我や病気を治すために、自身の医療スキルを使っていた。HECAPは、銃や機械は、強力だろうが、医者のほうが、なおさらパワフルだと信じていた。</desc>
 	</MarbleDoctor3>
 	<ApocalypseChild97>
-		<title>Apocalypse child </title>
-		<titleShort>Apocalypse</titleShort>
-		<desc>NAME spent his childhood on a post-apocalyptic world. He fought for survival from a young age, on a planet where trust did not exist.
+		<title>啓示の子</title>
+		<titleShort>啓示</titleShort>
+		<desc>NAMEは、子供時代を、世紀末後の世界で過ごしてきた。HEは、若い頃から生き残る為に戦ってきて、この惑星には、信じられる物など何処にもなかった。
 
-He told everyone that he had no luck.</desc>
+HEは、運が悪いと、回りに言っていた。</desc>
 	</ApocalypseChild97>
 	<MobHenchman44>
-		<title>Mob henchman</title>
-		<titleShort>Henchman</titleShort>
-		<desc>After being "saved" from his home world by a slaver ship, NAME was sold to an urbworld crime lord, where he was used as a henchman. He specialized in low-tech beat-downs and intimidation.</desc>
+		<title>子分</title>
+		<titleShort>子分</titleShort>
+		<desc>奴隷狩りの船によって、母星から"救助"された、NAMEは、Urbworldの犯罪王の元に売られていき、そこで子分として使役させられた。HEは、ローテクな殴り合いと、威嚇を専門とした。</desc>
 	</MobHenchman44>
 	<OrphanOfWar96>
-		<title>Orphan of war</title>
-		<titleShort>Orphan</titleShort>
-		<desc>NAME lost his family and home early in life. His life became emotionally hollow, but his painful memories drove him to survive.
+		<title>戦争孤児</title>
+		<titleShort>孤児</titleShort>
+		<desc>NAMEは、幼い時に家族と家を失った。HIS人生は、空虚なものになったが、苦しい記憶が、HIM生き残らせるためへと駆り立てた。
 
-HECAP took several jobs, but never achieved more than a basic education.</desc>
+HECAPは、幾つかの仕事を得たが、基礎的な教育以上には、達していなかった。</desc>
 	</OrphanOfWar96>
 	<MechWarVeteran90>
-		<title>Mech war veteran</title>
-		<titleShort>Veteran</titleShort>
-		<desc>NAME fought against swarms of rogue mechanoids since he was old enough to enlist. HECAP has bled on half a dozen worlds and has lost more than he cares to recall. These experiences left him hardened, both mentally and physically.</desc>
+		<title>ベテラン</title>
+		<titleShort>ベテラン</titleShort>
+		<desc>NAMEは、入隊できる年齢に達して以来、ローグメカノイドの群れに立ち向かって戦っていた。HECAPは、半ダースの世界で重傷を負い、蘇生させた以上の仲間を失った。この経験から、肉体的にも精神的にもHIM強靭にさせた。</desc>
 	</MechWarVeteran90>
 	<ImperialStudent92>
-		<title>Imperial student</title>
-		<titleShort>Student</titleShort>
-		<desc>NAME studied on an imperial midworld where guns were banned and self-defense study was encouraged. The relative safety allowed HIM to focus on HIS botanical research.</desc>
+		<title>帝国の学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、銃が禁止され、護身術が奨励されていたMidworldの帝国で学んでいました。比較的に安全な環境は、HIMに、植物の研究に集中できる機会を与えました。</desc>
 	</ImperialStudent92>
 	<PoisonGardener85>
-		<title>Poison gardener</title>
-		<titleShort>Botanist</titleShort>
-		<desc>NAME spent almost all HIS time tending to a poison garden and became withdrawn from society.
+		<title>植木屋</title>
+		<titleShort>植物学者</titleShort>
+		<desc>NAMEは、ほとんどの時間を、毒を持った植物の庭の手入れをして過ごしたので、社会から孤立しました。
 
-In that time HE learnt a few safe culinary and medicinal uses for the otherwise deadly plants.</desc>
+その時は、HEは、致死性の毒を持った植物でも、幾つかの安全に料理や、薬としてして使える方法を身につけました。</desc>
 	</PoisonGardener85>
 	<PowerMadScholar58>
-		<title>Power-mad scholar</title>
-		<titleShort>Scholar</titleShort>
-		<desc>"Knowledge is power." These words sparked something within NAME, and came to form his core drive. When not entombed within libraries, HE would take things apart to see first-hand how they worked, with little regard for the border between mechanical and organic.</desc>
+		<title>Power-mad 学者</title>
+		<titleShort>学者</titleShort>
+		<desc>"知は力なり"この言葉は、NAMEの中の何かを閃かせ、HISコア-ドライブを、整列させました。
+
+図書館の中で埋没していないとき、HEは、機械と有機物との間の境界についての関心を持って、それがどのように作動しているかを、直接見る為に分解していました。</desc>
 	</PowerMadScholar58>
 	<ArtificerRampant50>
-		<title>Artificer rampant</title>
-		<titleShort>Artificer</titleShort>
-		<desc>Fuelled by the thrill of discovery and his own megalomania, NAME set out to invent new devices and improve existing ones, breaking laws and customs as necessary.
+		<title>熟練工 rampant</title>
+		<titleShort>熟練工</titleShort>
+		<desc>発見する事へのスリルと、自身の誇大妄想癖にみたされた、NAMEは、必要であれば、法や慣習を破ってでも、既存のデバイスを改良して新しいデバイスを発明することを始めた。
 
-HECAP formed a crew to gather materials for HIS work - and to deal with outsiders who might interfere.</desc>
+HECAPは、作業に必要な素材を集めるためのクルーを結成した - 邪魔をしてくる外部の人間に対処するためにも</desc>
 	</ArtificerRampant50>
-	<Orphan91>
-		<title>Orphan</title>
-		<titleShort>Orphan</titleShort>
-		<desc>Left alone in the world without parents, Kevin did the best he could to adapt.
+	<TechHead78>
+		<title>Tech-head</title>
+		<titleShort>Tech-head</titleShort>
+		<desc>宇宙船の外郭に、彼の父と共に、子供サイズの宇宙服を着て立っている、NAMEは、小さい頃から宇宙が好きでした。
 
-Having to take care both of himself and younger kids at the orphanage, he learned a lot about humans and how to interact with them.</desc>
+HECAPは、市民研究活動プログラムに預けられました。偽りの親子を装ってる時間、HEは、HISごちゃごちゃな部屋にある植物の世話をして過ごしました。HISCAPニックネームとして、「周回軌道」が与えられました。</desc>
+	</TechHead78>
+	<SystemsEngineer27>
+		<title>システム技術者</title>
+		<titleShort>技術者</titleShort>
+		<desc>HIS父のように、NAMEは、システムエンジニアでした。HECAPは、宇宙船とコロニーの両方の資格を与えられていました。
+
+ある非番の時、HEは、機械的な置物を作っていたり、古書を読んだり、たまには未知の世界へ冒険に行ったりしてたようです。内向的な性格なので、HEは、たいていは、独りでしていました。</desc>
+	</SystemsEngineer27>
+	<Orphan91>
+		<title>孤児</title>
+		<titleShort>孤児</titleShort>
+		<desc>親もなく、一人ぼっちで置き去りにされた、Kevinは、順応するためにベストを尽くした。
+
+孤児の時は、自分自身と、おなじような境遇の子供たちの面倒を見て、彼は、多くの人と、どのように接すれば良いかを身につけました。</desc>
 	</Orphan91>
 	<NeuroScientist84>
-		<title>Neuro scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>Kevin worked for a long time to improve the world's understanding of the human brain.
+		<title>脳神経科学者</title>
+		<titleShort>科学者</titleShort>
+		<desc>Kevinは、長い間、人間の脳が世界を理解する領域の拡張をする研究をしてきた。
 
-After succeeding in mapping the whole brain, Kevin joined a team of scientist on a quest to map the brains of xeno species.</desc>
+脳神経の完全なマッピングに成功してから、Kevinは、異星人の脳神経地図を探索する、科学者のチームに参加しました。</desc>
 	</NeuroScientist84>
 	<Abductee39>
-		<title>Abductee</title>
-		<titleShort>Abductee</titleShort>
-		<desc>NAME was abducted at a young age and forced to do menial labor on a pirate ship.</desc>
+		<title>失踪者</title>
+		<titleShort>失踪者</titleShort>
+		<desc>NAMEは、若い頃に誘拐されて、宙賊の船で、召使いのする作業をさせられてきました。</desc>
 	</Abductee39>
 	<PirateCaptain0>
-		<title>Pirate captain</title>
-		<titleShort>Captain</titleShort>
-		<desc>NAME worked his way up through the ranks of a pirate ship, eventually becoming captain. He leads his crew between worlds, making a name to remember.</desc>
+		<title>宙賊艦船長</title>
+		<titleShort>船長</titleShort>
+		<desc>NAMEは、宙賊艦の中で、自分のランクを上げ、最終的には船長にまで上り詰めました。HEは、手下共を引き連れて世界を駆けまわり、その名を記憶に残しています。</desc>
 	</PirateCaptain0>
 	<BlackjackPlayer50>
-		<title>Blackjack player</title>
-		<titleShort>Gambler</titleShort>
-		<desc>The only useful skill NAME learned from his tough military school was card counting. He amassed many enemies by cheating at casinos, becoming ever more edgy and violent as the threat of retaliation grew.
+		<title>ブラックジャック</title>
+		<titleShort>ギャンブラー</titleShort>
+		<desc>NAMEが、きつい陸軍士官学校で身につけた、唯一の有用なスキルは、カードを切ることでした。HEは、賭け事のイカサマによって多くの敵を作ったので、常にイライラし、仕返しの危険性が増大していた。
 
-When he was finally caught, they burned half his skin off. He'll never be able to face fire or violence again.</desc>
+HEはついに、捕まってしまい、身体の皮膚半分を焼かれました。HEは、火や暴力に立ち向かうことは、二度と無いでしょう。</desc>
 	</BlackjackPlayer50>
 	<HedgeFundManager27>
-		<title>Hedge fund manager</title>
-		<titleShort>Banker</titleShort>
-		<desc>A top hedge fund manager on a teeming urbworld, NAME's portfolio grew rapidly as he charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, he was forced to flee the planet with a bounty on his head.
+		<title>ヘッジファンドマネージャ</title>
+		<titleShort>銀行家</titleShort>
+		<desc>豊かなUrbworldで、トップヘッジファンドマネージャをしている、NAMEが、甘い言葉と、よこしまな意図で、魅了したクライアントのポートフォリオは、急速に成長していた。その取引が、あまりに話がうま過ぎるとバレると、HEは、首に賞金をかけられて、惑星を逃げだなければならない羽目になった。
 
-As he travelled the stars he found a passion in the arts, making masterpieces fit for high society customers.</desc>
+HEが星々をさまよっている間、彼は芸術の中に情熱を見つけ、上流階級のお客様用の傑作画を作るようになりました。</desc>
 	</HedgeFundManager27>
 	<AcademyStudent52>
-		<title>Academy student </title>
-		<titleShort>Student </titleShort>
-		<desc>NAME went to school like a good space cadet would. He was very tall and was known for his good looks.
+		<title>学士</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、成績の良い士官候補生として学校に通っていたものだった。HEは、背がとても高く、イケメンで知られていました。
 
-Though he worried more about his hairstyle than his grades, he still somehow passed the final exams.</desc>
+だけども、成績以上に、ヘアスタイルに気を使っていたので、やっと、なんとかして卒業試験をパスしました。</desc>
 	</AcademyStudent52>
 	<ComputerEngineer28>
-		<title>Computer engineer </title>
-		<titleShort>Tech head</titleShort>
-		<desc>Bored of his code-monkey office job and missing the glory days of the Academy, NAME saw a commercial about the frontier where "only the strong survive".
+		<title>コンピュータ技術者</title>
+		<titleShort>ハイテク人間</titleShort>
+		<desc>退屈なコーディング業務の毎日で、大学にいた頃の、キラキラ輝いていた日々を失った、NAMEは、「強い者だけが生き残る」未踏の地のテレビCMを見ていた。
 
-With his wife Morgan, NAME undertook a journey into the unknown.</desc>
+妻Morganと一緒に、NAMEは、知らない土地への旅を始めました。</desc>
 	</ComputerEngineer28>
 	<AspiringEngineer42>
-		<title>Aspiring engineer</title>
-		<titleShort>Tinkerer</titleShort>
-		<desc>NAME had a fascination with gadgets and gizmos. HECAP took apart and put together almost anything HE could find.
+		<title>将来の技術者</title>
+		<titleShort>修理屋</titleShort>
+		<desc>NAMEは、ガジェットや携帯端末に強い興味を持っていました。HECAPは、HEが見つけた、ほとんど物を、バラバラに分解してから、組立てたりしてました。
 
-HECAP got used to repairing toys brought to HIM by other children, and even fixed a few devices from HIS elders.</desc>
+HECAPは、他の子供が持ってきた、おもちゃも直したり、年長者から持ち込まれた、デバイスでさえ修理していました。</desc>
 	</AspiringEngineer42>
 	<ExpertHandyman95>
-		<title>Expert handyman</title>
-		<titleShort>Handyman</titleShort>
-		<desc>NAME worked as a traveling engineer. HECAP fixed things ranging from a simple communications array to the intricate software harness in his ship's AI meta-core. Nothing is beyond repair for HIM.</desc>
+		<title>プロよろず屋</title>
+		<titleShort>よろず屋</titleShort>
+		<desc>NAMEは、出張修理の技術者として働いていました。HECAPは、簡素な通信装置から、宇宙船に積まれたAIコア用の複雑なソフトウェア装置まで多岐に渡る物を修理しました。彼に修理できない物はありません。</desc>
 	</ExpertHandyman95>
 	<MedicalStudent18>
-		<title>Medical student</title>
-		<titleShort>Student</titleShort>
-		<desc>NAME grew up on a glitterworld in a family of doctors and chose to maintain the tradition.
+		<title>医学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、Gliterworldの、医者の家系で育ち、家督を引き継ぐ事を選択しました。
 
-HECAP had few friends, but got along with HIS siblings very well.</desc>
+HECAPには、数人の友人がいましたし、よく兄弟とは、とても仲が良かったものでした。</desc>
 	</MedicalStudent18>
 	<MedicSoldier37>
-		<title>Medic soldier </title>
-		<titleShort>Medic</titleShort>
-		<desc>NAME enrolled in his planetary army as a frontline medic. He soon knew the horrors of war and was deeply marked by them.
+		<title>救護兵</title>
+		<titleShort>救護兵</titleShort>
+		<desc>NAMEは、前線救護兵として、HIS母星の軍隊に入隊しました。HEは、すぐに戦争の恐ろしさを知り、心に深い傷を負いました。
 
-HECAP left the military and his homeworld and began researching medicine and helping those he came across.</desc>
+HECAPは、軍を除隊し、母星を後にして、薬の研究をしながら、人々を助けて宇宙を旅しました。</desc>
 	</MedicSoldier37>
 	<HighBaroness49>
-		<title>High baroness</title>
-		<titleShort>Noble</titleShort>
-		<desc>NAME was born as low-ranking royalty in a large imperial family.
+		<title>高貴な伯爵</title>
+		<titleShort>貴族</titleShort>
+		<desc>NAMEは、大きな王族の、位の低い王に生まれました。
 
-She was placed In charge of running her home planet from an early age, and learned important political and cultural skills in that role.</desc>
+彼女は、幼少期から自分の惑星を管理し、重要な政治、文化的なスキルを担う役目を身につけました。</desc>
 	</HighBaroness49>
 	<ExiledResearcher36>
-		<title>Exiled researcher</title>
-		<titleShort>Exile</titleShort>
-		<desc>NAME's love of robotics was not appreciated in her technophobic empire. The High Cardinal of the system excommunicated her, and she was never allowed to return.</desc>
+		<title>研究者難民</title>
+		<titleShort>難民</titleShort>
+		<desc>NAMEのロボット工学に対する愛情は、テクノロジーを否定した帝国にとっては、喜ばしい事ではありませんでした。高位の枢機卿は、HEを破門にし、二度と祖国の地を踏むことを許されませんでした。</desc>
 	</ExiledResearcher36>
 	<WorldSlider50>
-		<title>World slider</title>
-		<titleShort>Slider</titleShort>
-		<desc>NAME was raised by a world-hopping band of criminals. HECAP learned not to leave evidence of his presence in case the group had to leave in a hurry. HECAP also learned about medicine and hand-to-hand combat from his fellow criminals.</desc>
+		<title>スライダー</title>
+		<titleShort>スライダー</titleShort>
+		<desc>NAMEは、世界を股に掛けた犯罪者集団の中で育ちました。HECAPは、グループがあわてて現場を離れなければならないときも、犯罪の証拠を残さないことを身につけました。HECAPは、兄貴分から、薬学と格闘技も身につけました。</desc>
 	</WorldSlider50>
 	<Villain66>
-		<title>Villain</title>
-		<titleShort>Villain</titleShort>
-		<desc>After rising to the top of his criminal band, NAME was taught the arts of villainy, from handling firearms to developing new weapons technologies. He excelled at bending others to his will.</desc>
+		<title>悪党</title>
+		<titleShort>悪党</titleShort>
+		<desc>犯罪組織のトップに上り詰めた後、NAMEは、銃器の扱い方から、新テクノロジー武器の製造まで、悪事の数々を教えました。彼は、自分の思う通りに人を扱う方法に秀でました。</desc>
 	</Villain66>
 	<MedicalStudent71>
-		<title>Medical student</title>
-		<titleShort>Student</titleShort>
-		<desc>Born into a long line of doctors, NAME was tutored in all fields of medicine, from herbal ointments to the modern synthetic drugs. HECAP also picked up a healthy disdain for lower class work.</desc>
+		<title>医学生</title>
+		<titleShort>学生</titleShort>
+		<desc>代々続く医者の家系に生まれ、NAMEは、薬草の軟膏から、現代的な合成麻薬までの、薬に関するほとんどの分野の個人授業をうけました。HECAPはまた、下級な作業を、見下していました。</desc>
 	</MedicalStudent71>
 	<SpaceNavyDoctor40>
-		<title>Space navy doctor</title>
-		<titleShort>Doctor</titleShort>
-		<desc>NAME served several tours as a doctor on one of the few warships defending HIS homeworld. HECAP learned combat skills while fighting occasional pirate boarding parties, and became an expert at treating gruesome combat wounds.</desc>
+		<title>軍医</title>
+		<titleShort>軍医</titleShort>
+		<desc>NAMEは、母星を守るための、戦艦の中のひとつで軍医として、数々の戦役を仕えきました。HECAPは、時折、乗り込んで来る宙賊との戦闘で、戦闘スキルを身につけるなか、戦闘によって恐ろしい怪我を治療する、エキスパートになりました。</desc>
 	</SpaceNavyDoctor40>
 	<AspergersRebel96>
-		<title>Aspergers rebel</title>
-		<titleShort>Rebel</titleShort>
-		<desc>NAME grew up as a rebel on an formerly-advanced rimworld devastated by war.
+		<title>アスペルガー反逆者</title>
+		<titleShort>反逆者</titleShort>
+		<desc>NAMEは、戦争によって破壊された、過去に先進的だったRimworldで、反逆者として育ちました。
 
-HISCAP Aspergers syndrome meant he struggled with social situations and was incapable of caring, but HE learned hard skills like research and shooting very quickly.</desc>
+HISCAPアスペルガー症候群は、彼が、社交性に苦しみ、人を心配することができないことを意味します、しかし、研究と射撃のような困難なスキルを、素早く身につけました。</desc>
 	</AspergersRebel96>
 	<GovernmentAgent80>
-		<title>Government agent  </title>
-		<titleShort>Agent</titleShort>
-		<desc>NAME worked for the government against rebel groups and excelled in this capacity. During HIS training HE was taught firearms, melee combat and medical skills.
+		<title>政府の諜報員</title>
+		<titleShort>諜報員</titleShort>
+		<desc>NAMEは、反逆者に対する政府の為に働き、銃火器、格闘技、治療手当を教わり訓練を受ける中で、この能力に優れました。
 
-Having grown up in a war-ravaged city, dirt, blood and dead bodies don’t bother HIM and HE sees no reason to clean them up.</desc>
+破壊されきった都市の中で育つうちに、汚れ、血のり、死体などは、気にならなくなり、それらを片付けようとも思わなくなりました。</desc>
 	</GovernmentAgent80>
 	<ShootingComa31>
-		<title>Shooting coma</title>
-		<titleShort>Coma child</titleShort>
-		<desc>Nebulys fell into a coma at a young age and spent years dreaming about shooting. When he awoke, he was useless at most tasks - but he could aim pretty well.</desc>
+		<title>射撃の夢</title>
+		<titleShort>昏睡児童</titleShort>
+		<desc>Nebulysは、若いときに昏睡状態に陥って、数年も射撃の夢を見続けて過ごした。HEが目を覚ましてみると、ほとんどの仕事で役に立たなかった - しかし、狙いを付けるのはかなり上手かった</desc>
 	</ShootingComa31>
 	<SelflessHunter57>
-		<title>Selfless hunter</title>
-		<titleShort>Hunter</titleShort>
-		<desc>Nebulys was a hunter of mysterious creatures that many didn't even believe existed. Sometimes the people were right - and sometimes they were wrong.
+		<title>無私無欲のハンター</title>
+		<titleShort>ハンター</titleShort>
+		<desc>Nebulysは、誰も存在を信じていない、不可解な生き物を狩るハンターでした。たまには、人の言うことが正しかったり、間違っていたりもしました。
 
-Along the way, he helped people in need.</desc>
+その先も、彼は人々の要求に応じて助けました。</desc>
 	</SelflessHunter57>
 	<PsychologyStudent88>
-		<title>Psychology student</title>
-		<titleShort>Student</titleShort>
-		<desc>NAME researched new religions and traditions and often dreamt of distant stars.
+		<title>心理学の学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、新興宗教と、古来からの宗教を研究し、よく星に願いをかけていました。
 
-His dreams prompted him to ask what lay beyond the lights in the sky.</desc>
+HIS願いは、空の星々がなぜ光っているのかについて、疑問に思うことを駆り立てました。</desc>
 	</PsychologyStudent88>
 	<AcolyteOfStars66>
-		<title>Acolyte of stars</title>
-		<titleShort>Priest</titleShort>
-		<desc>Ever the dreamer, NAME traveled across the universe to find the thing he felt was calling to him.
+		<title>星を駆ける侍祭</title>
+		<titleShort>聖職者</titleShort>
+		<desc>かつて夢想家だったNAMEは、感じていた自分を呼ぶ声を見つける為に、銀河を超えて旅をした。
 
-HECAP became poorer and poorer, but used every means possible to carry on.</desc>
+HECAPは、日に日に貧しくなったが、旅を続けて行く為に、ありとあらゆる可能な方法を使ってきた。</desc>
 	</AcolyteOfStars66>
 	<SpaceSmuggler10>
-		<title>Space smuggler</title>
-		<titleShort>Smuggler</titleShort>
-		<desc>Tater's parents used him to help smuggle contraband between a cluster of rim worlds.
+		<title>密輸入者</title>
+		<titleShort>密輸入者</titleShort>
+		<desc>Taterの両親は、辺境の惑星間で不法取引している密輸に、彼を利用していました。
 
-Aided by his small size, Tater became very adept at carrying out his parents' missions, learning weaponry, negotiations, and most of all smuggling.</desc>
+身体の小ささも手助けして、Taterは、両親から課せられたミッションを遂行することや、武器の扱い方、交渉術など、密輸に関することが、とても上手になりました。</desc>
 	</SpaceSmuggler10>
 	<SpaceRaider65>
-		<title>Space raider</title>
-		<titleShort>Raider</titleShort>
-		<desc>Tater was the leader of a spaceborne pirate crew. Skipping between the rim worlds, he became the feared enemy of many settlements.</desc>
+		<title>宇宙レイダー</title>
+		<titleShort>レイダー</titleShort>
+		<desc>Taterは、宙賊のリーダーになりました。辺境の惑星間を飛び回り、彼は、多くの植民地から恐れら敵と恐れられる者になりました。</desc>
 	</SpaceRaider65>
 	<Abductee2>
-		<title>Abductee</title>
-		<titleShort>Abductee</titleShort>
-		<desc>NAME was abducted by xenohumans when HE was still a baby. They experimented on HIM to understand his genetic structure.
+		<title>失踪者</title>
+		<titleShort>失踪者</titleShort>
+		<desc>NAMEは、まだ赤ん坊の時に、異種人間によって拉致されました。やつらは、やつらの遺伝的枠組みを理解させるための実験を、HEにしました。
 
-As HE grew up, NAME grew a little bit too big and strong for his captors and eventually escaped.</desc>
+NAMEは、ほんのちょっと発育しただけで、とても大きく、やつらより強くなったので、ついには脱出しました。</desc>
 	</Abductee2>
 	<Spy40>
-		<title>Spy</title>
-		<titleShort>Spy</titleShort>
-		<desc>NAME was trained by HIS government in infiltration and espionage. HECAP learned to keep a cool head and to talk HIS way out of tight situations. When talking didn't work, HE was capable of more violent direct action.</desc>
+		<title>スパイ</title>
+		<titleShort>スパイ</titleShort>
+		<desc>NAMEは、HIS政府の、浸透作戦やスパイ行為を行う部署で訓練を受けました。HECAPは、常に冷静に、困難な状況からでも脱出する話術を身につけました。言葉が通用しないときは、HEは、もっと直接的な力に訴える能力も持ち合わせていました。</desc>
 	</Spy40>
 	<BlessedChild86>
-		<title>Blessed child</title>
-		<titleShort>Blessed</titleShort>
-		<desc>NAME was born under auspicious circumstances to a midworld spiritual group and held in reverence throughout HIS childhood.
+		<title>福音児童</title>
+		<titleShort>福音者</titleShort>
+		<desc>NAMEは、Midworldの霊的なグループにとって縁起の良い出来事の下で生まれ、HIS子供時代を通して、盲目的に崇拝されました。
 
-HECAP learned to take care of the poor and give succor to the faithful from an early age.</desc>
+HECAPは、貧しい者の世話や、信者に手を差し伸べる事を、若いときから学びました。</desc>
 	</BlessedChild86>
 	<WanderingHealer6>
-		<title>Wandering healer</title>
-		<titleShort>Healer</titleShort>
-		<desc>NAME studied to be a doctor, but was dissatisfied with HIS practice on an otherwise peaceful midworld.
+		<title>流浪の癒し手</title>
+		<titleShort>癒し手</titleShort>
+		<desc>NAMEは、医者になる為に勉強していましたが、平和なMidworldなりの別なやり方での練習方法に満足していませんでした。
 
-Instead, HE chose to pull up roots and travel to the rimworlds in order to care for people who needed HIM most.</desc>
+そのため、HEは、住み慣れた地を離れて、HEをもっと必要としている人々がいる辺境の地へ旅立ちました。</desc>
 	</WanderingHealer6>
 	<YouthSoldier99>
-		<title>Youth soldier</title>
-		<titleShort>Soldier</titleShort>
-		<desc>NAME was born into a long line of soldiers. He followed that heritage, joining a military training program.
+		<title>若い戦士</title>
+		<titleShort>戦士</titleShort>
+		<desc>NAMEは、代々続く戦士の家系に生まれました。HEは、家督を継ぎ、戦闘訓練プログラムに参加しました。
 
-He excelled in all physical training programs in his Marine course, and even passed most of the intellectual exams. While he was never particularly bright or nimble, NAME learned the value of hard work and suffering.</desc>
+HEは、海兵隊になるための、肉体訓練に優れるだけでなく、ほとんどの知的な問題も解きました。HEは、とりわけ頭が良くて、抜け目が無いという訳では無かったですが、NAMEは、きつい任務や、耐える事の価値を学びました。</desc>
 	</YouthSoldier99>
 	<VeteranSoldier2>
-		<title>Veteran soldier</title>
-		<titleShort>Soldier</titleShort>
-		<desc>NAME fought many tours against pirates, rebels, and xenos. He endured the glory and horrors of war.
+		<title>ベテラン戦士</title>
+		<titleShort>戦士</titleShort>
+		<desc>NAME、は宙族や反乱軍、亜人間相手に多くの戦役で戦ってきました。HEは、栄光と、戦争の恐ろしさを、充分に認めています。
 
-Worn down by drills, wars, and battle scars, NAME 'retired' to the easy soldier life of colonial civility enforcement. He spent his days polishing his war medals, knowing he had done his bloodline proud.</desc>
+ドリル、戦場、多くの戦傷によって、擦り切れたNAMEは、コロニーの執行官としての楽な戦士の仕事に退役しました。HEは、もらった勲章を磨いて、誇り高いことをしたことに思い耽って時間を過ごしています。</desc>
 	</VeteranSoldier2>
 	<GlitterworldKid84>
-		<title>Glitterworld kid</title>
-		<titleShort>Glit kid</titleShort>
-		<desc>The son of a genetically-engineered "perfect mate" on a glitterworld, Chaz was much more shy, withdrawn and nervous than his parents. HECAP kept mostly to himself, studying science and medicine and taking on gardening as a hobby.
+		<title>Glitterworldの児童</title>
+		<titleShort>Glitter児</titleShort>
+		<desc>Glitterworldでの遺伝子操作された"完璧すぎる子供"、Chazはとてもシャイで、両親よりも、引っ込み思案の神経質でした。HECAPは、もっぱら、科学を勉強したり、薬学、ガーデニングを趣味としてやっていました。
 
-In HIS teens, HE ran away from home, seeking a quieter life.</desc>
+10代の時、HEは静かな暮らしを探しに、家を飛び出しました。</desc>
 	</GlitterworldKid84>
 	<CosmeticReject89>
-		<title>Cosmetic reject</title>
-		<titleShort>Reject</titleShort>
-		<desc>Living on the streets, Chaz submitted himself to an unethical cosmetics lab in exchange for food and shelter.
+		<title>整形で受けた傷</title>
+		<titleShort>傷もの</titleShort>
+		<desc>街角で暮らしていた、Chazは、食べ物や、寝床kと交換に、汚い化粧品研究所で、奴隷のような扱いを受けていました。
 
-After some painful cosmetic modification, Chaz barely resembles his former self. Having been forced to work for the lab until he was rescued, Chaz is now too afraid to lash out at anyone.</desc>
+何回か、苦痛を伴う美容整形をうけた後、Chazは、かろうじて元の姿を取り戻しました。彼が助け出されるまで、むりやり研究所で働かされていた、Chazは、誰でも悪口を言う人を、とてもひどく怖がりました。</desc>
 	</CosmeticReject89>
 	<FeralChild73>
-		<title>Feral child</title>
-		<titleShort>Survivor</titleShort>
-		<desc>NAME and his family lived a hard but prosperous lives along with their fellow colonists on a distant rimworld.
+		<title>野生児</title>
+		<titleShort>生存者</titleShort>
+		<desc>NAMEと、HIS家族は、辛くとも生き、離れたRimworldの仲間と一緒に繁栄していました。
 
-One day a group of mechanoids attacked, killing everyone aside from Robert. He then lived alone in the desert until a group of raiders found him.</desc>
+ある日、メカノイドの一群が襲いかかり、Robertの仲間を全員殺してしまいました。それからの彼は、レイダーのグループが、彼を見つけるまでの間、砂漠の中を独りで生きてきました。</desc>
 	</FeralChild73>
 	<RaiderKing70>
-		<title>Raider king</title>
-		<titleShort>Raider</titleShort>
-		<desc>Starting as nothing more than a slave, NAME rose quickly among the raider ranks until all knew his name and his ruthlessness.</desc>
+		<title>レイダーキング</title>
+		<titleShort>レイダー</titleShort>
+		<desc>奴隷以外の何者でもない人生を始めたNAMEは、レイダーの一団のなかで、みるみる出生し、誰もが、彼の名前と、冷酷さを知るようになりました。</desc>
 	</RaiderKing70>
 	<Scout86>
-		<title>Scout</title>
-		<titleShort>Scout</titleShort>
-		<desc>Nate loved being outdoors. His parents enrolled him in a program that taught military scouting skills. He thrived when he was left alone in the wilderness.
+		<title>偵察員</title>
+		<titleShort>偵察員</titleShort>
+		<desc>Nateは、アウトドアをすることが好きでした。彼の両親は、軍で偵察スキルを教えるプログラムに、彼を入隊させました。彼は、荒野に独りで残されても、うまくやりました。
 
-Due to this upbringing, however, NAME did not learn the basic technological skills that are taken for granted by many others.</desc>
+このような育て方のせいで、NAMEは、他の人達によって認められるような、基本的にテクノロジースキルを、身につけませんでした。</desc>
 	</Scout86>
 	<FrontierMarshal75>
-		<title>Frontier marshal</title>
-		<titleShort>Marshal</titleShort>
-		<desc>Nate was the marshal of his colony. He tried to honorably uphold the law, but the corrupt local mayor killed his family and left him for dead.
+		<title>辺境の保安官</title>
+		<titleShort>保安官</titleShort>
+		<desc>Nateは、コロニーの執行官でした。HEは、立派な法の維持をしようと努めましたが、しかし、腐敗した地元の市長が、HIM家族を殺し、HEを見捨てました。
 
-After regaining his health, Nate arrested the mayor. HECAP left his homeworld and started a new life working to make a difference in the universe.</desc>
+健康を取り戻した後、Nateは市長を逮捕しました。HECAは、母星を後にし、銀河で、また違う人生を始めました。</desc>
 	</FrontierMarshal75>
 	<TraineeAlchemist98>
-		<title>Trainee alchemist</title>
-		<titleShort>Alchemist</titleShort>
-		<desc>NAME grew up on a medieval world. He learned the basics of alchemy and medicine in one the few monastic schools on his planet.</desc>
+		<title>見習い錬金術師</title>
+		<titleShort>錬金術師</titleShort>
+		<desc>NAMEは、中世時代の星で育ちました。HEは、母星にある修道院で錬金術と薬学の基礎を学びました。</desc>
 	</TraineeAlchemist98>
 	<ReligiousHierarch42>
-		<title>Religious hierarch</title>
-		<titleShort>Hierarch</titleShort>
-		<desc>Ordained as a priest in his local community, NAME used intrigue and diplomacy to rise to the higher echelon of the clergy. He held numerous titles and lands.
+		<title>高僧</title>
+		<titleShort>神官</titleShort>
+		<desc>地元社会の中で司祭として任命され、NAMEは、陰謀と外交的手腕を使って、より高位の聖職者に成り上がりました。HEは、おびただしい数の肩書きと土地を支配していました。
 
-One day, a merchant landed his spaceship near NAME's home. HECAP decided to accompany the merchant in search for new worlds and challenges.</desc>
+ある日、独りの商人が乗る宇宙船が、NAMEの家のそばに着陸しました。HECAPは、新しい世界と、挑戦を求めて、商人と共に行動する事に決めました。</desc>
 	</ReligiousHierarch42>
 	<Pickpocket96>
-		<title>Pickpocket</title>
-		<titleShort>Thief</titleShort>
-		<desc>NAME witnessed HIS parents' murder at a young age. With no guidance, HE had to fend for HIMself any way possible. Joining a small group of misfits HE did whatever was necessary to survive.</desc>
+		<title>スリ</title>
+		<titleShort>盗賊</titleShort>
+		<desc>NAMEは、若いときに、両親が殺害される現場を目撃し、HEは、誰の助けも借りずに、出来る事なら、自活して行かなければならなくなりました。社会不適合者のグループに加わり、HEは生きる為に必要な、どんな事でもしました。</desc>
 	</Pickpocket96>
 	<CriminalSurgeon8>
-		<title>Criminal surgeon</title>
-		<titleShort>Surgeon</titleShort>
-		<desc>Being near many injured fellow criminals, NAME took it upon HIMself to work on them.
+		<title>モグリの外科医</title>
+		<titleShort>外科医</titleShort>
+		<desc>多くの怪我した仲間の犯罪者の傍にいて、NAMEは、彼らの手当を買って出ました。
 
-Although many people died, HE did get better at using knives.</desc>
+多くの人々が死んだけれども、HEが、執刀したことで、より良いことになりました。</desc>
 	</CriminalSurgeon8>
 	<SpaceCadet12>
-		<title>Space cadet</title>
-		<titleShort>cadet</titleShort>
-		<desc>Growing up on a rural farm-world leaves little opportunity for excitement and adventure, so when the Royal Fleet began a recruiting program on his home planet, Jake threw down his hoe and cattle prod to took up arms for the crown.
+		<title>宇宙士官候補生</title>
+		<titleShort>士官候補生</titleShort>
+		<desc>地方の農業世界で育ったことで、刺激と冒険の機会とは、全く縁がなかったが、女王艦隊は、HIS母星で志願兵の募集を始めたことで、Jakeは、鍬や家畜を放り投げて、王冠の為に、武器を手に取ることに駆り立てられました。
 
-He served on the interplanetary super-destroyer HMS Thunder-Child.</desc>
+HEは、惑星間Super-destroyer HMS Thunder-Childに勤務しました。</desc>
 	</SpaceCadet12>
 	<SanitationCaptain28>
-		<title>Sanitation captain</title>
-		<titleShort>Janitor </titleShort>
-		<desc>After graduating officer training school, Jake was assigned to main battle deck on the Thunder-Child. He served there for a year before his "gallant" actions saw him reassigned to the maintenance corps.
-
-It was with the maintenance corps he was dubbed Table on account of his legs.</desc>
+		<title>衛生施設長</title>
+		<titleShort>管理人 </titleShort>
+		<desc>将校養成学校を卒業したのち、Jakeは、Thunder-Childの、戦闘指示所に配属されました。HEは、そこで一年務め、彼の"勇ましい姿"を目にする前に、死体安置係に再配属されました。</desc>
 	</SanitationCaptain28>
 	<Naturalist25>
-		<title>Naturalist</title>
-		<titleShort>Naturalist</titleShort>
-		<desc>Mitch grew up on a backwater planet with minimal education. He had to hunt and grow food to survive.
+		<title>自然主義者</title>
+		<titleShort>自然主義者</titleShort>
+		<desc>Mitchは、バックウォータ惑星で、最低限の教育を受けて育ちました。HEは、生き延びる為には、狩りや、植物を育てなければなりませんでした。
 
-HISCAP family's home was frequently raided for food by scavengers. This made Mitch very suspicious and slow to trust anyone he doesn't know.</desc>
+HISCAP家族の家は、食い物を狙う、襲撃者によって繰り返し襲われていました。 この事は、Mitchを、とても疑り深くて、人を信じることに時間を掛けるようになりました。</desc>
 	</Naturalist25>
 	<OverwatchSniper73>
-		<title>Overwatch sniper</title>
-		<titleShort>Sniper</titleShort>
-		<desc>NAME didn't know why he joined the military, but he stayed to protect his fellow soldiers.
+		<title>監視狙撃手</title>
+		<titleShort>狙撃手</titleShort>
+		<desc>NAMEは、どうして軍に入ったかわかりません、しかし仲間の戦士を守る為に、軍に居続けています。
 
-Army life broke him down and built him back up. It taught him marksmanship, hand to hand combat and how to patch a bullet wound in a hurry.</desc>
+軍隊生活で彼は疲弊し、バックアップに転じました。射撃術と、格闘術と、急いで銃創の手当のしかたを教わりました。</desc>
 	</OverwatchSniper73>
 	<Drudge47>
-		<title>Drudge</title>
-		<titleShort>Drudge</titleShort>
-		<desc>NAME was never sure what HE wanted to do with HIS life. HECAP spent most of HIS time doing low-wage jobs and wondering what HIS future would be like.
+		<title>フリーター</title>
+		<titleShort>フリーター</titleShort>
+		<desc>NAMEは、人生の中でしたい事が、有りませんでした。HECAPは、人生のほとんどの時間を、バイトと、気になる好きな事を探すことで、過ごしていました。
 
-HECAP entertained himself with space sims and survival games, dreaming of one day being somewhere more interesting.</desc>
+HECAPは、宇宙船シミュレータや、サバイバルゲーム、もっと面白い事がどこかにあることを夢見たりして楽しんでいます。</desc>
 	</Drudge47>
 	<GalacticSightseer55>
-		<title>Galactic sightseer</title>
-		<titleShort>Sightseer</titleShort>
-		<desc>NAME traveled the stars. HECAP could barely scrape together travel costs doing odd-jobs on stations, but it was all worth it. Seeing the wonders of the galaxy was where HE found HIS calling.
+		<title>銀河系観光客</title>
+		<titleShort>観光客</titleShort>
+		<desc>NAMEは、星々を旅していました。HECAPは、駅で雑用の仕事して、かろうじて、旅行代金をかき集めることができそうでした。銀河系を見て回る事は、HEが見つけたHIS天職でした。
 
-HECAP loved camping on exotic worlds and learning the patterns of strange wildlife. The wonders of the universe inspired HIM like nothing else could.</desc>
+HECAPは、亜世界でキャンプすることが好きで、知らない野生生物の行動様式を身につけました。他の方法が無かったように、銀河の驚異はHIM奮起させました。</desc>
 	</GalacticSightseer55>
 	<ChildOfDrifters15>
-		<title>Child of drifters</title>
-		<titleShort>Drifter</titleShort>
-		<desc>Ever since HE was very small, NAME had never known a home beyond HIS parent's ship. They were a family of nomads whose meandering provided a constant change of scenery. HISCAP life was often perilous but never dull, and HE inherited HIS parents' wanderlust at a young age.</desc>
+		<title>漂流者の子供</title>
+		<titleShort>漂流者</titleShort>
+		<desc>HEがとても小さかった頃からずっと、NAMEは、HIS母船より外の世界を知りませんでした。彼らは遊牧民の家族で、あてどもない旅は、絶え間ない景色の変化を与えました。
+HISCAP生活は、しばしば、危険の多いものでしたので、頭の回転は遅くなく、若いときからの放浪癖を両親から、受け継いでいました。</desc>
 	</ChildOfDrifters15>
 	<WanderingCrafter28>
-		<title>Wandering crafter</title>
-		<titleShort>Crafter</titleShort>
-		<desc>NAME continued to follow HIS parents' nomadic ways, supporting himself with his crafting skills. But wandering is a hard life, and HE often thought of finding somewhere to settle down and put HIS skills to good use.</desc>
+		<title>流浪の工芸作家</title>
+		<titleShort>工芸作家</titleShort>
+		<desc>NAMEは、両親の遊牧民的な生き方を追従しつづけ、工芸スキルで身を支えていました。しかし、流浪することは、厳しい生活で、HEはしばしば、自分のスキルを生かせて、どこか安定して住める地の事を考えていました。</desc>
 	</WanderingCrafter28>
 	<TribalThunderer25>
-		<title>Tribal thunderer</title>
-		<titleShort>Thunderer</titleShort>
-		<desc>Years ago, NAME's tribe stumbled upon an abandoned gun vault. Believing the weapons to be sacred gifts, the shaman would select a child born under superstitious circumstances and assign them the honour of bearing one to defend the village. NAME is such a child.</desc>
+		<title>部族の雷神</title>
+		<titleShort>雷神</titleShort>
+		<desc>数年前、NAMEの部族は、放置された武器貯蔵庫を偶然見つけました。銃は神聖な贈り物と信じられ、シャーマンは、迷信的な神事の下に子供を選びだし、村を守る為の、銃を持つ名誉を与えました。NAMEは、そのような子供でした。</desc>
 	</TribalThunderer25>
 	<MutinousCaptain49>
-		<title>Mutinous captain</title>
-		<titleShort>Captain</titleShort>
-		<desc>NAME was taken to the stars by slavers after HIS tribe was decimated in a raid. Over the years HE learned the language of HIS captors, eventually working for them as an interpreter and diplomat.
+		<title>反乱船長</title>
+		<titleShort>船長</titleShort>
+		<desc>NAMEは、戦闘により、HIS部族の多数の人が殺されたあと、奴隷商人によって連れ去られました。数年後、HEは、HIM捕らえた者達の言葉を学び、最終的には、彼らの通訳と交渉の仕事をするようになりました。
 
-The captain only learned of NAME's true cunning when revenge was taken by form of mutiny.</desc>
+反乱によって復讐が成された時、船長は、NAMEの抜け目ない目的に、唯一気がつきました。</desc>
 	</MutinousCaptain49>
 	<CorpBredStudent62>
-		<title>Corp-bred student</title>
-		<titleShort>Student</titleShort>
-		<desc>NAME was bred to become an executive for the space exploration corporation that owned his home planet. HISCAP family had been working for that corporation for four generations.
+		<title>人工授精学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、宇宙探査株式会社の役員になる為に、HIS母星で人工授精によって生まれました。HISCAP家族は、会社の為に4世代も働き続けていました。
 
-At age five, HE enrolled at the corporate academy where he learned loyalty and ruthlessness. NAME excelled in finding diplomatic solutions where others would need violence.</desc>
+5歳になると、HEは、忠誠と無慈悲を学ぶために、会社付属の大学に入学しました。NAMEは、他が暴力を必要とする事案でも、交渉による解決方法を見つけるのに秀でていました。</desc>
 	</CorpBredStudent62>
 	<CorpResearcher37>
-		<title>Corp researcher</title>
-		<titleShort>Researcher</titleShort>
-		<desc>NAME was a leading researcher for a massive space exploration corporation.</desc>
+		<title>企業研究者</title>
+		<titleShort>研究者</titleShort>
+		<desc>NAMEは、巨大な宇宙探査会社の主任研究員になりました。</desc>
 	</CorpResearcher37>
 	<EarthColonist29>
-		<title>Earth colonist</title>
-		<titleShort>Colonist</titleShort>
-		<desc>NAME was born on Earth. As a child, HECAP was launched into space as part of an interstellar colonization program.</desc>
+		<title>地球植民者</title>
+		<titleShort>植民者</titleShort>
+		<desc>NAMEは、地球で生まれました。子供の頃に、HECAPは、惑星植民プログラムのもとに、宇宙に打ち上げられました。</desc>
 	</EarthColonist29>
 	<SoleSurvivor46>
-		<title>Sole survivor</title>
-		<titleShort>Survivor</titleShort>
-		<desc>NAME lived in a remote colony. When mechanoid centipedes attacked his home and killed his people, he was the last survivor.</desc>
+		<title>孤独な生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>NAMEは、辺鄙なコロニーに住んでいました。センチピードが、HIS家を攻撃し、人々を殺して、HEが唯一の生き残りになりました。</desc>
 	</SoleSurvivor46>
 	<MilitaryTrainee74>
-		<title>Military trainee</title>
-		<titleShort>Soldierboy</titleShort>
-		<desc>NAME was raised on a military base in the Xennoa system. HECAP was exposed to many different strenuous activities and grew strong at an early age. HECAP also learned negotiation, medical, and military tactics.</desc>
+		<title>練習兵</title>
+		<titleShort>少年兵</titleShort>
+		<desc>NAME、異種宇宙人の軍事基地の出身でした。HECAPは、多種の活発的な課外活動にさらされて、若いうちから強くなりました。HECAPは、交渉術、医学、戦術も身につけました。</desc>
 	</MilitaryTrainee74>
-	<AWOLSoldier46>
-		<title>AWOL soldier</title>
-		<titleShort>Soldier</titleShort>
-		<desc>NAME was an infantryman.
+	<AWOLSoldier54>
+		<title>AWOL兵士</title>
+		<titleShort>兵士</titleShort>
+		<desc>NAMEは歩兵でした。
 
-When HECAP was informed of his assignment to the Xennoa-Zartza War, HECAP decided he did not want to be a soldier. He was able to escape via military spacejet.</desc>
-	</AWOLSoldier46>
+HEが、Xennoa-Zartza戦役に配属になったことを知らされた時、HEは、兵士になりたくないと決意しました。HEは、軍用機を使って脱走しました。</desc>
+	</AWOLSoldier54>
 	<Bookworm75>
-		<title>Bookworm</title>
-		<titleShort>Bookworm</titleShort>
-		<desc>NAME spent his youth in the library, reading every book he could about the technical marvels of space travel, the engineering ingenuity of the space-faring pioneers, and the horrible yet fascinating tales of the mechanoid races. He vowed that one day, he would see these things for himself.</desc>
+		<title>本の虫</title>
+		<titleShort>本の虫</titleShort>
+		<desc>NAMEは、若い頃は図書館で、宇宙旅行の技術的驚異や、長距離宇宙航行開発者の工夫、恐ろしくて、まだ興味深いメカノイド種の物語についての本を読んで過ごしました。HEはある日、これらを自分の目で見ると誓いました。</desc>
 	</Bookworm75>
 	<Explorer36>
-		<title>Explorer</title>
-		<titleShort>Explorer</titleShort>
-		<desc>NAME traveled from planet to planet, gathering samples, stories, and research. He hoped one day to compile a record of every animal, plant, mineral, and machine and device in known space: The Complete Traveler's Guide to the RimWorlds.</desc>
+		<title>探検家</title>
+		<titleShort>探検家</titleShort>
+		<desc>NAMEは、惑星から惑星へと旅をし、サンプル、書籍、調査を収集していました。HEはいつか、全ての動物、植物、鉱物、機械、デバイスの記録を集めた本を編纂することを望んでいました：「The Complete Traveler's Guide to the RimWorlds.」</desc>
 	</Explorer36>
 	<ColonyKid89>
-		<title>Colony kid</title>
-		<titleShort>Colony kid</titleShort>
-		<desc>NAME was born the child of two doctors in a small colony. Because of HIS parents, HE was always interested in science and medicine.
+		<title>コロニー少年</title>
+		<titleShort>コロニー少年</titleShort>
+		<desc>NAMEは、小さなコロニーに住む、二人のドクターの子供として生まれました。HIS両親がもとで、HEは、いつも科学と薬品に興味を持っていました。
 
-NAME never really got along with other children, and as a result became withdrawn and unsociable.</desc>
+NAMEは、本当に、他の子達と上手くやっていく事が出来なかった結果、引っ込み思案で、内気な子になりました。</desc>
 	</ColonyKid89>
 	<StarshipDoctor78>
-		<title>Starship doctor</title>
-		<titleShort>Doctor</titleShort>
-		<desc>NAME was a doctor on a starship. He was a brilliant surgeon and dabbled in research of his own. However, he was quite reclusive and never had the best bedside manner.</desc>
+		<title>船医</title>
+		<titleShort>医者</titleShort>
+		<desc>NAMEは、宇宙船の船医でした。HEは、優秀な軍医であると共に、HIS自身の研究に手を出しました。HEは、完全に隔離され、最も良い患者の扱い方を持ち合わせていませんでした。</desc>
 	</StarshipDoctor78>
 	<CaravanChild53>
-		<title>Caravan child</title>
-		<titleShort>Child</titleShort>
-		<desc>NAME was born on a urbworld merchant ship to an entrepreneurial mother and an absent father. Born male, she disliked boy stuff, and got into her mother’s things all the time.
+		<title>キャラバン隊の子供</title>
+		<titleShort>子供</titleShort>
+		<desc>NAMEは、Urbworldの貿易船で、起業家精神あふれる母と、ぼんやりした父との間に生まれました。女性に生まれ、彼女は男性のスタッフを嫌い、いつも母親の事に興味を持っていました。
 
-Eventually, she traveled with her mother to a glitterworld and spent her savings on a body she was happy with.</desc>
+ついに、彼女は、彼女の母親と一緒に、Glitterworldへ向かい、彼女が満足していた身体に、彼女貯金を使いました。</desc>
 	</CaravanChild53>
 	<BountyHunter28>
-		<title>Bounty hunter</title>
-		<titleShort>Hunter</titleShort>
-		<desc>NAME was a bounty hunter on a massive glitterworld. HECAP worked sensitive assignments for extremely wealthy clients, and was known for quiet execution and total discretion.</desc>
+		<title>賞金稼ぎ</title>
+		<titleShort>賞金稼ぎ</titleShort>
+		<desc>NAMEは、壮大なGlitterworldの賞金稼ぎでした。HECAPは、大富豪なクライアントの為に、繊細な仕事をこなし、静かな仕事っぷりと、確かな判断で有名でした。</desc>
 	</BountyHunter28>
 	<ReEducatedYouth32>
-		<title>Re-educated youth</title>
-		<titleShort>Reeducated</titleShort>
-		<desc>NAME lived on a midworld where the government cared about the youth.
+		<title>再教育少年</title>
+		<titleShort>再教育者</titleShort>
+		<desc>NAMEは、Midworldで、政府が若者の面倒をみる施設に住んでいました。
 
-HECAP was one of the many children who were taken from their parents and forced into the new education programs.</desc>
+HECAPは、新しい教育プロクラムの為に、両親から引き離された子供達が、たくさんいる中の一人でした。</desc>
 	</ReEducatedYouth32>
-	<FallenOfficial88>
+	<FallenOfficial20>
 		<title>Fallen official</title>
 		<titleShort>Official</titleShort>
-		<desc>NAME was an official for an autocratic government.
+		<desc>NAMEは、独裁政府の役人でした。
 
-When HIS superiors demanded HE participate in atrocities, NAME resigned and escape from his homeworld with nothing but the clothes on HIS back.</desc>
-	</FallenOfficial88>
+HIS上司が残虐行為を要求してきた時、NAMEは、仕事を放棄して、服以外、何一つ持たずに母星から逃げ出しました。</desc>
+	</FallenOfficial20>
 	<AccursedChild43>
 		<title>呪われた子</title>
 		<titleShort>呪い</titleShort>
@@ -2482,8 +2442,7 @@ NAMEは、ライバルが彼女に火を点けてから、火を恐れるよう�
 	<IcePlanetChild56>
 		<title>氷惑星の少年</title>
 		<titleShort>氷の少年</titleShort>
-		<desc>凍った月面、荒野の海で、NAMEは、動物達と、少しの頑強な船乗り達を仲間にして育ちました。
-		Growing up on the frozen wastes of an ocean moon, NAME only had animals and a few hard-bitten sailors as companions.
+		<desc>凍った月面、荒野の海で、NAMEは、動物達と、少しの頑強な船乗り達だけを仲間として育ちました。
 
 社会的な相互関係の欠如は、彼を、エンジニアリングに対して興味を持たせることになりました - 代わりに人間らしさが失われました。</desc>
 	</IcePlanetChild56>
@@ -2495,18 +2454,18 @@ NAMEは、ライバルが彼女に火を点けてから、火を恐れるよう�
 時が流れて、彼は、彼の意のままに働く、小さなロボットを集めました。HECAPは、機械工学とエンジニアリングに熟練しましましたが、手作業の醍醐味を失いました。</desc>
 	</Roboticist87>
 	<ToxicChild59>
-		<title>Toxic child</title>
-		<titleShort>Toxic</titleShort>
-		<desc>Growing up on a an Industrial planet, NAME started working in a chemical plant at age of six. Years of exposure to industrial toxins left him mentally scarred.
+		<title>子供の中毒者</title>
+		<titleShort>中毒</titleShort>
+		<desc>工業惑星で育った、NAMEは、6歳になると化学工場で働き始めました。一年も公害に晒されていると、HEに精神的傷を負わせました。
 
-He eventually blew up the facility and escaped the planet in a stolen cargo ship.</desc>
+HEはやがて、施設を台無しにしてしまい、盗んだカーゴシップで惑星を脱出しました。</desc>
 	</ToxicChild59>
 	<StalwartFarmer91>
-		<title>Stalwart farmer</title>
-		<titleShort>Farmer</titleShort>
-		<desc>With the farm under constant threat from brigands, NAME learned to defend himself with his father's rifle. HECAP also mastered how to construct walls to keep livestock in and predators out.
+		<title>頑健な農夫</title>
+		<titleShort>農夫</titleShort>
+		<desc>山賊による絶え間ない脅威がある農家の、NAMEは、父のライフルで自分自身を守る方法を学びました。HECAPはまた、襲撃から家畜を守る為に、どのような壁を作ればよいかを、習得しました。
 
-He once tried to paint a picture of his home, but discovered that he could only draw scribbles and ducks.</desc>
+HEは、かつて、自宅に絵を描こうと努力したことがありましたが、アヒルの走り書き程度しか描けませんでした。</desc>
 	</StalwartFarmer91>
 	<BoyScout19>
 		<title>ボーイスカウト</title>
@@ -2516,12 +2475,61 @@ He once tried to paint a picture of his home, but discovered that he could only 
 HEは、屋外で元気に育ち、怪我を手当てする基礎知識などを含んだ、たくさんのサバイバルスキルを身につけました。</desc>
 	</BoyScout19>
 	<UrbworldPimp46>
-		<title>Urbworld pimp</title>
-		<titleShort>Pimp</titleShort>
-		<desc>At first, NAME made a small profit from selling drugs. Then, he switched to selling women and made a fortune.
+		<title>Urbworldのポン引き</title>
+		<titleShort>ポン引き</titleShort>
+		<desc>最初、NAMEは、ドラッグを売ることで、わずかな収入源を作り出しました。そして、HEは、売春業に衣替えして、ひと儲けしました。
 
-HECAP developed great skills with his fists. He also learned to fix up the injuries HE inflicted on the girls.</desc>
+HECAPは、HIS拳と共に、卓越した能力を発揮しました。HEはまた、HEが女性達に負わせた好ましくない怪我を、治療することを学びました。</desc>
 	</UrbworldPimp46>
+	<ScienceProdigy96>
+		<title>天才科学者</title>
+		<titleShort>天才</titleShort>
+		<desc>NAMEは、化学、物理、宇宙生物学、天文学、そしてオペラが、HISクラスの中でトップの成績でした。
+
+実験室での不幸な事故が、HEに、火に対して、ひどく怖がるようにさせました。</desc>
+	</ScienceProdigy96>
+	<ParticlePhysicist6>
+		<title>粒子物理学者</title>
+		<titleShort>物理学者</titleShort>
+		<desc>NAMEは、物理学の研究において、頭の回転が鋭い人でした。HEは、もっとより良い、平和な未来を作ることを、手助けしたいと思っていました。</desc>
+	</ParticlePhysicist6>
+	<SpeederRacer68>
+		<title>スピーダーレーサー</title>
+		<titleShort>レーサー</titleShort>
+		<desc>Rustyは、Khalderiaの塔のような森にある、シダ農場主の息子でした。
+
+HEは、レーシングスーツを着こみ、大きなキャノピーの中から、母星の見事な景色が見れる、スピーダーレーシングに惚れ込みました。
+レースの怪しげな地下社会もまた、HEに、自分自身の身は、自分で守ることを叩き込みました。</desc>
+	</SpeederRacer68>
+	<DefenseLawyer2>
+		<title>弁護士</title>
+		<titleShort>弁護士</titleShort>
+		<desc>NAMEは、ブラスターに頼るよりも、弁舌が立つほうが、より金を稼ぎやすいということに、気が付きました。仕事探しにおいて、HIS饒舌さは役に立ち、法律家に転職しました。
+
+HECAPは、よくHEと同じ年代を過ごした、違法なスピーダーレーサーの弁護をしました。</desc>
+	</DefenseLawyer2>
+	<MercenaryRecruit61>
+		<title>補充傭兵</title>
+		<titleShort>補充兵</titleShort>
+		<desc>歴代の傭兵として生まれた、NAMEは、せわしない貿易センターで育ちました。若い頃、HEは、ある傭兵のクルーにスカウトされました。</desc>
+	</MercenaryRecruit61>
+	<Ranger8>
+		<title>レンジャー</title>
+		<titleShort>レンジャー</titleShort>
+		<desc>NAMEは、深い森の中で、独りで生きてきました。HECAPは、密猟者から野生生物を守って来ました。そして、外の世界に助けを求めること無しに、HIS重要な必要物を充足することを身につけました。</desc>
+	</Ranger8>
+	<MarineCadet8>
+		<title>海軍士官候補生</title>
+		<titleShort>士官候補生</titleShort>
+		<desc>NAMEは、宙海軍士官候補生でした。
+
+HECAPは、将校を撃ったことで退官させられました。このことが事故かどうか、立証させれることはありませんでした。</desc>
+	</MarineCadet8>
+	<ClanChief70>
+		<title>Clan chief</title>
+		<titleShort>Chief</titleShort>
+		<desc>NAMEは、貿易ハブ星系の外縁で、小さな犯罪組織をまとめていました。</desc>
+	</ClanChief70>
 	<YoungPsychologist60>
 		<title>若い心理学者</title>
 		<titleShort>サイコ</titleShort>
@@ -2536,6 +2544,20 @@ HECAP developed great skills with his fists. He also learned to fix up the injur
 
 面白半分に、HEは、彼らを集め、彼らを人殺しへと従わせました。HECAPは、彼が持っている、リーダーシップを発する野望を、現実化するための、素質を持っている事を知っていました。</desc>
 	</FactionLeader69>
+	<LabGrownChild20>
+		<title>Lab-grown child</title>
+		<titleShort>Lab-grown</titleShort>
+		<desc>NAMEは、共生集合体の一部として、コロニー研究室で生まれましたが、新しい人類のあるべき姿を作りだすという点においては失敗しました。
+
+HISCAP少年時代は、読書と、マンツーマンによる勉強に明け暮れました。HEは、ブサイクで、内気、本当の本質的な人間性への経験が足りませんでした。</desc>
+	</LabGrownChild20>
+	<CorpResearcher9>
+		<title>Corp researcher</title>
+		<titleShort>研究者</titleShort>
+		<desc>NAMEは企業に売られて、企業の奴隷として、科学研究の作業をさせられていました。
+
+HIS職場での職場環境に適合出来なかったので、HEは、仕事だけに没頭して、昇進には縁がありませんでした。毎日、HEは会社を辞めたいと思っていました。</desc>
+	</CorpResearcher9>
 	<TechScholar7>
 		<title>テクノロジーの学者</title>
 		<titleShort>学者</titleShort>
@@ -2550,6 +2572,76 @@ HECAPは、知識向上のために、毎日努力していました。</desc>
 
 HECAPは、テクノロジーの研究が好きで、そうすることで、人の生活が向上することを願っていました。</desc>
 	</TechnologyDoctor90>
+	<PitGladiator18>
+		<title>闘技場の剣闘士</title>
+		<titleShort>剣闘士</titleShort>
+		<desc>NAMEは、子供の時に奴隷にされ、むりやり、危険な生き物や、他の人間と、地下の闘技場で、戦わされていました。
+
+HECAPは、スポーツに類似した戦いを見せ、ついには自由を獲得しました。しかしながら、HIS闘技場で過ごした時は、HEに知的なものを、もたらすことはありませんでした。</desc>
+	</PitGladiator18>
+	<PirateTrooper88>
+		<title>宙賊の戦士</title>
+		<titleShort>戦士</titleShort>
+		<desc>NAMEは、有名な、恒星間をまたにかける犯罪組織に加入し、よく、宇宙船襲撃時には、よく奇襲部隊の一部として参加していました。
+
+HIS戦闘経験は、HEを良い戦士にしたが、無慈悲な任務は、HIM冷血漢にし、人付き合いには関心を持たなくしました。</desc>
+	</PirateTrooper88>
+	<FactoryWorker58>
+		<title>工場労働者</title>
+		<titleShort>労働者</titleShort>
+		<desc>Felixは、工業世界の大きな工場都市で育ちました。
+
+ずっと、貧困は激しく、食料は不足して、HEは、HEができるであろう事なら、なんであろうと賃金の為に働きました。楽な人生はありませんでしたが、Felixは、きつい仕事を嫌がることはありませんでした。</desc>
+	</FactoryWorker58>
+	<CombatMedic16>
+		<title>衛生兵</title>
+		<titleShort>衛生兵</titleShort>
+		<desc>HIS母国が世界大戦に突入してから、Felixは、衛生兵として軍に徴兵されました。
+
+塹壕の中で過ごしたHIS何年かは、戦友を生かし続けようと努力し、応急手当のための重大な判断をしていました。多くの友人を失ったことは、HIM控えめで無関心な人間にしました。</desc>
+	</CombatMedic16>
+	<RichBoy51>
+		<title>お大尽な子</title>
+		<titleShort>裕福な子</titleShort>
+		<desc>NAMEは、Midworldで親の愛と、可愛いペット、たくさんのお金に恵まれて育ちました - 友達は一人もいませんが。
+
+HECAPは、HIS父から、「貧乏人の奴らは、金だけが目当てだ」と、いつも言われていました。ですから、HEは、ほとんどの時間、独りでいるか、他の子供とケンカして過ごしました。</desc>
+	</RichBoy51>
+	<HiredGun99>
+		<title>Hired gun</title>
+		<titleShort>Hired gun</titleShort>
+		<desc>NAMEは、いつも、親が居なくても生きていけることを、証明して見せたがっていました。HECAPは、無実な人に、銃を突きつけるに等しい、怪しい仕事をしていました。
+
+HEは、ついに、格安輸送船に乗るチケット代に、十分な金を稼ぎましたが、その船が難破した時、やっと値段が格安だった意味に気が付きました。</desc>
+	</HiredGun99>
+	<Athlete75>
+		<title>アスリート</title>
+		<titleShort>アスリート</titleShort>
+		<desc>NAMEは、少年時代には、プロのアスリートでした。HIS技能のおかげで、HEは、母星を離れることができ、Glitterworldの科学技術大学に入学しました。
+
+多忙を極めるスケジュールと、生まれつきの内向的な性格で、人付き合いが不器用になりました。</desc>
+	</Athlete75>
+	<StilettoAssassin10>
+		<title>短剣暗殺者</title>
+		<titleShort>暗殺者</titleShort>
+		<desc>HIS技能がもとで、NAMEの優れている点が見出されました。同じ時に、HEは人への共感を失いました。HEは、しばしば戦いに関わっているうちに、人の簡単な殺し方を発見しました。
+
+自分の才能に気がついた後は、HEは、組織の中で、もっとも腕の立つ暗殺者の一人になりました。</desc>
+	</StilettoAssassin10>
+	<SoleSurvivor99>
+		<title>ただひとりの生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>Hawkeの部族は、不可解な疫病によって死に絶えました。
+
+ただ一人だけ見つかった子は、他の部族に養子に引き取られましたが、その部族の人には、なつく事はありませんでした。HEは、新しい家を留守にして、森を散策したり、動物の世話をしたがりました。</desc>
+	</SoleSurvivor99>
+	<Hunter7>
+		<title>ハンター</title>
+		<titleShort>ハンター</titleShort>
+		<desc>Hawkeは、マスターハンターになりました。
+
+HEは、もっとも危険な場所においても、獲物を追跡し、罠を仕掛ける術を学び、 特定の大型動物を倒す為の、多くの工夫に富んだ仕掛けに対する深い知識をもっていました。</desc>
+	</Hunter7>
 	<MechanoidHacker35>
 		<title>メカノイドハッカー</title>
 		<titleShort>メックハッカー</titleShort>
@@ -2558,18 +2650,30 @@ HECAPは、テクノロジーの研究が好きで、そうすることで、人
 HECAPは、生産性を高める為にドラッグを使用していました。不幸なことに、副作用として、永続的な、機械化妄想をもたらし、HIS社会生活が制限されてしまいました。</desc>
 	</MechanoidHacker35>
 	<BattlefieldTech63>
-		<title>Battlefield tech</title>
-		<titleShort>Technician</titleShort>
-		<desc>NAME had received firearms training, but HIS work was focused on technical adaption and manipulation of combat mechanoids on the battlefield.
+		<title>戦場の専門家</title>
+		<titleShort>専門家</titleShort>
+		<desc>NAMEは、重火器の訓練を受けさせられ、HIS任務は、戦場における、技術的適合と、戦闘用メカノイド操作を重点的に扱うものでした。
 
-HECAP developed PTSD after narrowly escaping a primitive firebomb attack in a wheat field. The army medically discharged him from service.</desc>
+HECAPは、麦畑において、原始的な焼夷弾攻撃から、辛うじて脱出したあとに、PTSDを発症しました。軍医はHIM除隊させました。</desc>
 	</BattlefieldTech63>
+	<ProjectSubject48>
+		<title>プロジェクト対象</title>
+		<titleShort>対象</titleShort>
+		<desc>NAMEは、不可解な"Frame Project"に携わる政府のエージェントによって選ばれました。
+
+記憶操作によって、HEは、このプロジェクトや、真の目的について、まったく覚えていませんでした - ほとんど、生存者はいませんでしたが。</desc>
+	</ProjectSubject48>
+	<MasterTrader3>
+		<title>マスタートレーダー</title>
+		<titleShort>貿易業者</titleShort>
+		<desc>NAMEは、最上級の貿易業者になりました。HECAPは、たすけた村によって、ニックネームをつけられました。</desc>
+	</MasterTrader3>
 	<HexCellArtist19>
 		<title>Hex-cell アーティスト</title>
 		<titleShort>アーティスト</titleShort>
-		<desc>NAME crafted sculptures from spent hex-cells and traded them to a local museum for food.
+		<desc>NAMEは、消耗したHex-cellから彫刻を彫り、食べ物を得るために、地元の博物館で交換していました。
 
-After HIS popularity grew, HE was approached by a pirate and abducted. The pirate kept HIM prisoner and forced HIM to create sculptures for sale.</desc>
+HIS知名度が上がると、HEは宙賊によって誘拐されました。宙賊は、HIM囚人にしたのち、売るために彫刻を無理矢理作らせました。</desc>
 	</HexCellArtist19>
 	<ExoticChef84>
 		<title>エキゾチックシェフ</title>
@@ -2578,6 +2682,180 @@ After HIS popularity grew, HE was approached by a pirate and abducted. The pirat
 
 HISCAPの素材探しは、HIM植物相や、動物相の天職にさせました。</desc>
 	</ExoticChef84>
+	<PlagueProdigy12>
+		<title>疫病と天才</title>
+		<titleShort>天才</titleShort>
+		<desc>NAMEの幼少期は、HIS母星を不可思議な疫病が蔓延したときに終わりを告げました。
+
+HECAPは、親友の死を目のあたりにしたとき、彼の人間性としての思いやりも同時に失われました。こんな境遇の中、新しい知識欲が沸き上がってきました。</desc>
+	</PlagueProdigy12>
+	<MadScientist79>
+		<title>マッドサイエンティスト</title>
+		<titleShort>科学者</titleShort>
+		<desc>NAMEの強い知識欲は、研究方法に立ちふさがる者、全てを蔑視することでのみ、釣り合いがとれている。
+
+世界中を旅して、HEは答えを探しつづけた。</desc>
+	</MadScientist79>
+	<PoorKid76>
+		<title>貧しい児童</title>
+		<titleShort>貧しい児童</titleShort>
+		<desc>親に捨てられた、NAMEは、10歳になるまでに、自分一人で生き抜く方法を身につけました。</desc>
+	</PoorKid76>
+	<Warrior43>
+		<title>勇士</title>
+		<titleShort>勇士</titleShort>
+		<desc>NAMEは、 HIS惑星上で起きた第三次世界大戦において英雄でした。HECAPは、とりわけ、にらみ合いによる緊張の糸が張り詰める中、核兵器の発射を妨げることに助力しました。</desc>
+	</Warrior43>
+	<Dreamer11>
+		<title>夢想家</title>
+		<titleShort>夢想家</titleShort>
+		<desc>NAMEは、表情の豊かな子供でした。HECAPは、よく歌を歌い、老若男女問わず、友達もよく出来ました。
+
+HECAPは、争いを憎んでいましたが、HEが、とても腹が立てた時は、物騒な人でした。とても短気な性格です。</desc>
+	</Dreamer11>
+	<SpaceExplorer81>
+		<title>宇宙探検家</title>
+		<titleShort>探検家</titleShort>
+		<desc>NAMEは、かつて10年ほど、異星人の惑星に独りで囚われていました。HECAPは、すぐにその地の環境に適応し、異星人とコミュニケーションを取る方法を身につけました。
+
+長い期間を友人もいないまま、独りで過ごしました。HISCAP心は繊細ですが、HEは、自分の感情を押し殺す方法を、じつによく身につけました。</desc>
+	</SpaceExplorer81>
+	<UrbworldUrchin13>
+		<title>Urbworldの悪ガキ</title>
+		<titleShort>悪ガキ</titleShort>
+		<desc>Meredithは、Urbworldの暗黒スラム街に生まれました。母親から育児放棄され、HEは、目にした食べかすの為にでも争い、独りで生き残る方法を身につけました。
+
+ついには、HIS才能は他を圧倒し、HEは、闇の底から地表へと這い上がりました。母親を置き去りにして。</desc>
+	</UrbworldUrchin13>
+	<Smuggler62>
+		<title>密輸業者</title>
+		<titleShort>密輸業者</titleShort>
+		<desc>請負パイロットとして、Meredithは、当局に捕まることなく、奴隷の密輸や、積荷の横流しの才覚を表しました。
+
+HEは最終的に、自分自身の船を持つのに十分な資金を貯めたので、その船で、世界中を旅してまわり、自分自身で密輸品を取り引きしました。</desc>
+	</Smuggler62>
+	<MilitaryRecruit62>
+		<title>新兵</title>
+		<titleShort>新兵</titleShort>
+		<desc>NAMEは、Midworldの強烈な軍国主義的独裁政権下に生まれました。
+
+若い頃から、HEは、優れた戦士になる為に訓練されてきました。彼らは、銃の使い方や、白兵戦の戦い方を、HIM教えてきました。</desc>
+	</MilitaryRecruit62>
+	<DestroyerGeneral40>
+		<title>駆逐艦司令</title>
+		<titleShort>司令官</titleShort>
+		<desc>NAMEは、強力なMidworld軍の中で、駆逐艦司令の地位を確保しました。
+
+HECAPは、武器の精通者として知られ、優れたパイロットでもありました。</desc>
+	</DestroyerGeneral40>
+	<StreetUrchin51>
+		<title>街の悪ガキ</title>
+		<titleShort>悪ガキ</titleShort>
+		<desc>Urbworldの貧しい家庭に生まれたNAMEは、小さい時に街角に捨てられました。
+
+HEは、冷酷なストリートで生き残る為に、盗みや人殺しを身につけ、格闘戦から射撃戦までの能力を鍛えてきました。HIS人生を語るには、ほとんど時間がありませんでした。</desc>
+	</StreetUrchin51>
+	<SerialMurderer52>
+		<title>連続殺人者</title>
+		<titleShort>殺人者</titleShort>
+		<desc>NAMEは、楽しんで人殺しをすることを始め、そして、より完璧にHISやり方で、人殺しをこなすようになりました。HEは、街並みのもっと暗いところに潜み、何時間も獲物をつけ回しました。
+
+HEは、HIS被害者を使ってアートワークを残すことを楽しみ、HEが殺した死体の上に、HISサインを残す事で知られていました。</desc>
+	</SerialMurderer52>
+	<KidScientist80>
+		<title>科学者の卵</title>
+		<titleShort>科学者</titleShort>
+		<desc>有力者の家庭に生まれ、NAMEは、できる限り最高の教育を受けました。彼の才能は、直ぐに多くの分野において、上のクラスになることで証明されました。
+
+しかしながら、協調性が欠けている事が、たやすく、両親や教師と対立させました。</desc>
+	</KidScientist80>
+	<MadScientist65>
+		<title>マッドサイエンティスト</title>
+		<titleShort>科学者</titleShort>
+		<desc>教育課程を終えた後、NAMEは、先端遺伝子研究所に雇われました。のちに、彼女は、実験中の不法で非人道的な実験が見つかり。
+
+有力者の家系であるにも関わらず、彼女は、有罪判決を受け、流刑コロニーでの重労働の刑に処せられました。</desc>
+	</MadScientist65>
+	<MedievalThief74>
+		<title>中世の盗賊</title>
+		<titleShort>盗賊</titleShort>
+		<desc>NAMEは、中世時代の、貧しくて飢えた中で育ち、自分自身で食べていくことを身につけました。
+
+最初は、HEが必要な物だけを獲っていましたが、次第に、HEが欲しい物を獲ることを身につけました。</desc>
+	</MedievalThief74>
+	<HumanTrafficker69>
+		<title>Human trafficker</title>
+		<titleShort>Trafficker</titleShort>
+		<desc>NAMEは、子供を盗んでは、興味を示した買い手に売りつけていました。
+
+やがて、HEは、そのほんの少ししか無かった良心も失いました。</desc>
+	</HumanTrafficker69>
+	<TraumatizedYouth62>
+		<title>トラウマ</title>
+		<titleShort>トラウマ</titleShort>
+		<desc>NAMEは、心地良いMidworldに住んでいました。
+
+HISCAP人造母は、心臓病に罹りました。絶望感の中、NAMEの父は、無実な人を誘拐し、その心臓を取り出しました。NAMEの父は逮捕されましたが、子供は、心に傷を負ったまま残されました。</desc>
+	</TraumatizedYouth62>
+	<MentalPatient64>
+		<title>精神病患者</title>
+		<titleShort>患者</titleShort>
+		<desc>NAMEは、精神医学の病院に収容されました。そこで、HEは、精神病院での心を落ち着かせる活動をして過ごしていました。
+
+HECAPは、ようやく退院しましたが、HIS心理的な距離や、人体解剖への好奇心や、躁病からくる笑い方は、そのままにされました。</desc>
+	</MentalPatient64>
+	<YouthSoldier75>
+		<title>少年兵</title>
+		<titleShort>兵士</titleShort>
+		<desc>戦士の家系に生まれた、NAMEは、軍事教練に参加しました。
+
+HECAPは、フィジカルトレーニングに秀でて、さらには、ほとんどの知的な練習問題もパスしました。HEは、特に頭の回転が速い訳ではないので、NAMEは、つらい訓練を繰り返し繰り返すことの価値を身につけました。</desc>
+	</YouthSoldier75>
+	<SpaceMarine48>
+		<title>海兵隊員</title>
+		<titleShort>海兵隊員</titleShort>
+		<desc>NAMEは、帝国海軍の軍人でした。
+
+HISCAP任務は、敵艦に強襲乗艦し、搭乗員の武装解除して艦を無傷で鹵獲することでした。HEは非常に優秀でした。</desc>
+	</SpaceMarine48>
+	<GalacticPage15>
+		<title>宇宙艦隊付秘書官</title>
+		<titleShort>秘書官</titleShort>
+		<desc>NAMEは、宇宙艦隊の海軍大将に仕えていました。HECAPは、礼儀作法や話術などを含んだ、御前会議の作法を学びました。
+
+封建社会の中では、そのような名声を持った人に仕えることは、大きな名誉であると尊敬されていました。</desc>
+	</GalacticPage15>
+	<EnvoyOfTheStars91>
+		<title>銀河系特使</title>
+		<titleShort>特使</titleShort>
+		<desc>NAMEは、外交部隊に入隊しました。HEがこなした全ての作戦で、栄誉と伝統が価値となりました。
+
+HISCAP誉れ高い地位によって、骨の折れる重労働からは無縁になり、HEを文筆家として集中できるようになりました。HEは鍛冶職を、他の人に任せました。</desc>
+	</EnvoyOfTheStars91>
+	<ApprenticeSmith9>
+		<title>鍛冶見習い</title>
+		<titleShort>見習い</titleShort>
+		<desc>NAMEは、父の鍛冶屋を手伝って育ちました。
+
+彼らは、その惑星上にいくつか残った、昔ながらの方法を今に伝える最後の鍛冶屋でした。彼らは、幾つかの素材を、彼ら自身で、まさに集めています。
+
+仕事の後、ときどき、NAMEは、HEが鍛えた剣をつかって、剣の練習をしたものでした。</desc>
+	</ApprenticeSmith9>
+	<Blacksmith32>
+		<title>鍛冶職人</title>
+		<titleShort>鍛冶職人</titleShort>
+		<desc>中世時代の鍛冶職人として、NAMEは、HIS仕事の品質が優れているという評判を得ていました。HECAPは、鍛冶屋としてだけではなく、剣の使い手としても、悪くありませんでした。</desc>
+	</Blacksmith32>
+	<CloneFarmed43>
+		<title>クローン培養生まれ</title>
+		<titleShort>使い捨て</titleShort>
+		<desc>クローン児とは、有機体に満ちた人工母胎に播種され、擬似世界の中で、成長加速された子供をいいます。彼らは、後に、ある時は食料として、ある時は代替臓器として、またある時は作業員として収穫されました - 彼ら常に"使い捨て"と呼ばれています。</desc>
+	</CloneFarmed43>
+	<CloneFarmer72>
+		<title>クローン労働者</title>
+		<titleShort>クローン人間</titleShort>
+		<desc>クローン培養工場における生産品の収穫作業は、ほとんどをクローン人間自身によって成されていました - とりわけ、それらのシムたちは、社会性を持つ傾向がありました。このクローンも、そのような一体で、培養工場から脱走して、他の星を目指しました。</desc>
+	</CloneFarmer72>
 	<GangMember12>
 		<title>ギャングの構成員</title>
 		<titleShort>半グレ</titleShort>
@@ -2592,6 +2870,20 @@ HISCAPの素材探しは、HIM植物相や、動物相の天職にさせまし�
 
 こんな事を続けたあと、彼は、地元惑星系で、もっとも手配された犯罪者の一人になりました。</desc>
 	</GangBoss0>
+	<MilitantChild30>
+		<title>訓練兵</title>
+		<titleShort>兵士</titleShort>
+		<desc>NAMEの軍人一家は、HEに徒手格闘技と戦術の訓練を積ませました。
+
+HIS自分の時間には、HEは小さな発明品を作っていました。このことは、HIS心を研ぎすませました。</desc>
+	</MilitantChild30>
+	<LostMarine68>
+		<title>行方不明の海兵</title>
+		<titleShort>脱走兵</titleShort>
+		<desc>軍の中でも尊敬される地位に昇進して間もなく、NAMEは跡形も無く姿をくらましました。
+
+のちに、HEは、元いた司令部に再び現れました。誰も、HEが何者か、なぜ来たのか知りませんでした。</desc>
+	</LostMarine68>
 	<Killer70>
 		<title>殺人鬼</title>
 		<titleShort>殺人鬼</titleShort>
@@ -2600,12 +2892,54 @@ HISCAPの素材探しは、HIM植物相や、動物相の天職にさせまし�
 彼の父親が、彼の母親を裏切り、殺すさまを目撃してからというもの、彼女は、自分の手によって、もっとたくさんの人々の、死ぬさまを見たいと熱望しました。</desc>
 	</Killer70>
 	<Healer46>
-		<title>Healer</title>
-		<titleShort>Healer</titleShort>
-		<desc>NAME took the time to admire the beauty of the world.
+		<title>ヒーラー</title>
+		<titleShort>ヒーラー</titleShort>
+		<desc>NAMEは、世界の美しさを賞賛することを惜しまずにしました。
 
-Her passive aggressiveness surfaced once in a while, but she tried to adapt to her changing life.</desc>
+HIS受動的な攻撃性が、たまには現れましたが、彼女は、変えた生き方に順応させようと努力していました。</desc>
 	</Healer46>
+	<ProfessionalGamer86>
+		<title>プロゲーマー</title>
+		<titleShort>プロゲーマー</titleShort>
+		<desc>NAMEは、ジョイスティックを握るには十分な程、手が大きくなって以来、ビデオゲームに心を奪われてきました。
+
+HECAPは、16bitPC全盛の世界で、ゲームの地方トーナメントで、中ぐらいの成績を幾つも達成しました。HEが10代の初期に引退したときも、誰も気にしませんでした。</desc>
+	</ProfessionalGamer86>
+	<ToasterRepairman81>
+		<title>トースター修理屋</title>
+		<titleShort>修理屋</titleShort>
+		<desc>手先が器用で、テクノロジーには情熱的なNAMEは、自分の世界を永久に変えてしまうような、ガジェットや機械を発明したいと熱望していました。
+
+何回か失敗し、ちょくちょく悲惨な結果を招いたので、HEは自分の夢をあきらめ、自分の才能にもっとふさわしい仕事に就きました。</desc>
+	</ToasterRepairman81>
+	<DataDecoder25>
+		<title>データデコーダ</title>
+		<titleShort>デコーダ</titleShort>
+		<desc>Glitterworldに生まれ、NAMEは、情報文書化プロセスに非常に興味を持ち、直ぐに、上級Glitterpediaの書記官になりました。
+
+HECAPは、自己学習の能力が高いのですが、HEは、人付き合いが苦手でできません。</desc>
+	</DataDecoder25>
+	<ArchotechSpy14>
+		<title>ARCHOTECHスパイ</title>
+		<titleShort>AIスパイ</titleShort>
+		<desc>NAMEは、人工知能の研究者でした。卓越した世界を研究し、HEは、HISテーマに、あまりにも没頭してしまい、そのうち、ARCHOTECHマシンコアは、彼を機能の一つに採用し、スパイとして活用しました。
+
+のちにHEは、HIS非人間なマスターに反旗を翻すと、マスターは、HIM狩る為にメカノイドを送り込みました。</desc>
+	</ArchotechSpy14>
+	<WolfPackMember79>
+		<title>ウルフパックメンバー</title>
+		<titleShort>野生児</titleShort>
+		<desc>NAMEは、HIS家族によって捨てられました。狼達に育てられ、HEは、追い、狩りをして、HIS群れを守りました。
+
+HECAPは、歯と爪を使った効果的な戦いかたを身につけました。HECAPはまた、 残忍で効果的な原始的狩りの方法も身につけました。</desc>
+	</WolfPackMember79>
+	<BehaviourResearch99>
+		<title>行動理論研究</title>
+		<titleShort>科学者</titleShort>
+		<desc>捕まえられたオオカミ少年のNAMEは、現代社会の中にむりやり放り込まれました。HECAPは、直ぐに適応し、行動科学の研究者になり、ついには、自分の研究施設を持つに至りました。
+
+HECAPは、犬科を専門に扱いましたが、全ての動物についても卓越した知識を身につけました。HECAPは植物には興味を全く持ちませんでした。</desc>
+	</BehaviourResearch99>
 	<RebelStudent39>
 		<title>反乱学生</title>
 		<titleShort>学生</titleShort>
@@ -2620,12 +2954,68 @@ Her passive aggressiveness surfaced once in a while, but she tried to adapt to h
 
 Mattは、彼の仲間から、ゲリラ戦術のトレーニングと、戦闘方法を受けましたが、己の信念に妥協することも駆り立てられました。</desc>
 	</PoliticalActivist61>
-	<ChildKnave65>
-		<title>Child-knave</title>
-		<titleShort>Knave</titleShort>
-		<desc>NAME was a child-knave of King Loteric. HECAP enjoyed the training with wooden sticks and engaging others in close combat. HECAP adapted quickly to the heat of battle and was good at spreading fire.
+	<Cadet99>
+		<title>士官候補生</title>
+		<titleShort>士官候補生</titleShort>
+		<desc>惑星"New China"生まれの、NAMEの父は警察署長で、HIS子供には、極度に厳格なしつけをして育てました。
 
-HECAP served his lord well, until the king died in an unfortunate accident.</desc>
+NAMEは、軍隊式の訓練体操を毎日しなければならず、自分の部屋は、一点の汚れも無い綺麗な部屋にし、常に抜き打ち検査の準備をしていました。HECAPは暴力をひどく嫌うようになりました。</desc>
+	</Cadet99>
+	<Flaneur73>
+		<title>怠け者</title>
+		<titleShort>怠け者</titleShort>
+		<desc>NAMEは、街並みをぶらぶら歩き、カフェで飲み物をすすり、いつも、自由を追い求め、何かに所属するような事はありませんでした。
+
+人生を通して、HEは他人を信用せず、誰からの指図も受けませんでした。</desc>
+	</Flaneur73>
+	<ShipTechnician62>
+		<title>宇宙船技術者</title>
+		<titleShort>技術者</titleShort>
+		<desc>NAMEは、HIS主系惑星と、宇宙ステーションとの間を往来する、貿易船の見習い技術者でした。仕事上、HEは、たくさんの機械を修理し、改良する方法を学びました。
+
+ときどき、HIS船は、危険な宇宙領域への、短期間の探査任務に割り当てられました。</desc>
+	</ShipTechnician62>
+	<ChiefEngineer74>
+		<title>チーフエンジニア</title>
+		<titleShort>エンジニア</titleShort>
+		<desc>大型の宇宙船にチーフエンジニアとして乗船したNAMEは、難解で複雑な事全てに対してのエキスパートでした。
+
+HEは、基本的な人生に必要不可欠な幾つかの事を、クルーの他のメンバーに頼っていました。HEとHIS船は、長距離探査航海へのロングスリープに入り、やがて姿を消しました。</desc>
+	</ChiefEngineer74>
+	<BlacksmithsSon72>
+		<title>鍛冶屋の息子</title>
+		<titleShort>鍛冶屋</titleShort>
+		<desc>NAMEの父は、荒れ果てた旧市街地区に店を構えていました。NAMEは、HEができる時はいつも、父の仕事を手伝ったものでした。
+
+後に、HIS父は、HIM鍛冶屋見習いにして、独り立ちさせました。NAMEは、趣味として射撃もしていました。</desc>
+	</BlacksmithsSon72>
+	<BlacksmithShooter88>
+		<title>ガンマン鍛冶屋</title>
+		<titleShort>ガンスミス</titleShort>
+		<desc>若い鍛冶師として、NAMEの家族経営の店は、警察に急襲されました。HECAPは、彼らがHIM殴り倒し逮捕するよりも早く、二人の警官に発砲しました。
+
+無期懲役の判決をうけたNAMEは、他の懲役から、宇宙航海や、襲撃についての知識を学びました。</desc>
+	</BlacksmithShooter88>
+	<JoywireAddict67>
+		<title>ジョイワイヤー常習者</title>
+		<titleShort>常習者</titleShort>
+		<desc>NAMEの裕福な両親は、HEが欲しがる物全てを与えました。ジョイワイヤーを発見すると、HEは、それに取り憑かれました。HIS両親が、なにが起きたのか気が付くと、彼らは、それを一旦取り外しました。
+
+冷酷で、しばしば暴力的になる、HEは、あらゆる意味で、やめられない、新たなジョイワイヤーを探していました。</desc>
+	</JoywireAddict67>
+	<AddictionCounsel61>
+		<title>依存症カウンセラー</title>
+		<titleShort>カウンセラー</titleShort>
+		<desc>ジョイワイヤー中毒症状を克服した後、NAMEは、暴力を用いない生き方に適応し、他人でも助けることを固く約束しました。
+
+生活共同体を渡り歩き、HEは、中毒症状に苦しむ人を助けるために、治療薬や、絵画、工芸を用いています。</desc>
+	</AddictionCounsel61>
+	<ChildKnave65>
+		<title>小姓</title>
+		<titleShort>小姓</titleShort>
+		<desc>NAMEは、Loteric王の小姓でした。HECAPは、木の棒を使った訓練や、他の近接戦闘も楽しんでいました。HECAPは、戦闘の最中でも迅速に適応し、攻撃を展開するのが上手でした。
+
+HECAPは、王が不運な事故で死ぬまで、王によく仕えました。</desc>
 	</ChildKnave65>
 	<BloodgameSurvivor96>
 		<title>生き残りゲームの生存者</title>
@@ -2634,6 +3024,153 @@ HECAP served his lord well, until the king died in an unfortunate accident.</des
 
 HISCAP自然を巧みに操る能力は、観客にさえ悪夢のようでした。HEは、猛獣や、犯罪者、そして空撮ドローンだらけの惑星におっぽり出されました。</desc>
 	</BloodgameSurvivor96>
+	<WastelandWanderer2>
+		<title>Wastelandの放浪者</title>
+		<titleShort>放浪者</titleShort>
+		<desc>乾いた世界の裕福な家庭に生まれた、NAMEは、雇われた傭兵達が、先祖代々の家を破壊したために、社会から追放されました。
+
+少年は、HIS家族の家がある、地下の冷房用ダクトに、なんとか隠れることができました。殺し屋と、それを雇った雇い主に対して復讐を固く誓い、Lucasは、独りWastelandで、新たな人生を踏み出しました。</desc>
+	</WastelandWanderer2>
+	<VoidspaceRaider8>
+		<title>無の空間レイダー</title>
+		<titleShort>レイダー</titleShort>
+		<desc>HIS家族をバラバラにした暗殺者を探して数年がたったあと、NAMEは、大気圏外襲撃者のグループに身を置くことを勧められたので、HEは、殺し屋を探しだす見込みがあるとして承諾しました。
+
+HIS見たからに果てしない才能と、かろうじて危険から脱出する運の良さもあって、ついたあだ名は'Blackjack'でした。</desc>
+	</VoidspaceRaider8>
+	<PyroAssistant17>
+		<title>放火癖の助手</title>
+		<titleShort>助手</titleShort>
+		<desc>工業社会の中で、NAMEは、働かざる者食うべからずということを、早いうちに身につけました。そして、HEはそうしました。大人には出来無い事も、子供なら場に溶け込め、安全規則も柔軟に適用されました。
+
+HECAPは、ほんのちょっぴり放火魔で、不幸な偶発事故の後からは、キッチンには出入り禁止になりました。</desc>
+	</PyroAssistant17>
+	<MachineFixer97>
+		<title>機械修理屋</title>
+		<titleShort>修理屋</titleShort>
+		<desc>NAMEは、機械的な問題が、キッチンに関係していない限りは、その問題に対応できる熟練者でした。
+
+危険な機械装置や、可燃性の化学薬品のそばで過ごしたことで、HEは、自分自身への応急手当の施し方を、かなり学びました。痛みにかかわらず、HEは、火を避けるようにはなりませんでした。</desc>
+	</MachineFixer97>
+	<StreetUrchin39>
+		<title>街の悪ガキ</title>
+		<titleShort>Grifter</titleShort>
+		<desc>家を飛び出してから、NAMEは、路上で生活しなければなりませんでした。
+
+HEは、成長が早く、人々を騙して、HEの為にさせる方法を見ぬくことも、覚えも早かったです。</desc>
+	</StreetUrchin39>
+	<SpaceMerchant61>
+		<title>宇宙商人</title>
+		<titleShort>商人</titleShort>
+		<desc>惑星間自由貿易業者の一部として、NAMEは、ビジネス上のライバルと同じくらい、HEが優位にたつ為に、儲けのでかいビジネスチャンスを探していました。HEがまだ、自分の宇宙船を所有していなかった時は、チャーター船を借りて商売をしていました。</desc>
+	</SpaceMerchant61>
+	<ChildChemist73>
+		<title>化学者</title>
+		<titleShort>化学者</titleShort>
+		<desc>Midworldの子供、NAMEは、万物がどうやって機能しているのかを、正確に理解したいと執着していました。
+
+HECAPは、貴重な試料を集めで、それらで危険な実験を行なっていました。その実験も佳境に入ってくると、HEは社会から隔離されるようになり、HECAPだけが、もっと試料を集める為に、調査区域に取り残されました。</desc>
+	</ChildChemist73>
+	<BeastSlayer8>
+		<title>ビーストスレイヤー</title>
+		<titleShort>スレイヤー</titleShort>
+		<desc>NAMEは、惑星間を旅して、野生動物に関るニュースを追ってしました。HECAPは、何週間も惑星でキャンプしては、殺す前に獲物を観察しました。HECAPは、スランボを狩る事を至上の喜びとしています。
+
+独りで作業をしたがるNAMEは、狩りのスリルと、獲った肉を手に入れることに喜びを感じます。</desc>
+	</BeastSlayer8>
+	<BrothelGofer60>
+		<title>売春宿の使い走り</title>
+		<titleShort>使い走り</titleShort>
+		<desc>一世紀に渡る経済崩壊によって破壊された、蒸気機関が主流のMidworldに生まれた、NAMEは、若い頃から、行商や、靴磨き、針子などの働きに出ていました - HEは掛け持ちしていました。
+しかし、HEは、売春宿の使い走りとして最も知られており、媚薬を吸う道具や、薬など全てを、娼婦達の部屋まで運んでいました。</desc>
+	</BrothelGofer60>
+	<DrugLieutenant88>
+		<title>ドラッグ密売人</title>
+		<titleShort>ドラッグ密売人</titleShort>
+		<desc>NAMEは、ボスGrady Loughmanの元で、ドラッグの密売をして働いていました。HEは、儲けになると分かると手下を使ってドラッグを売ったり、政府が取締を強化すると、他のカルテルと抗争しました。
+
+HISソーシャルスキルの高さが、HEを派閥争いでトップの位置に居続けることにさせました。HEは、いつも、掃除と料理をさせる使用人を使っていました。</desc>
+	</DrugLieutenant88>
+	<LaborCampOrphan93>
+		<title>孤児収容所</title>
+		<titleShort>孤児</titleShort>
+		<desc>NAMEは、工場事故で両親を失い、孤児収容所で育ちました。 監督官は無情にも彼らの収入の為に働いていた - しかし、少なくとも彼女は服を着て、食べる事ができた。</desc>
+	</LaborCampOrphan93>
+	<UrbworldEnforcer55>
+		<title>Urbworldの法の番人</title>
+		<titleShort>法の番人</titleShort>
+		<desc>NAMEは、古代Urbworldの法の番人でした。
+
+HEは、宮殿に住んでいる貪欲なUrbworldの貴族階級を守る為に、 地下深くにいる食人カルト集団を根絶やしにするという、人間性のもっとも悪いところに対処していました。</desc>
+	</UrbworldEnforcer55>
+	<GameFanatic49>
+		<title>ゲームマニア</title>
+		<titleShort>ゲーマー</titleShort>
+		<desc>NAMEは、ＶＲゲームで生き残ることを身につけたゲームマニアでした。
+
+かつて、現実社会でHIS才能を試そうと試みたとき、HEは、犯罪者集団によって誘拐され実験台にされました。HECAPは逃げ出しましたが、その経験は今も生きています。</desc>
+	</GameFanatic49>
+	<ToolMechanic40>
+		<title>ツールメカニック</title>
+		<titleShort>メカニック</titleShort>
+		<desc>NAMEは、埃まみれのRimworldで、有名なツールメカニックでした。
+
+スキャンダルによってHIS農園が閉鎖したあと、HEは生きる為や、物を作る、ナイフやハンマーを研ぐ為に部族に加わり、集落を巡って自分の商品を取引していました。</desc>
+	</ToolMechanic40>
+	<ClassClown20>
+		<title>クラスの人気者</title>
+		<titleShort>おどけ役</titleShort>
+		<desc>Glitterwolrdの優秀な進学校に在学している、NAMEは、いつも、緊張を紛らわすために、おどけ役をするよう誘われていました。</desc>
+	</ClassClown20>
+	<CraftShaper11>
+		<title>彫刻師</title>
+		<titleShort>彫師</titleShort>
+		<desc>NAMEは、料理する時間を惜しむあまり、食べ物は出前に頼んで、自分のスタジオに一年も閉じこもっています。
+
+ついには、HIS創作物は、SemanticWorldにおいて、HEに最も偉大な名誉をもたらしました。- あらゆるデザインを微細に実現する為に、最も進化したテクノロジーを使う許可</desc>
+	</CraftShaper11>
+	<CrimeBossChild12>
+		<title>ボスの子供</title>
+		<titleShort>犯罪少年</titleShort>
+		<desc>NAMEは、悪評高い犯罪者集団のボスの養子として引き取られました。HECAPは、ファミリービジネスにおける、密輸から工夫された殺しの方法まで、あらゆる面を叩き込まれました。
+
+ファミリーが襲撃されたとき、HIS父はHEに、隠された冷凍睡眠装置に入って隠れるよう指示しました。</desc>
+	</CrimeBossChild12>
+	<MercenaryLeader48>
+		<title>傭兵のリーダー</title>
+		<titleShort>傭兵</titleShort>
+		<desc>ひとり、NAMEは、HIS父のライフワークをやり直しました。HECAPは、小さな傭兵部隊のリーダーになって、指揮しようとチャレンジし、部隊を率いて貿易船をハイジャックして、積み荷を盗みました。
+
+HISCAP部下が反乱しました。HECAPは見捨てられ、取り押さえられ、死を宣告されました。</desc>
+	</MercenaryLeader48>
+	<SentimentalChild27>
+		<title>感情的な子供</title>
+		<titleShort>よい子</titleShort>
+		<desc>NAMEは、よい子でした。誰かが問題を抱えていると、HEは解決しようとします。しかし子供なので、いつも成功するとは限りません。このことが、HIS感情的な心を傷つけました。
+
+HECAPは、レイダーや、エイリアンと戦う兵士になる夢を持っていました。</desc>
+	</SentimentalChild27>
+	<SpecialForces72>
+		<title>特殊部隊</title>
+		<titleShort>特殊部隊</titleShort>
+		<desc>殺す大義をくれ - 正当な理由!
+
+Markusは、古参兵でした - HEは、好戦的な亜人間襲撃者と戦うために、特殊部隊の一員となりました。HECAPは、自分独りがヒーローだとは思っていません、HEは、部隊の中でHIS役目をきちんと果たす事と思っています。</desc>
+	</SpecialForces72>
+	<DustyFarmHand63>
+		<title>埃まみれの農夫</title>
+		<titleShort>農夫</titleShort>
+		<desc>両足で歩けるようになってからNAMEは、HIS家族が、乾燥した自分の土地の面倒をみているとき、HEは家畜や作物の世話を手伝ってきました。
+
+野良仕事はHIM頑健にしましたが、勉強する時間はありませんでした。</desc>
+	</DustyFarmHand63>
+	<DromedaryKnight31>
+		<title>ラクダ騎兵</title>
+		<titleShort>騎士</titleShort>
+		<desc>HIS世界の民の王、サンドキングの目に止まり、NAMEは、サンディボムラットに跨がって戦う方法を身につけさせられました。
+
+つねにラクダと一緒に過ごし、HEは、HIS砂の民に忠実でありました。</desc>
+	</DromedaryKnight31>
 	<HackerKid65>
 		<title>ハッカー少年</title>
 		<titleShort>ハッカー</titleShort>
@@ -2648,6 +3185,58 @@ HISCAP自然を巧みに操る能力は、観客にさえ悪夢のようでし�
 
 HECAPは、正面装備を集めるのに非常に取り憑かれており、しばしば、自分のオリジナル装備に変更を加えていました。</desc>
 	</BattleMechanic79>
+	<VideoGamer94>
+		<title>テレビゲーマー</title>
+		<titleShort>ゲーマー</titleShort>
+		<desc>NAMEは、Midworldに育ち、ほとんど、自分の部屋に閉じこもって、テレビゲームをしていました。HECAPは、動物への、深い愛情と思いやりを持っていました。
+
+HEが大きくなると、HEは、自分の本質を高める為にドラッグに手をだしました。そうしているときに、HEは情熱をみつけ、ジムに避難しました。</desc>
+	</VideoGamer94>
+	<DischargedSoldier81>
+        <title>除籍兵士</title>
+        <titleShort>兵士</titleShort>
+        <desc>Jeremyは、ドラッグを買う金の為に仲間を売りました。身をくらますために、HEは軍隊に入隊し、そこで戦い方を学びました。
+
+あまりにも利口だったので、HEは、しばしば上官の決定を疑問に思い、同意出来ませんでした。結局は、こういった事で、階級章を剥奪され、HEは懲戒除隊となりました。</desc>
+	</DischargedSoldier81>
+	<Student1>
+		<title>学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、化学と量子力学を、趣味で学んでいました。
+
+HECAPは、他の人を、説得して、身体を使った作業をさせることが、とても得意で、人生最後まで、手作業をすることはありませんでした。</desc>
+	</Student1>
+	<Chemist38>
+		<title>化学者</title>
+		<titleShort>化学者</titleShort>
+		<desc>NAMEは、化学を研究していました。HECAPは、医薬品から火薬類に至るまでの、新しい薬品の開発と扱う化学の仕事に従事していました。</desc>
+	</Chemist38>
+	<SuperSoldier19>
+		<title>超戦士</title>
+		<titleShort>戦士</titleShort>
+		<desc>NAMEが属してる政府は、実験的な、スーパー戦士を産み出すプログラムを始めました。1000人もの乳幼児が誘拐され、ドラッグと機械を使って心を調整されて、戦闘訓練をさせられました。
+
+ほとんどの幼児は死にましたが、NAMEは死にませんでした。HEは、6歳で初めて人を殺し、それからまもなく実践に投入されました</desc>
+	</SuperSoldier19>
+	<SuperSoldier81>
+		<title>超戦士</title>
+		<titleShort>戦士</titleShort>
+		<desc>今では退陣させられた政府が始めた、スーパー戦士育成プログラムの製品、NAMEは行方不明になりました。HECAPは、敵の母船への最後の体当たり攻撃で生き残りました。
+
+HIS人生で初めて、HEは命令も、作戦目的も持っていませんでした。HECAPは、挫折を源にして、不安な、自由に向かって努力しました。</desc>
+	</SuperSoldier81>
+	<HeadjackAddict49>
+		<title>神経プラグ中毒</title>
+		<titleShort>神経プラグ</titleShort>
+		<desc>神経プラグを経由してコンピューターとつながっている、NAMEは、人々やペットとより、コンピューター会社と関わっている方がよいことを発見しました。</desc>
+	</HeadjackAddict49>
+	<CorporateBuilder80>
+		<title>企業ビルダー</title>
+		<titleShort>ビルダー</titleShort>
+		<desc>HEは、自分の可能性を捨てた、自業自得で苦しんでいるのにも関わらず、NAMEは、HEが目的物を素早く動かすコツを持っていることに気がついた。それは、軌道防衛軍の工兵師団が欲しがっていたものでした。
+
+不幸にも、単調な作業が、HIS創造的インパルスを消去してしましました。</desc>
+	</CorporateBuilder80>
 	<UrbworldArmyBrat71>
 		<title>Urbworldの軍事オタク</title>
 		<titleShort>軍事オタク</titleShort>
@@ -2662,12 +3251,40 @@ HECAPは、銃や、装備に精通するようになりましたが、未だに
 
 最終的に、HEは、企業のお客様をつかむ事が出来ました。HECAPは、パワフルなライバルのような親友をたくさん作りました。</desc>
 	</MechanicsEngineer7>
+	<PlagueChild8>
+		<title>疾病児</title>
+		<titleShort>子供</titleShort>
+		<desc>伝染病により荒廃した世界に生まれ、NAMEの両親は医者でした。
+
+NAMEは、ヒポクラテス学派に下に、隔離施設で育ちました。HECAPは、わずかしか、人との交流を経験しませんでしたが、HEは、治療処置のアシスタントとして、多くの医学知識を得ました。</desc>
+	</PlagueChild8>
+	<PlagueDoctor99>
+		<title>疾病医</title>
+		<titleShort>医者</titleShort>
+		<desc>NAMEは、複数の伝染病が猛威を振るう世界で、つねにヒポクラテス学派の下に医療行為を提供していました。HECAPは、 複合的な医療行為を与えたり、新薬を開発する、隔離施設の状態を改善してきました。
+
+HECAPは普段から、仕事を離れて余暇に時間を使うことなどありませんでした。</desc>
+	</PlagueDoctor99>
+	<YoungMaster70>
+		<title>若いマスター</title>
+		<titleShort>マスター</titleShort>
+		<desc>両親が共に軍医の家庭に生まれた、NAMEは権力を切望しました。HISCAPの鋭い知能とカリスマは、HIS仲間達から尊敬を得るのに役立ちました。
+
+帝国軍隊の中で昇進することが、権力を得るのに一番良い方法であり、それが決め手となって、HEは、可能な年齢になった時、入隊しました。</desc>
+	</YoungMaster70>
+	<ImperialGeneral31>
+		<title>帝国将軍</title>
+		<titleShort>将軍</titleShort>
+		<desc>NAMEの権力への渇望が、HIM特徴付けました。HECAPは、するすると階級を上げ、すぐに、将軍の地位を手に入れました。
+
+HECAPは、もっとも取り組み甲斐のある任務を与えられました - 遠い未踏の惑星Rimworldを攻略する。勝利すれば、HEは、皇帝の後継者と同じ地位に、なれるかもしれませんでした。</desc>
+	</ImperialGeneral31>
 	<CaravanTraveler5>
 		<title>キャラバン旅行者</title>
 		<titleShort>旅行者</titleShort>
 		<desc>行商する家族に生まれ、NAMEは、商売のイロハをHIS父から教わりました。HECAPは、しばしば荷を背負った動物をひく仕事をしていました。
 
-HISの遊牧民的な生活のせいで、HEは、物々交換や、狩りで食料を手にしていました。</desc>
+HIS遊牧民的な生活のせいで、HEは、物々交換や、狩りで食料を手にしていました。</desc>
 	</CaravanTraveler5>
 	<Caravaneer77>
 		<title>キャラバン</title>
@@ -2676,6 +3293,348 @@ HISの遊牧民的な生活のせいで、HEは、物々交換や、狩りで食
 
 HECAPと、HIS隊員は成功しましたが、彼らの富は略奪者達の獲物になりました。彼らは、しばしば、強盗や略奪者を追い払うために、銃を手にとりました。</desc>
 	</Caravaneer77>
+	<FarmersSon51>
+		<title>農夫の息子</title>
+		<titleShort>農夫</titleShort>
+		<desc>Adeは、幼少時代の多くの時間を、このバイオームで農業を身につけることに費やしました。彼らは、異質なこのバイオーム環境下での、ベストな対応の仕方を詳しく調べることにより、家畜を維持してました。
+
+移動制限や、酸素供給システムの制限により、彼は、彼の家族以外の、外部の人を会うことは稀でした。</desc>
+	</FarmersSon51>
+	<RebelFighter79>
+		<title>反乱兵</title>
+		<titleShort>反乱者</titleShort>
+		<desc>内戦が勃発すると、政府軍によって彼のバイオームが爆撃されるまでは、Adeは、どちらの勢力からも中立な立場を取っていました。
+
+その後、彼が、政府軍リーダの豪華な別荘を、リーダーが中に居るまま焼き払った事から、彼の部隊は、彼に"生焼け(Rare)"のニックネームを与えました。</desc>
+	</RebelFighter79>
+	<WealthyStudent21>
+		<title>富裕学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、Glitterworldの裕福な家庭に生まれました。HECAPは、カスピアン工科大学で学び、数学とコンピュータプログラミングに優秀な成績を残しました。
+
+NAMEは、清潔で無菌環境で育ちました。HECAPは、農場や家畜を見たことがありません。</desc>
+	</WealthyStudent21>
+	<Roboticist20>
+		<title>ロボット専門家</title>
+		<titleShort>ロボット専門家</titleShort>
+		<desc>NAMEは、有機体より人工知能や、ロボット達と居るほうが、より快適に感じたので、HEはロボット専門家として働きました。HECAPは、古代のテクノロジーや機構に、特別な興味を惹かれました。
+
+NAMEは、HIS身の回りの世話を、他の人に頼っています。</desc>
+	</Roboticist20>
+	<StreetPeddler62>
+		<title>街の行商人</title>
+		<titleShort>行商人</titleShort>
+		<desc>強奪や路上強盗が当たり前の、Midworldの工業社会で育った、NAMEは、小さな安物の宝石作りや、マッチ売りで、家族の家計を手助けしていました。</desc>
+	</StreetPeddler62>
+	<PrivateDetective57>
+		<title>私立探偵</title>
+		<titleShort>探偵</titleShort>
+		<desc>私立探偵として、切れ味良い機転と、雄弁さは、NAMEの一番の武器でした。 HECAPは、よく、 浮気調査から、企業秘密の調査などの多岐に渡る夜業のケースや、殺人事件を解決するケース、犯罪組織への侵入捜査などをしていました。そうではないと、HEは決して適正価格では受けませんでした。</desc>
+	</PrivateDetective57>
+	<BodyguardTrainee27>
+		<title>見習いボディガード</title>
+		<titleShort>ボディガード</titleShort>
+		<desc>NAMEは、有名なスキルを持ったボディガードの家庭に生まれました。HISCAP母親達、エレナとビクトリアは、HIM多くの危険な状況に置き、HISクライアントに良く仕えるようにHIM訓練していました。
+
+NAMEは、ハーブや、自然界にある毒について、たくさん教えを受けたことが、クライアントを毒物から守ることに役立ちました。</desc>
+	</BodyguardTrainee27>
+	<SpaceBartender52>
+		<title>宇宙のバーテンダー</title>
+		<titleShort>バーテンダー</titleShort>
+		<desc>NAMEは、宇宙ステーションのバーテンダーになりました。HECAPは、大勢の流れ者と交流し、友人になりました。
+
+時が経ち、NAMEは、お客に出す奇妙なカクテルを創るために、HISハーブ知識を活用しました。</desc>
+	</SpaceBartender52>
+	<SpoiledChild65>
+		<title>甘やかされた子</title>
+		<titleShort>おぼっちゃま</titleShort>
+		<desc>NAMEは、勤勉な航宙技術師の子供でした。HISCAP両親は、手作業や危険な作業を禁止したので、HEは、そのかわりに音楽や絵画を身につけました。
+
+HECAPは動物が好きでしたが、HIS両親は、ペットを持たせませんでした - だけども、HEは、他の人が飼っているペット達とたくさん遊びました。</desc>
+	</SpoiledChild65>
+	<CosmeticSurgeon52>
+		<title>美容外科医</title>
+		<titleShort>外科医</titleShort>
+		<desc>NAMEは、HISイライラさせる性格がもとで、ひどい患者の扱い方をします。HECAPは、よくHIS患者を脅して美容整形を受けさせていました。HECAPは、こうして大金を稼いでいました。
+
+HIS仕事には、非常に熱心で注意深いのに、HEは、家の雑用をする為に、手をあげるようなことは一切しませんでした。</desc>
+	</CosmeticSurgeon52>
+	<Philosopher26>
+		<title>哲学者</title>
+		<titleShort>思想家</titleShort>
+		<desc>NAMEは、Glitterworldの学生でした。HECAPは、他の子供たちが、HIMを奇妙以上に思っていたので、学校では辛い時期を過ごしました。
+
+HECAPは常に、多くの人の関心を引くことによって、絶え間なく驚かされることから距離をおいて、不格好な生き方をおくっています。</desc>
+	</Philosopher26>
+	<UprightDiplomat83>
+		<title>外交官</title>
+		<titleShort>外交官</titleShort>
+		<desc>外交官として、NAMEは、血にまみれた辺境セクターの外交的課題に対処するよう指示されました。
+
+HECAPは、HIS領事艦 St. Anthem がレイダー艦隊によって攻撃を受けるまでは、終わりの無き戦いに終止符を打つことを願っていました。</desc>
+	</UprightDiplomat83>
+	<CaveChild67>
+		<title>洞窟児</title>
+		<titleShort>洞窟児</titleShort>
+		<desc>NAMEは、ツンドラ気候惑星の洞窟の中で育ち、「Wizards」として知られる旅一座のグループに養子として引き取られました。クルーと旅を続けてから、Wizardsは、HIM宇宙について驚くべき話を伝えました。
+
+ある日、Wizardsはスカベンジから戻って来ませんでした。何年も待った後、NAMEは、彼らを探しに宇宙へでました。</desc>
+	</CaveChild67>
+	<VideoProducer97>
+		<title>ビデオプロデューサー</title>
+		<titleShort>プロデューサー</titleShort>
+		<desc>あまりにも人間関係が不器用な、NAMEは、ビデオ制作の楽しみを見つけました。奇妙にも、人々は、彼の「完璧なホームコメディドラマ」を観て楽しんでいます。
+
+NAMEは、この長所を活かし、大勢に配信することで、Wizardsが接触してきて欲しいと思っていました。</desc>
+	</VideoProducer97>
+	<RangerChild91>
+		<title>レンジャー</title>
+		<titleShort>レンジャー</titleShort>
+		<desc>NAMEは、森の中で育ちました。HISCAP父は、獲物の狩り方や、土地の物を食べて暮らす方法を教えたので、HEは、父が死んだ後も、他の人の助けなしに生きて行けました。
+
+手作業に慣れていて、直感力を心に持っている、NAMEは、一人で生きていけるでしょう。</desc>
+	</RangerChild91>
+	<BushSniper97>
+		<title>藪の中の狙撃手</title>
+		<titleShort>狙撃手</titleShort>
+		<desc>NAMEの幸せな人生は、HIS祖国が残酷にも侵略された時に、あっけなく終わりました。
+
+NAMEは、HEが適齢になると直ぐに、軍に徴兵され、そこでライフル射撃に対する才能を見せ始めました。HECAPは、森の中で何ヶ月も過ごし、図々しくも国境を超えてくる敵兵を狙撃していました。</desc>
+	</BushSniper97>
+	<GlitterworldRoyal5>
+		<title>Glitterworld王家</title>
+		<titleShort>王族</titleShort>
+		<desc>NAMEは、Glitterworldの王家の家庭で成長しました。彼女は、若い頃から、他の惑星の王家に嫁げるように仕込まれてきました。
+
+不幸にも、彼女の悪い歯並びは、彼女を、求婚者としては望ましくない者にしたので、彼女は、苦しみ、怨むようになりました。</desc>
+	</GlitterworldRoyal5>
+	<PirateSympathizer24>
+		<title>宙賊のシンパ</title>
+		<titleShort>宙賊</titleShort>
+		<desc>NAMEは、若い頃より地下組織と繋がりを持っていました。そこで彼女は格闘技を訓練し、信頼された地下組織の顧問になりました。
+
+失敗した反乱に参加した後、彼女は、部隊の仲間と宇宙へ飛び立つ為に、母星を離れました。</desc>
+	</PirateSympathizer24>
+	<PlagueSurvivor48>
+		<title>伝染病生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>NAMEは、不可解な伝染病が街中に広がり、家族や友人を殺していくのを、じっと見ていました。
+
+HECAPは、伝染病を見てきた医者から、薬の存在をしりましたが、苦しい試練によって、精神的にダメージを受けました。</desc>
+	</PlagueSurvivor48>
+	<UnethicalDoctor97>
+		<title>悪徳医者</title>
+		<titleShort>医者</titleShort>
+		<desc>NAMEは、命を助け、薬を研究する医者になりました。HECAPは、HIS研究を前進させる唯一の方法は、直接、生身の人間を実験台に使う事だと、直ぐに悟りました。
+
+HECAPは、よくHIS実験の為に患者を使用します - 患者が望もうと望まざるとでも。</desc>
+	</UnethicalDoctor97>
+	<OffworldRecruit22>
+		<title>異世界の新兵</title>
+		<titleShort>新兵</titleShort>
+		<desc>NAMEは、異世界の兵士育成施設で生まれ、育ちました。非常に小さいうちから、HEは、近接戦闘術、侵略、遠い惑星での生き残り方などを教わりました。
+
+傑作の１つであり、NAMEはついに、軌道降下奇兵に選ばれました。</desc>
+	</OffworldRecruit22>
+	<ShockTrooper52>
+		<title>奇襲部隊</title>
+		<titleShort>奇襲部隊</titleShort>
+		<desc>NAMEは、様々な戦役で複数の惑星に配属された、深宇宙急襲部隊に所属していました。
+
+非常に危険な任務において、HIS部隊は全滅させられました。その日その戦場で何が起きたのか、知っている人は誰もいませんが、NAMEは、永遠に重荷を背負っていくでしょう。</desc>
+	</ShockTrooper52>
+	<ProdigalStudent39>
+		<title>ガリ勉学生</title>
+		<titleShort>学生</titleShort>
+		<desc>NAMEは、誠実な学生で、人間性や、それから作り出される事は、何でも勉強することを専念させられました。
+
+HEが、ガリ勉野郎として、つまはじきに、されているときも、HEは気にしませんでした。HECAPは、輝く将来を期待していました。</desc>
+	</ProdigalStudent39>
+	<CombatMedtech40>
+		<title>戦闘工兵</title>
+		<titleShort>衛生兵</titleShort>
+		<desc>医療工兵として、NAMEの任務は、HIS手で出来る事があれば、なんでも建設して修理することでした。
+
+危険地帯に派兵され、HEは、兵士の命を救うことや、勝つために必要な、テクノロジーを用いた機械を作ることには、なんの問題もありませんでした。</desc>
+	</CombatMedtech40>
+	<AdventurousYouth32>
+		<title>若い冒険家</title>
+		<titleShort>冒険家</titleShort>
+		<desc>NAMEは、HIS家族が所有する広大な地所の、地下墓地、川、洞窟のそばに隠れた、ちょっとした自然な不思議な物を発見する探検をしていました。
+
+ティーンエイジャーの時、NAMEは、おびただしい数の敵を作りました。</desc>
+	</AdventurousYouth32>
+	<TreasureHunter70>
+		<title>トレジャーハンター</title>
+		<titleShort>山師</titleShort>
+		<desc>NAMEは、希少な宝目当てに、銀河外郭の辺境惑星を探索していました。
+
+ある伝説的な彫刻を一体見つけたあと、HEは、部下たちに裏切られました。HECAPは、彼らの反逆行為からは、生き残りましたが、彫刻は奪われてしまいました。
+
+HECAPは、復讐を果たすのに役立つ、「アンビル傭兵派遣会社」を立ち上げました。</desc>
+	</TreasureHunter70>
+	<PilotFan99>
+		<title>パイロット志望</title>
+		<titleShort>パイロット志望</titleShort>
+		<desc>NAMEの父は、宇宙戦闘機乗りのパイロットで、HEはいつも、父さんを崇拝していました。
+
+若い時から、HEは、パイロット記念品を集めたり、パイロットになる本で勉強したり、HIS父の足跡をたどり、ディープスペースネイビィに入隊する準備をしていました。</desc>
+	</PilotFan99>
+	<StarfighterPilot54>
+		<title>戦闘機パイロット</title>
+		<titleShort>パイロット</titleShort>
+		<desc>１年もの訓練と座学の後に、NAMEは、ついに戦闘機パイロットになりました。
+
+数百もの作戦に参加した後、HEは飽きて、新しいスリルを探し始めました。HECAPは、HISパイロットスキル目当てに、HIM熱心に歓待する宙賊に加わりました。</desc>
+	</StarfighterPilot54>
+	<MedicalHelper65>
+		<title>医療助手</title>
+		<titleShort>助手</titleShort>
+		<desc>NAMEは、HIS家族と共に辺境の星々を渡り歩いていました。高名な医者であるNAMEの母は、よく、彼らの改造貨客医療船の船体について小言を言ってました。
+
+ときどき、家族は、特に貧しい患者への難しい長期間の医療行為に就いてました。そして、NAMEは、かれらが行ったであろう先々で助手をしました。</desc>
+	</MedicalHelper65>
+	<GangSoldier28>
+		<title>ギャング兵士</title>
+		<titleShort>兵士</titleShort>
+		<desc>三つ巴のレイダーに囲まれ、何年も生きてきたNAMEは、たくさんの困難に屈することはありませんでした: 宇宙船の船体崩壊、冬眠冷凍病、みすぼらしい埃だらけの惑星への着陸、元の健康を取り戻す迄の看病、いくつもの戦闘
+
+HECAPは、ついには、ギャングを支配下に置きました。</desc>
+	</GangSoldier28>
+	<CountryChild62>
+		<title>田舎の子供</title>
+		<titleShort>田舎者</titleShort>
+		<desc>NAMEは、神を敬い、産まれた地を愛して、育ちました。HECAPは、正真正銘の無骨な少年でした。HECAPは、常に敬意を得ようと、頼まれた以上に熱心に働いていました。</desc>
+	</CountryChild62>
+	<SpaceMarine80>
+		<title>宇宙海兵隊員</title>
+		<titleShort>海兵隊員</titleShort>
+		<desc>NAMEは、HIS惑星の為に戦い、星々を渡り歩く、惑星間海兵隊に入隊しました。HECAPは、幾つもの戦闘において、目覚しい活躍をしました。
+
+HISCAP経験した事は、彼の回りにいる人間に対して、彼を鈍感にさせ、彼の社交性を低下させました。しかし彼は戦い方を身につけました。</desc>
+	</SpaceMarine80>
+	<RebelWriter82>
+		<title>反抗的執筆家</title>
+		<titleShort>執筆家</titleShort>
+		<desc>早くから、NAMEは、もの書きの才能を発現しました。HECAPは、人気のあるオンラインジャーナルを書いていました - 匿名で、年齢を隠して - 生命倫理学から政治的見解や、新世界社会学の多岐にわたって。</desc>
+	</RebelWriter82>
+	<Adventurer17>
+		<title>冒険家</title>
+		<titleShort>冒険家</titleShort>
+		<desc>NAMEの飢えた冒険心は、HIM多くの惑星へと冒険に連れだしました。HECAPは、探求心から目新しい、わくわくする物を探しに、輝けるGlitterworldや、暗黒の戦争に満ちた有毒惑星を訪れました。
+
+HECAPは、出来ることだけ働き、簡単に金を得るために、しばしば倫理的境界線を超えたりもしました。全ての仕事のうちで、HEは、料理を最も嫌っています。</desc>
+	</Adventurer17>
+	<ExiledPrince89>
+		<title>追放王子</title>
+		<titleShort>王子</titleShort>
+		<desc>国王の一族である、NAMEは、HIS一族の不名誉から国外追放にされました。
+
+外国の地に住み、ほとんど独りで、HEは、ほとんどの時間を、家に閉じこもり、帽子を作ることに費やしていました。HECAPは、一日の平均して僅かな時間を、失った家族や友達を思う事に、使うことを見つけました。</desc>
+	</ExiledPrince89>
+	<BloodyWanderer51>
+		<title>Bloody 放浪者</title>
+		<titleShort>放浪者</titleShort>
+		<desc>NAMEは放浪者で、町から町へと旅し、生きるために、ハンパ仕事や、盗みをしていました。
+
+ある日、彼は、精神がおかしくなり、長いこと暴れまわり、街を壊し、多くの人を殺しました。HECAPは、やがて落ち着きを取り戻しましたが、HIS血に飢えた感情は、そのまま残りました。</desc>
+	</BloodyWanderer51>
+	<NewAgeDuelist36>
+		<title>新世代デュエリスト</title>
+		<titleShort>デュエリスト</titleShort>
+		<desc>NAMEは、戦うことに魅せられていました。HIS両親は、旅行がちだったので、HEは、多くの異なる格闘スタイル、第76代柔道から、悪名高い、'Urbworldスタイル空手'を見ることができました。
+
+礼儀正しい子供なので、殆どのファイターは、HISトレーニング中のリクエストにも答えてくれました - 寸止めはHIM退屈にさせましたが。</desc>
+	</NewAgeDuelist36>
+	<PirateDoctor33>
+		<title>悪徳医</title>
+		<titleShort>悪徳医</titleShort>
+		<desc>NAMEは、医学への情熱を持ち、苦もなく医学の学位を取得しました。資金不足の宙賊やテロリスト達は、HIS医療を受けることに死に物ぐるいで、HIS患者の生存率は50%でした。
+
+にもかかわらず、HIS楽天的な姿勢が、求めがあれば、治療しようと試みることに、HIM駆り立てました。前金で払う限りは...</desc>
+	</PirateDoctor33>
+	<SpoiledBrat84>
+		<title>甘やかされ坊主</title>
+		<titleShort>坊主</titleShort>
+		<desc>裕福な家庭に生まれ、NAMEは、何でも与えられたので、基本的倫理観や、人に依存しない性格形成に欠けていました。
+
+HECAPは、世界で最も優れた医者のうちの一人になることを待望されていました。</desc>
+	</SpoiledBrat84>
+	<BloodyDentist33>
+		<title>血に飢えた歯科医</title>
+		<titleShort>歯科医</titleShort>
+		<desc>有名な大学を出た後、NAMEの気弱な性格は、怒れる行政官からの重圧のせいでポッキリと折れてしまいました。HECAPは、秘密の殺人に浮かれ、多くの人を殺してきました。
+
+追求されると、HEは、HIS母星から、なんとか脱出し、新しい世界へと旅しています。</desc>
+	</BloodyDentist33>
+	<CowFarmer93>
+		<title>酪農家</title>
+		<titleShort>農夫</titleShort>
+		<desc>NAMEは、辺境の星(Rimworld)で育ち、HIS父から、毎日毎日、畑で働かされる虐待を受けていました。HEは、HIS父から逃げ出して、銀河を探検する夢がありました。
+
+ある日、トレーダーシップが頭上に来た時、HEは、ランチポッドの荷物と一緒に紛れて、宇宙へと脱出しました。</desc>
+	</CowFarmer93>
+	<MasterChef6>
+		<title>主任料理人</title>
+		<titleShort>シェフ</titleShort>
+		<desc>Glitterworld世界で、NAMEは、有名な料理店の皿洗いの仕事を見つけた後、徐々に頭角を表してきました。
+
+数年後、HIS経歴は、HEが市長の食事を準備中、誰かが食べ物を汚染した時に終焉を迎えました。仕事を失い、HEは、もう一度、仕事を探しに星を後にしました。</desc>
+	</MasterChef6>
+	<DiscardedYouth95>
+		<title>若い棄民</title>
+		<titleShort>棄民</titleShort>
+		<desc>NAMEは、ゴミの星で独りぽつんと育ちました。Glitterworldに回りにとりまくゴミの山が、不快な我が家でした。HEは、赤ん坊の頃、ペーストディスペンサーの吸口をしゃぶっていました。
+
+この絶望的な境遇が、不遇に立ち向かわせ、HEを生き残らせ、成功させました。</desc>
+	</DiscardedYouth95>
+	<Mercenary19>
+		<title>傭兵</title>
+		<titleShort>傭兵</titleShort>
+		<desc>彼の母星を脱出したあと、NAMEは、傭兵の一団と行動を共にしました。HECAPは、何年も、妹や弟たちの側に立って戦ってきました。
+
+ある日、彼らは、勝てなかった戦闘で包囲されました。退却することを拒否し、NAMEは、敵に撃たれました。HECAPは、不思議な事に傷ひとつない死体の山に気づき、怖くなりました。</desc>
+	</Mercenary19>
+	<DisasterSurvivor28>
+		<title>天災からの生存者</title>
+		<titleShort>生存者</titleShort>
+		<desc>NAMEの惑星が、小さな月と衝突しました。彼が知る母星の全てが破壊されま、彼の家族も全員死に絶えました。HECAPは、廃墟に残され、生きていきます。</desc>
+	</DisasterSurvivor28>
+	<ExplorerWriter37>
+		<title>探検小説家</title>
+		<titleShort>探検家</titleShort>
+		<desc>NAMEは、標本や、物語、調査資料を集めるために、惑星から惑星へと旅していました。
+
+HISCAP目標は、次世代のための、サバイバルガイドを出版するのに必要な知識を網羅することでした。</desc>
+	</ExplorerWriter37>
+	<RebelChild7>
+		<title>反乱軍少年兵</title>
+		<titleShort>反乱軍</titleShort>
+		<desc>NAMEは、独裁体制の下に生まれました。家族や社会から激しい圧力を受けたにもかかわらず、彼女は、自由と尊厳の為に戦うことを止めませんでした。
+
+彼女は、よく、家族でさえ彼女を正当に脅かそうとするような、絶望的な状況に置かれました。彼女は誰も信じられないことを学びました。</desc>
+	</RebelChild7>
+	<MilitiaSoldier83>
+		<title>民兵</title>
+		<titleShort>戦士</titleShort>
+		<desc>NAMEは、正義と平和のために民兵組織に加わりました。
+
+彼女の母星が、思いがけなく戦争によって破壊された後は、彼女は、新しい自由な生き方を、立て直す事のできる、隠れ家を探すために、長大な距離を旅しました。</desc>
+	</MilitiaSoldier83>
+	<MidworldCadet20>
+		<title>Midworld士官候補生</title>
+		<titleShort>士官候補生</titleShort>
+		<desc>宇宙間航行が栄えているMidworldのハイテク世界で育ち、NAMEは、星を出て、増大する宇宙空間の中で生きていきたいを望んでいました。
+
+HECAPは、勉学に優れ、HIS母星の中で最も名声のある海軍兵学校に入学する資格を得ました。</desc>
+	</MidworldCadet20>
+	<WarshipCaptain77>
+		<title>宇宙戦艦の艦長</title>
+		<titleShort>艦長</titleShort>
+		<desc>新型コルベット艦の司令官は数年に渡り、NAMEに、リーダーシップ、高等な技術テクニック、敵と敵対した時の冷静さを教えました。
+
+不幸なことに、NAMEは、自然と触れ合う事だけは、めったにしません。</desc>
+	</WarshipCaptain77>
 	<Punk70>
 		<title>パンク</title>
 		<titleShort>パンク</titleShort>
